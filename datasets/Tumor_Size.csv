@@ -1,0 +1,19 @@
+Tumor_size,Treatment,Gender
+46,Control,Men
+48,Control,Men
+52,Control,Men
+36,Drug A,Men
+38,Drug A,Men
+42,Drug A,Men
+26,Drug B,Men
+28,Drug B,Men
+32,Drug B,Men
+36,Control,Women
+38,Control,Women
+42,Control,Women
+26,Drug A,Women
+28,Drug A,Women
+32,Drug A,Women
+16,Drug B,Women
+18,Drug B,Women
+22,Drug B,Women
