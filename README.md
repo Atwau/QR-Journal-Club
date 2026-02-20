@@ -45,9 +45,8 @@ To contribute or access our training materials:
 2.  **Explore Data:** Check the `data/` directory for medical datasets.
 3.  **Scripts:** Look into the `scripts/` folder for our standardized analysis workflows.
 
----
 
-## "We Share Knowledge Generously"
+## Share Knowledge Generously
 If you have a script, a dataset, or a unique insight into a quantitative problem, we encourage you to open a Pull Request or start a Discussion. 
 
 **Contact:** [Dr. Atwau Pius](https://www.linkedin.com/in/pius-atwau-m-d/)
