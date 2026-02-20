@@ -2,12 +2,12 @@
 
 Welcome to the **QR Journal Club** repository. We are a community-driven platform dedicated to advancing technical proficiency and research excellence across multiple scientific domains. Our guiding principle is simple: **We Share Knowledge Generously.**
 
-## 🎯 Our Mission
+## Our Mission
 To bridge the gap between theoretical knowledge and practical application in quantitative research through peer-to-peer mentorship, hands-on training, and interdisciplinary collaboration.
 
----
 
-## 🧬 Core Focus Areas
+
+## Core Focus Areas
 
 Our club focuses on four primary pillars of quantitative inquiry:
 
@@ -26,9 +26,9 @@ Our club focuses on four primary pillars of quantitative inquiry:
 ### 4. Natural Sciences
 * **Focus:** Integration of quantitative methods into the broader physical and biological sciences to drive evidence-based discovery.
 
----
 
-## 🤝 How We Collaborate
+
+## How We Collaborate
 
 We believe that the best research happens when we break down silos. Our collaboration model includes:
 
@@ -37,9 +37,8 @@ We believe that the best research happens when we break down silos. Our collabor
 * **Mentorship:** Connecting seasoned quantitative researchers with students and early-career professionals.
 * **Resource Sharing:** Open-source datasets, scripts, and learning pathways.
 
----
 
-## 🚀 Getting Started
+## Getting Started
 
 To contribute or access our training materials:
 1.  **Clone the Repo:** `git clone https://github.com/Atwau/QR-Journal-Club.git`
@@ -48,7 +47,7 @@ To contribute or access our training materials:
 
 ---
 
-## 💡 "We Share Knowledge Generously"
+## "We Share Knowledge Generously"
 If you have a script, a dataset, or a unique insight into a quantitative problem, we encourage you to open a Pull Request or start a Discussion. 
 
-**Contact:** [Your Name/Email or Link to Socials]
+**Contact:** [Dr. Atwau Pius](https://www.linkedin.com/in/pius-atwau-m-d/)
