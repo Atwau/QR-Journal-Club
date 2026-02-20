@@ -33,9 +33,14 @@ use_virtualenv("python_in_R", required = TRUE)
 # 3. Import the Python module
 mds <- import("meddatasets")
 
-# 4. List available Python datasets
-all_py_datasets <- mds$get_available_datasets()
-print(all_py_datasets)
+# 4. List available datasets from meddatasets
+names(mds)
+datasets_mds <- mds$list_datasets()
+print(datasets_mds)
+
+# or
+py_list_attributes(mds)
+mds$DATASETS  # Accessing the DATASETS attributes
 
 # 5. Load and convert a Python dataset to an R DataFrame
 # Note: Use '$' to access Python methods
