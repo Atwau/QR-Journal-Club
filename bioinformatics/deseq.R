@@ -42,26 +42,39 @@ dds <- DESeqDataSetFromMatrix(countData = counts_table,
                               design = ~ group)
 
 
+#-------------------------------------------------------------------------------
+
 # 6. Filter out genes with low counts 
 # Keep genes with counts >= 10 in at least 3 samples
 keep <- rowSums(counts(dds) >= 10) >= 3
 dds <- dds[keep,]
 
+dds
+
 # 8. Run the DESeq2 analysis pipeline
 dds <- DESeq(dds, test="Wald", sfType="poscounts")
+?DESeq
 
 # 9. Extract and format the results
 deseq_results <- results(dds)
 deseq_results <- as.data.frame(deseq_results)
 
+view(deseq_results)
+
 # Add a column for gene names using the row names
 deseq_results$gene_name <- rownames(deseq_results)
+
+view(deseq_results)
 
 # Reorder the columns to bring gene_name first
 deseq_results <- subset(deseq_results, select = c("gene_name", "baseMean", "log2FoldChange", "lfcSE", "stat", "pvalue", "padj"))
 
+view(deseq_results)
+
 # Save the complete results to a file
-write.table(deseq_results, file="deseq_results.tsv", sep="\t", quote=FALSE, row.names=FALSE)
+write.table(deseq_results, file="bioinformatics/deseq_results.tsv", sep="\t", quote=FALSE, row.names=FALSE)
+
+#-------------------------------------------------------------------------------
 
 # 10. Filter for significantly differentially expressed genes
 # Criteria: adjusted p-value < 0.05 and absolute log2FoldChange >= 1
@@ -71,35 +84,52 @@ sig_genes <- subset(deseq_results, padj < 0.05 & abs(log2FoldChange) >= 1)
 sig_genes <- sig_genes[order(sig_genes$padj), ]
 
 # Save the significant genes to an output file
-write.table(sig_genes, file="significant_genes.tsv", sep="\t", quote=FALSE, row.names=FALSE)
+write.table(sig_genes, file="bioinformatics/significant_genes.tsv", sep="\t", quote=FALSE, row.names=FALSE)
 
-# --- Plotting Visualizations ---
+
+#===============================================================================
+# RESULTS VISUALIZATION
+#===============================================================================
 
 # 11. Histogram of adjusted P-values
-hist(deseq_results$padj, breaks=seq(0, 1, length=21), main="Histogram of padj", xlab="padj")
+hist(deseq_results$padj, breaks=seq(0, 1, length=21), 
+     main="Histogram of padj", xlab="padj")
+
+
+#-------------------------------------------------------------------------------
 
 # 12. Volcano Plot
-# Set plot margins and symbol size
-par(mar=c(4, 4, 4, 1), cex=1.5) 
+# Set clean, standard margins (Bottom, Left, Top, Right)
+par(mar=c(5, 5, 4, 2), cex=1.0) 
 
-# Plot all genes
+
+# Create the base plot
 plot(x = deseq_results$log2FoldChange, 
      y = -log10(deseq_results$padj), 
      main = "Volcano Plot", 
      xlab = "log2 Fold Change", 
      ylab = "-log10(padj)", 
      pch = 20, 
+     col = "gray40", # Light gray for non-significant points
      cex = 0.5)
 
-# Highlight significant genes (Downregulated in blue, Upregulated in red)
+# Add colored points for significance
 points(x = sig_genes$log2FoldChange, 
        y = -log10(sig_genes$padj), 
        pch = 20, 
        col = ifelse(sig_genes$log2FoldChange > 0, "red", "blue"), 
-       cex = 1)
+       cex = 0.7)
 
-# Add a legend for the highlighted genes
-legend("topleft", legend=c("Down", "Up"), pch=20, col=c("blue", "red"))
+# Add the legend (using bty="n" ensures no box covers the dots)
+legend("topright", 
+       legend = c("Downregulated", "Upregulated"), 
+       pch = 20, 
+       col = c("blue", "red"), 
+       bty = "n", 
+       cex = 0.4,
+       pt.cex = 1.2)
+
+#-------------------------------------------------------------------------------
 
 # 13. Extract Normalized Counts and Plot Heatmap
 # Extract normalized counts
@@ -116,3 +146,16 @@ mat <- assay(vsd)[top10_genes, ]
 
 # Plot the heatmap with row and column clustering
 pheatmap(mat, cluster_rows=TRUE, cluster_cols=TRUE)
+
+
+
+
+
+
+
+
+
+
+
+
+
