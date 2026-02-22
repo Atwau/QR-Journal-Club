@@ -1,8 +1,3 @@
----
-title: "pca_plot"
-output: html_document
----
-
 # PCA Plots in DESeq2 Analysis
 
 In the context of **DESeq2** (and transcriptomics generally), a **Principal Component Analysis (PCA)** plot is a fundamental quality control (QC) tool used to visualize the overall similarity between samples. It reduces the complexity of high-dimensional gene expression data into a 2D or 3D coordinate system.
