@@ -1,3 +1,14 @@
+#===============================================================================
+# DESeq analysis for RNA-seq data
+#===============================================================================
+
+# Reference materials
+# Original study:https://www.science.org/doi/10.1126/scisignal.adf1947
+# Raw data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203159
+
+#-------------------------------------------------------------------------------
+
+
 # 1. Load necessary libraries
 library(DESeq2)
 library(pheatmap)
@@ -7,11 +18,20 @@ library(tidyverse)
 # 2. Set working directory
 # Replace with the path to the directory containing your input files
 getwd()
-setwd("/home/.../") 
+setwd("/home/.../") # not necessary since I am working in R project
 
 # 3. Read in the count data and sample information
 counts_table <- read.csv("bioinformatics/raw_counts.tsv", sep="\t", row.names=1)
 sample_info <- read.csv("bioinformatics/design.tsv", sep="\t", row.names=1)
+
+# Inspecting raw counts and sample info imports
+glimpse(counts_table)
+head(counts_table)
+glimpse(sample_info)
+
+view(counts_table)
+view(sample_info)
+
 
 # 4. Set factor levels for the groups
 factors <- factor(sample_info$group)
