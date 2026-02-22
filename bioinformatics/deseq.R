@@ -148,14 +148,24 @@ mat <- assay(vsd)[top10_genes, ]
 pheatmap(mat, cluster_rows=TRUE, cluster_cols=TRUE)
 
 
+#-------------------------------------------------------------------------------
 
 
+# 14. PCA Plot (Optimized Formatting)
+pcaData <- plotPCA(vsd, intgroup = "group", returnData = TRUE)
+percentVar <- round(100 * attr(pcaData, "percentVar"))
 
-
-
-
-
-
-
-
-
+ggplot(pcaData, aes(x = PC1, y = PC2, color = group)) +
+  geom_point(size = 4, alpha = 0.8) + # Added slight transparency
+  scale_color_manual(values = c("control" = "blue", "tgf-beta" = "red")) +
+  xlab(paste0("PC1: ", percentVar[1], "% variance")) +
+  ylab(paste0("PC2: ", percentVar[2], "% variance")) +
+  # This line prevents the "squashed" look:
+  coord_fixed(ratio = (max(pcaData$PC1)-min(pcaData$PC1)) / (max(pcaData$PC2)-min(pcaData$PC2)) * 0.5) +
+  theme_bw() + 
+  theme(
+    panel.grid.minor = element_blank(),
+    aspect.ratio = 1, # Forces a square plot
+    legend.position = "right"
+  ) +
+  ggtitle("PCA: Control Vs Treatment")
