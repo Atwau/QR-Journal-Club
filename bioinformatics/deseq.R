@@ -34,20 +34,15 @@ view(sample_info)
 
 
 # 4. Set factor levels for the groups
-factors <- factor(sample_info$group)
-groups <- unique(sample_info$group)
-groups <- rev(groups) # Reverse to ensure the control group is set as the reference
-sample_info$group <- factors
+sample_info$group <- factor(sample_info$group, levels = c("control", "tgf-beta"))
 
 # 5. Create the DESeqDataSet object
 dds <- DESeqDataSetFromMatrix(countData = counts_table, 
                               colData = sample_info, 
                               design = ~ group)
 
-# 6. Set the reference level for the group factor to 'control'
-dds$group <- relevel(dds$group, ref = "control")
 
-# 7. Filter out genes with low counts 
+# 6. Filter out genes with low counts 
 # Keep genes with counts >= 10 in at least 3 samples
 keep <- rowSums(counts(dds) >= 10) >= 3
 dds <- dds[keep,]
