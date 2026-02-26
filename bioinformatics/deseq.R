@@ -82,6 +82,7 @@ sig_genes <- subset(deseq_results, padj < 0.05 & abs(log2FoldChange) >= 1)
 
 # Order the significant genes by their adjusted p-value
 sig_genes <- sig_genes[order(sig_genes$padj), ]
+view(sig_genes)
 
 # Save the significant genes to an output file
 write.table(sig_genes, file="bioinformatics/significant_genes.tsv", sep="\t", quote=FALSE, row.names=FALSE)
