@@ -3,6 +3,11 @@
 # GenomicRanges
 # IRanges
 # GenomicFeatures
+
+# Lawrence, M., Huber, W., Pagès, H., Aboyoun, P., Carlson, M., 
+# Gentleman, R., Morgan, M. T., & Carey, V. J. (2013). Software for computing 
+# and annotating genomic ranges. PLoS computational biology, 9(8), e1003118. 
+# https://doi.org/10.1371/journal.pcbi.1003118
 #===============================================================================
 
 library(GenomicRanges)
