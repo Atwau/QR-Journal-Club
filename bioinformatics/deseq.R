@@ -107,7 +107,7 @@ par(mar=c(5, 5, 4, 2), cex=1.0)
 # Create the base plot
 plot(x = deseq_results$log2FoldChange, 
      y = -log10(deseq_results$padj), 
-     main = "Volcano Plot", 
+     main = "Gene Expression Plot", 
      xlab = "log2 Fold Change", 
      ylab = "-log10(padj)", 
      pch = 20, 
