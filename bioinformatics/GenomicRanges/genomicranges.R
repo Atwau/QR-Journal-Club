@@ -1,6 +1,15 @@
 
+#===============================================================================
+# GenomicRanges
+# IRanges
+# GenomicFeatures
+#===============================================================================
+
 library(GenomicRanges)
 library(IRanges)
+library(GenomicFeatures)
+
+#-------------------------------------------------------------------------------
 
 # creating IRanges
 ir1 <- IRanges(c(1, 5, 10), c(3, 7, 15))
@@ -28,5 +37,6 @@ shift(ir2, shift = 4)
 
 
 # advanced operations
+# comparisons and overlaps
 ?findOverlaps
 findOverlaps(ir1, ir2)
