@@ -54,7 +54,7 @@ findOverlaps(ir1, ir2)
 library(BiocManager)
 BiocManager::install('karyoploteR')
 
-library(karyotype)# required to plot GRange objects
+library(karyoploteR)# required to plot GRange objects
 
 # creating GRange object
 gr1 <- GRanges(seqnames = 'chr1', strand = c('+', '-', '+'), 
@@ -66,7 +66,7 @@ plotGR(gr1)
 
 ?GRanges
 
-flank(gr1) # function creates new ranges that are located to the side of the 
+flank(gr1, start = T) # function creates new ranges that are located to the side of the 
 # original ranges. It is commonly used to isolate upstream regulatory regions or downstream termination regions.
 promoters(gr1) # extract the promoter region around the Transcription Start Site (TSS)
 
@@ -76,6 +76,7 @@ promoters(gr1) # extract the promoter region around the Transcription Start Site
 # 1. Define the genomic context (e.g., human genome hg19)
 # We limit it to chr1 since that is where gr1 is located
 kp <- plotKaryotype(genome = "hg19", chromosomes = "chr1")
+kp
 
 # 2. Plot your gr1 object
-plotGR(kp, data = gr1)
+kpPlotRegions(kp, data = gr1)
