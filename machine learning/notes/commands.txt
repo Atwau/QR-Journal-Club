@@ -1,0 +1,5 @@
+# Track record of the commands I have engaged with
+
+# Windows CMD
+# install anaconda from windows cmd
+wget install Anaconda.Anaconda3
