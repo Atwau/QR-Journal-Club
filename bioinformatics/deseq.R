@@ -21,7 +21,7 @@ getwd()
 setwd("/home/.../") # not necessary since I am working in R project
 
 # 3. Read in the count data and sample information
-counts_table <- read.csv("bioinformatics/raw_counts.tsv", sep="\t", row.names=1)
+counts_table <- read.csv("raw_counts.tsv", sep="\t", row.names=1)
 sample_info <- read.csv("bioinformatics/design.tsv", sep="\t", row.names=1)
 
 # Inspecting raw counts and sample info imports
@@ -31,6 +31,9 @@ glimpse(sample_info)
 
 view(counts_table)
 view(sample_info)
+
+# exporting count matrix
+write.csv(counts_table, file = 'assay_matrix.csv', row.names = F)
 
 
 # 4. Set factor levels for the groups
