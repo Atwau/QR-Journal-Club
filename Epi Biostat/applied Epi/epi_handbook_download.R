@@ -40,10 +40,10 @@ pak::pkg_install("appliedepi/epirhandbook")
 # loading the epirhandbook library
 library(epirhandbook)
 
+
+
 # download the offline handbook to your computer
 download_book()
-
-
 
 # download all the example data into a folder on your computer
 get_data("all")
