@@ -1,0 +1,2415 @@
+CHROM	POS	REF	ALT	ANN[0].EFFECT	ANN[0].IMPACT	ANN[0].GENE	ANN[0].HGVS_P
+Chromosome	1302	C	A	synonymous_variant	LOW	dnaA	p.Pro434Pro
+Chromosome	1977	A	G	upstream_gene_variant	MODIFIER	dnaN	
+Chromosome	2532	T	C	synonymous_variant	LOW	dnaN	p.Leu161Leu
+Chromosome	3965	G	A	missense_variant	MODERATE	recF	p.Gly229Asp
+Chromosome	4013	T	C	missense_variant	MODERATE	recF	p.Ile245Thr
+Chromosome	6112	G	C	missense_variant	MODERATE	gyrB	p.Met291Ile
+Chromosome	7362	G	C	missense_variant	MODERATE	gyrA	p.Glu21Gln
+Chromosome	7585	G	C	missense_variant	MODERATE	gyrA	p.Ser95Thr
+Chromosome	8452	C	T	missense_variant	MODERATE	gyrA	p.Ala384Val
+Chromosome	9143	T	C	synonymous_variant	LOW	gyrA	p.Ile614Ile
+Chromosome	9260	G	C	synonymous_variant	LOW	gyrA	p.Leu653Leu
+Chromosome	9304	G	A	missense_variant	MODERATE	gyrA	p.Gly668Asp
+Chromosome	11879	A	G	missense_variant	MODERATE	Rv0008c	p.Ser145Pro
+Chromosome	13175	A	G	synonymous_variant	LOW	Rv0010c	p.Asp128Asp
+Chromosome	13298	G	C	missense_variant	MODERATE	Rv0010c	p.Ile87Met
+Chromosome	13460	A	G	synonymous_variant	LOW	Rv0010c	p.Asp33Asp
+Chromosome	14401	A	G	missense_variant	MODERATE	Rv0012	p.Lys105Glu
+Chromosome	14785	T	C	missense_variant	MODERATE	Rv0012	p.Cys233Arg
+Chromosome	15088	C	T	missense_variant	MODERATE	trpG	p.Pro59Ser
+Chromosome	15117	C	G	missense_variant	MODERATE	trpG	p.Ile68Met
+Chromosome	16526	C	T	synonymous_variant	LOW	pknB	p.Gln315Gln
+Chromosome	21795	G	A	missense_variant	MODERATE	pstP	p.Pro463Ser
+Chromosome	21819	A	C	missense_variant	MODERATE	pstP	p.Ser455Ala
+Chromosome	22961	T	G	missense_variant	MODERATE	pstP	p.Asp74Ala
+Chromosome	23174	C	A	missense_variant	MODERATE	pstP	p.Arg3Leu
+Chromosome	24698	GCCGCGTTGCTCGGGGTAACCGCGTTGCTCGGGGTAACCGC	GCCGCGTTGCTCGGGGTAACCGC	conservative_inframe_deletion	MODERATE	fhaA	p.Gly237_Arg242del
+Chromosome	24716	A	G	synonymous_variant	LOW	fhaA	p.Gly243Gly
+Chromosome	26347	C	G	missense_variant	MODERATE	Rv0021c	p.Asp179His
+Chromosome	26959	C	G	upstream_gene_variant	MODIFIER	pstP	
+Chromosome	27199	G	A	stop_gained	HIGH	whiB5	p.Gln82*
+Chromosome	27469	A	G	upstream_gene_variant	MODIFIER	pstP	
+Chromosome	27473	G	T	upstream_gene_variant	MODIFIER	pstP	
+Chromosome	27996	T	C	synonymous_variant	LOW	Rv0023	p.Tyr134Tyr
+Chromosome	30980	CCG	CCGATCG	frameshift_variant	HIGH	Rv0026	p.Ala421fs
+Chromosome	31142	C	T	upstream_gene_variant	MODIFIER	Rv0021c	
+Chromosome	34044	T	C	upstream_gene_variant	MODIFIER	bioF2	
+Chromosome	34926	AGGCAAAGG	AGGCAAAGGGGCAAAGG	frameshift_variant	HIGH	bioF2	p.Asp214fs
+Chromosome	36538	T	C	synonymous_variant	LOW	bioF2	p.Ser748Ser
+Chromosome	37031	C	G	synonymous_variant	LOW	Rv0034	p.Ala55Ala
+Chromosome	39623	C	G	missense_variant	MODERATE	Rv0036c	p.Met69Ile
+Chromosome	39758	A	G	synonymous_variant	LOW	Rv0036c	p.His24His
+Chromosome	41151	C	A	missense_variant	MODERATE	Rv0037c	p.Ala18Ser
+Chromosome	42281	C	A	missense_variant	MODERATE	Rv0039c	p.Cys24Phe
+Chromosome	42967	G	C	synonymous_variant	LOW	mtc28	p.Pro133Pro
+Chromosome	43945	A	G	synonymous_variant	LOW	leuS	p.Val128Val
+Chromosome	46735	G	A	missense_variant	MODERATE	Rv0042c	p.Ala158Val
+Chromosome	49976	C	T	upstream_gene_variant	MODIFIER	Rv0042c	
+Chromosome	51949	A	G	missense_variant	MODERATE	Rv0048c	p.Val250Ala
+Chromosome	54394	A	G	synonymous_variant	LOW	ponA1	p.Ala244Ala
+Chromosome	55540	GCCGCCGCC	GCCGCCGCCTCCGCCGCC	disruptive_inframe_insertion	MODERATE	ponA1	p.Pro627_Pro629dup
+Chromosome	55553	C	T	missense_variant	MODERATE	ponA1	p.Pro631Ser
+Chromosome	59816	G	C	synonymous_variant	LOW	rplI	p.Leu136Leu
+Chromosome	59896	AT	A	frameshift_variant&start_lost	HIGH	Rv0057	p.Met1fs
+Chromosome	62049	A	G	missense_variant	MODERATE	dnaB	p.Arg552Gly
+Chromosome	64028	C	T	synonymous_variant	LOW	Rv0060	p.Pro40Pro
+Chromosome	65159	G	A	synonymous_variant	LOW	Rv0061c	p.Gly64Gly
+Chromosome	65663	C	G	missense_variant	MODERATE	celA1	p.His38Asp
+Chromosome	66892	C	G	upstream_gene_variant	MODIFIER	Rv0061c	
+Chromosome	68174	T	C	missense_variant	MODERATE	Rv0063	p.Ser418Pro
+Chromosome	69989	G	A	missense_variant	MODERATE	Rv0064	p.Gly457Asp
+Chromosome	70267	G	T	missense_variant	MODERATE	Rv0064	p.Val550Phe
+Chromosome	70816	A	G	missense_variant	MODERATE	Rv0064	p.Asn733Asp
+Chromosome	71584	CCG	CCGAGCGCTGTTCTGGCGCTAATCTGACGCTAGAATAGCG	upstream_gene_variant	MODIFIER	vapB1	
+Chromosome	74737	T	G	missense_variant	MODERATE	Rv0067c	p.Glu154Asp
+Chromosome	75233	C	A	upstream_gene_variant	MODIFIER	icd2	
+Chromosome	75940	G	C	missense_variant	MODERATE	Rv0068	p.Val214Leu
+Chromosome	79281	CCCACATC	CCCACATCCACATC	upstream_gene_variant	MODIFIER	icd2	
+Chromosome	79479	T	C	upstream_gene_variant	MODIFIER	icd2	
+Chromosome	79504	TCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGAC	TCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGACCCGGTGGAC	conservative_inframe_insertion	MODERATE	Rv0071	p.Pro19_Asp24dup
+Chromosome	80616	C	G	upstream_gene_variant	MODIFIER	sdaA	
+Chromosome	82843	TCCC	TCC	frameshift_variant	HIGH	Rv0074	p.Val34fs
+Chromosome	83343	C	T	missense_variant	MODERATE	Rv0074	p.Pro199Leu
+Chromosome	89200	G	T	missense_variant	MODERATE	Rv0080	p.Gly60Val
+Chromosome	89871	C	T	synonymous_variant	LOW	Rv0081	p.Asp99Asp
+Chromosome	92199	T	G	synonymous_variant	LOW	Rv0083	p.Thr600Thr
+Chromosome	97696	T	C	upstream_gene_variant	MODIFIER	Rv0089	
+Chromosome	98966	G	C	missense_variant	MODERATE	Rv0090	p.Ala163Pro
+Chromosome	103600	A	G	missense_variant	MODERATE	Rv0093c	p.Cys22Arg
+Chromosome	103836	G	T	missense_variant	MODERATE	Rv0094c	p.Asn276Lys
+Chromosome	103840	T	C	missense_variant	MODERATE	Rv0094c	p.His275Arg
+Chromosome	103968	G	A	synonymous_variant	LOW	Rv0094c	p.Asp232Asp
+Chromosome	103971	A	G	synonymous_variant	LOW	Rv0094c	p.Cys231Cys
+Chromosome	103974	G	A	synonymous_variant	LOW	Rv0094c	p.Gly230Gly
+Chromosome	104472	T	C	synonymous_variant	LOW	Rv0094c	p.Leu64Leu
+Chromosome	104475	C	G	synonymous_variant	LOW	Rv0094c	p.Arg63Arg
+Chromosome	104478	T	C	synonymous_variant	LOW	Rv0094c	p.Ser62Ser
+Chromosome	104712	C	T	upstream_gene_variant	MODIFIER	Rv0093c	
+Chromosome	104824	C	A	missense_variant	MODERATE	Rv0095c	p.Ser131Ile
+Chromosome	105045	G	C	missense_variant	MODERATE	Rv0095c	p.Asp57Glu
+Chromosome	106126	T	C	missense_variant	MODERATE	PPE1	p.Leu268Pro
+Chromosome	115499	T	G	synonymous_variant	LOW	nrp	p.Arg1833Arg
+Chromosome	116000	T	G	synonymous_variant	LOW	nrp	p.Val2000Val
+Chromosome	122109	A	G	missense_variant	MODERATE	ctpB	p.Leu22Ser
+Chromosome	123520	T	C	missense_variant	MODERATE	Rv0104	p.Tyr402His
+Chromosome	123740	TG	T	frameshift_variant	HIGH	Rv0104	p.His476fs
+Chromosome	125830	GAAAA	GAAAAA	frameshift_variant	HIGH	ctpI	p.Ser1571fs
+Chromosome	126803	A	G	missense_variant	MODERATE	ctpI	p.Ser1247Pro
+Chromosome	126853	G	A	missense_variant	MODERATE	ctpI	p.Ala1230Val
+Chromosome	131174	TGG	TGGG	upstream_gene_variant	MODIFIER	ctpI	
+Chromosome	132417	C	G	missense_variant	MODERATE	PE_PGRS1	p.Arg346Gly
+Chromosome	132646	G	T	missense_variant	MODERATE	PE_PGRS1	p.Gly422Val
+Chromosome	133839	C	T	upstream_gene_variant	MODIFIER	ctpI	
+Chromosome	137233	C	T	synonymous_variant	LOW	gca	p.Ala315Ala
+Chromosome	137673	G	A	missense_variant	MODERATE	gmhA	p.Ala119Thr
+Chromosome	139556	ACCC	ACCCC	frameshift_variant	HIGH	hddA	p.Val350fs
+Chromosome	139756	T	C	upstream_gene_variant	MODIFIER	oxyS	
+Chromosome	139954	A	C	upstream_gene_variant	MODIFIER	oxyS	
+Chromosome	143207	T	C	missense_variant	MODERATE	oxcA	p.Ser224Gly
+Chromosome	144433	C	G	missense_variant	MODERATE	fadD7	p.Pro129Ala
+Chromosome	144434	C	T	missense_variant	MODERATE	fadD7	p.Pro129Leu
+Chromosome	144564	C	T	synonymous_variant	LOW	fadD7	p.Ile172Ile
+Chromosome	146087	T	C	missense_variant	MODERATE	fusA2	p.Asn562Ser
+Chromosome	146788	G	A	synonymous_variant	LOW	fusA2	p.Val328Val
+Chromosome	146872	C	T	synonymous_variant	LOW	fusA2	p.Gln300Gln
+Chromosome	147970	C	T	missense_variant	MODERATE	Rv0121c	p.Val125Ile
+Chromosome	149271	T	C	upstream_gene_variant	MODIFIER	fusA2	
+Chromosome	149983	G	C	missense_variant	MODERATE	PE_PGRS2	p.Gly151Arg
+Chromosome	154191	A	G	upstream_gene_variant	MODIFIER	mak	
+Chromosome	154283	T	C	missense_variant	MODERATE	mak	p.Ser18Pro
+Chromosome	160976	C	G	missense_variant	MODERATE	Rv0133	p.Asn36Lys
+Chromosome	162226	G	A	stop_gained	HIGH	ephF	p.Trp152*
+Chromosome	167986	C	T	synonymous_variant	LOW	Rv0142	p.Asp92Asp
+Chromosome	168787	C	T	missense_variant	MODERATE	Rv0143c	p.Val466Ile
+Chromosome	170523	TCCCCC	TCCCC	frameshift_variant	HIGH	Rv0144	p.Pro82fs
+Chromosome	177175	G	C	upstream_gene_variant	MODIFIER	Rv0150c	
+Chromosome	177857	G	A	synonymous_variant	LOW	PE1	p.Leu485Leu
+Chromosome	179462	T	C	missense_variant	MODERATE	PE2	p.Thr479Ala
+Chromosome	188800	T	C	missense_variant	MODERATE	PE3	p.Thr14Ala
+Chromosome	189948	C	G	missense_variant	MODERATE	PE4	p.Lys164Asn
+Chromosome	194040	C	A	missense_variant	MODERATE	TB18.5	p.Leu139Met
+Chromosome	194305	C	CGG	frameshift_variant	HIGH	mce1R	p.Gly171fs
+Chromosome	194681	G	C	synonymous_variant	LOW	mce1R	p.Leu45Leu
+Chromosome	195360	T	C	missense_variant	MODERATE	fadD5	p.Val123Ala
+Chromosome	196642	C	T	synonymous_variant	LOW	fadD5	p.Asn550Asn
+Chromosome	196874	C	T	missense_variant	MODERATE	yrbE1A	p.Thr5Ile
+Chromosome	199470	T	G	missense_variant	MODERATE	mce1A	p.Ser313Ala
+Chromosome	200379	C	T	missense_variant	MODERATE	mce1B	p.Ala162Val
+Chromosome	202886	G	C	missense_variant	MODERATE	mce1D	p.Glu137Asp
+Chromosome	206339	T	C	missense_variant	MODERATE	mce1F	p.Leu370Pro
+Chromosome	206481	C	G	synonymous_variant	LOW	mce1F	p.Pro417Pro
+Chromosome	206484	G	T	synonymous_variant	LOW	mce1F	p.Gly418Gly
+Chromosome	208316	ATT	AT	frameshift_variant	HIGH	Rv0176	p.Gln290fs
+Chromosome	208321	G	GC	frameshift_variant	HIGH	Rv0176	p.Ser291fs
+Chromosome	208322	T	G	missense_variant	MODERATE	Rv0176	p.Ser291Ala
+Chromosome	211993	C	A	missense_variant	MODERATE	Rv0180c	p.Lys86Asn
+Chromosome	215238	C	T	synonymous_variant	LOW	Rv0184	p.Asp90Asp
+Chromosome	216853	C	T	synonymous_variant	LOW	bglS	p.Gly195Gly
+Chromosome	217201	T	C	synonymous_variant	LOW	bglS	p.Asn311Asn
+Chromosome	223747	CGGGG	CGGGGG	frameshift_variant	HIGH	Rv0192	p.Gly65fs
+Chromosome	223942	T	C	missense_variant	MODERATE	Rv0192	p.Ser127Pro
+Chromosome	225315	G	A	synonymous_variant	LOW	Rv0193c	p.Pro419Pro
+Chromosome	225323	T	C	missense_variant	MODERATE	Rv0193c	p.Lys417Glu
+Chromosome	225668	C	T	missense_variant	MODERATE	Rv0193c	p.Gly302Ser
+Chromosome	226676	G	A	upstream_gene_variant	MODIFIER	ilvD	
+Chromosome	227098	T	C	missense_variant	MODERATE	Rv0194	p.Met74Thr
+Chromosome	230576	GT	GTT	upstream_gene_variant	MODIFIER	Rv0193c	
+Chromosome	231114	C	G	synonymous_variant	LOW	Rv0195	p.Ala72Ala
+Chromosome	233358	A	C	synonymous_variant	LOW	Rv0197	p.Val376Val
+Chromosome	233364	G	C	missense_variant	MODERATE	Rv0197	p.Arg378Ser
+Chromosome	234477	T	G	stop_gained	HIGH	Rv0197	p.Tyr749*
+Chromosome	234496	C	CGT	frameshift_variant	HIGH	Rv0197	p.Pro756fs
+Chromosome	235681	G	A	missense_variant	MODERATE	zmp1	p.Ala276Val
+Chromosome	236512	C	T	upstream_gene_variant	MODIFIER	zmp1	
+Chromosome	241465	G	A	upstream_gene_variant	MODIFIER	zmp1	
+Chromosome	243598	A	G	missense_variant	MODERATE	Rv0205	p.His72Arg
+Chromosome	244550	A	G	synonymous_variant	LOW	mmpL3	p.Arg923Arg
+Chromosome	251575	G	A	missense_variant	MODERATE	Rv0210	p.Ala486Thr
+Chromosome	251668	A	G	upstream_gene_variant	MODIFIER	mmpL3	
+Chromosome	251669	T	C	upstream_gene_variant	MODIFIER	mmpL3	
+Chromosome	254903	C	A	missense_variant	MODERATE	Rv0213c	p.Gly350Cys
+Chromosome	257301	CCGTCGGCGACGTCGGC	CCGTCGGC	conservative_inframe_deletion	MODERATE	fadD4	p.Asp416_Gly418del
+Chromosome	257788	G	GAGGATCATCAAGGGTGCGTCGCGGAAGTA	frameshift_variant	HIGH	fadE3	p.Arg357fs
+Chromosome	260282	G	T	missense_variant	MODERATE	lipW	p.Pro184Thr
+Chromosome	261869	T	C	missense_variant	MODERATE	Rv0218	p.Cys316Arg
+Chromosome	263057	T	G	synonymous_variant	LOW	lipC	p.Arg82Arg
+Chromosome	263149	A	C	missense_variant	MODERATE	lipC	p.Glu113Ala
+Chromosome	264298	C	A	missense_variant	MODERATE	Rv0221	p.Gln78Lys
+Chromosome	264984	C	G	synonymous_variant	LOW	Rv0221	p.Thr306Thr
+Chromosome	265170	CGGG	CGG	frameshift_variant	HIGH	Rv0221	p.Gln370fs
+Chromosome	265554	A	C	synonymous_variant	LOW	echA1	p.Val16Val
+Chromosome	272678	C	T	synonymous_variant	LOW	Rv0227c	p.Ala54Ala
+Chromosome	273568	G	T	missense_variant	MODERATE	Rv0228	p.Ala172Ser
+Chromosome	278681	C	G	missense_variant	MODERATE	nrdB	p.His33Asp
+Chromosome	281454	C	A	synonymous_variant	LOW	Rv0235c	p.Arg387Arg
+Chromosome	282604	A	T	missense_variant	MODERATE	Rv0235c	p.Phe4Tyr
+Chromosome	283614	T	C	missense_variant	MODERATE	aftD	p.Ser1080Gly
+Chromosome	285772	A	C	synonymous_variant	LOW	aftD	p.Pro360Pro
+Chromosome	285871	A	G	synonymous_variant	LOW	aftD	p.Val327Val
+Chromosome	290374	T	C	missense_variant	MODERATE	htdX	p.His94Arg
+Chromosome	291977	G	A	missense_variant	MODERATE	fabG4	p.Pro18Leu
+Chromosome	293628	ACCCCC	ACCCCCC	upstream_gene_variant	MODIFIER	htdX	
+Chromosome	294170	G	A	synonymous_variant	LOW	fadE5	p.Gly488Gly
+Chromosome	297396	G	A	synonymous_variant	LOW	Rv0246	p.Ser196Ser
+Chromosome	301356	T	G	synonymous_variant	LOW	Rv0249c	p.Gly100Gly
+Chromosome	303414	C	T	synonymous_variant	LOW	nirB	p.Phe183Phe
+Chromosome	304923	A	G	synonymous_variant	LOW	nirB	p.Lys686Lys
+Chromosome	308312	G	A	synonymous_variant	LOW	PPE2	p.Thr412Thr
+Chromosome	309765	C	T	stop_gained	HIGH	Rv0257	p.Arg23*
+Chromosome	310973	G	A	missense_variant	MODERATE	Rv0259c	p.Ala182Val
+Chromosome	311613	G	T	synonymous_variant	LOW	Rv0260c	p.Val349Val
+Chromosome	319597	C	T	missense_variant	MODERATE	oplA	p.Ala520Thr
+Chromosome	320180	A	G	synonymous_variant	LOW	oplA	p.Ile325Ile
+Chromosome	325505	T	C	synonymous_variant	LOW	fadD2	p.Val313Val
+Chromosome	326002	A	G	missense_variant	MODERATE	fadD2	p.Asp479Gly
+Chromosome	331588	G	A	missense_variant	MODERATE	Rv0275c	p.Ser24Leu
+Chromosome	333212	G	C	upstream_gene_variant	MODIFIER	fadE6	
+Chromosome	333292	A	G	upstream_gene_variant	MODIFIER	fadE6	
+Chromosome	339508	C	T	synonymous_variant	LOW	PPE3	p.Leu49Leu
+Chromosome	340372	T	C	missense_variant	MODERATE	PPE3	p.Ser337Pro
+Chromosome	342146	A	C	missense_variant	MODERATE	eccA3	p.Glu6Ala
+Chromosome	343281	G	C	synonymous_variant	LOW	eccA3	p.Ala384Ala
+Chromosome	344288	C	G	synonymous_variant	LOW	eccB3	p.Ser89Ser
+Chromosome	346275	C	G	missense_variant	MODERATE	eccC3	p.Pro214Arg
+Chromosome	350489	G	C	synonymous_variant	LOW	PPE4	p.Ala185Ala
+Chromosome	351875	G	A	missense_variant	MODERATE	esxH	p.Ala10Thr
+Chromosome	356528	A	G	missense_variant	MODERATE	eccE3	p.Asn217Asp
+Chromosome	357582	G	A	synonymous_variant	LOW	Rv0293c	p.His161His
+Chromosome	367471	G	A	missense_variant	MODERATE	PPE5	p.Ser1765Phe
+Chromosome	368087	AGCTGCCGGTGTTGATGCTGCCGGTGTTGATGCTGCCGGTGTTG	AGCTGCCGGTGTTGATGCTGCCGGTGTTG	conservative_inframe_deletion	MODERATE	PPE5	p.Asn1546_Ile1550del
+Chromosome	368353	C	T	missense_variant	MODERATE	PPE5	p.Gly1471Glu
+Chromosome	368948	T	C	missense_variant	MODERATE	PPE5	p.Ile1273Val
+Chromosome	372149	G	A	synonymous_variant	LOW	PPE5	p.Leu206Leu
+Chromosome	372913	A	C	synonymous_variant	LOW	PPE6	p.Gly933Gly
+Chromosome	373282	TAA	TA	frameshift_variant	HIGH	PPE6	p.Leu810fs
+Chromosome	375095	C	G	missense_variant	MODERATE	PPE6	p.Gly206Ala
+Chromosome	376774	T	C	synonymous_variant	LOW	Rv0307c	p.Ala94Ala
+Chromosome	378357	T	G	missense_variant	MODERATE	Rv0309	p.Ser143Ala
+Chromosome	378939	G	C	synonymous_variant	LOW	Rv0310c	p.Arg70Arg
+Chromosome	381030	A	G	missense_variant	MODERATE	Rv0312	p.Ser159Gly
+Chromosome	382822	G	A	synonymous_variant	LOW	Rv0313	p.Leu111Leu
+Chromosome	384380	A	C	missense_variant	MODERATE	Rv0315	p.Lys260Thr
+Chromosome	386432	C	G	missense_variant	MODERATE	Rv0318c	p.Gly223Ala
+Chromosome	390828	T	C	missense_variant	MODERATE	Rv0323c	p.Ser142Gly
+Chromosome	391853	A	G	missense_variant	MODERATE	Rv0324	p.Thr168Ala
+Chromosome	392261	T	C	stop_lost&splice_region_variant	HIGH	Rv0325	p.Ter75Glnext*?
+Chromosome	393941	C	T	missense_variant	MODERATE	cyp135A1	p.Met35Ile
+Chromosome	396750	G	A	missense_variant	MODERATE	Rv0331	p.Val184Ile
+Chromosome	397071	A	G	missense_variant	MODERATE	Rv0331	p.Thr291Ala
+Chromosome	399909	TGGG	TGG	frameshift_variant	HIGH	PE6	p.Arg48fs
+Chromosome	400736	A	G	missense_variant	MODERATE	Rv0336	p.Gln182Arg
+Chromosome	403980	G	A	missense_variant	MODERATE	Rv0338c	p.Ala621Val
+Chromosome	404326	T	C	missense_variant	MODERATE	Rv0338c	p.Arg506Gly
+Chromosome	406023	G	C	missense_variant	MODERATE	Rv0339c	p.Ser809Cys
+Chromosome	406274	T	C	synonymous_variant	LOW	Rv0339c	p.Ala725Ala
+Chromosome	406599	G	A	missense_variant	MODERATE	Rv0339c	p.Ser617Leu
+Chromosome	412280	T	G	missense_variant	MODERATE	iniA	p.His481Gln
+Chromosome	414486	C	T	synonymous_variant	LOW	lpqJ	p.Glu152Glu
+Chromosome	416475	CA	CAA	frameshift_variant	HIGH	ansP2	p.Trp164fs
+Chromosome	420008	A	G	synonymous_variant	LOW	dnaK	p.Ala58Ala
+Chromosome	420405	C	T	missense_variant	MODERATE	dnaK	p.Arg191Cys
+Chromosome	424250	A	G	downstream_gene_variant	MODIFIER	Rv0349	
+Chromosome	424320	TCC	TCCC	frameshift_variant	HIGH	PPE7	p.Ile126fs
+Chromosome	424790	CT	CTAT	frameshift_variant	HIGH	PPE8	p.Arg3297fs
+Chromosome	424932	T	A	missense_variant	MODERATE	PPE8	p.Ile3250Phe
+Chromosome	426768	C	T	missense_variant	MODERATE	PPE8	p.Gly2638Ser
+Chromosome	427310	TTGCCGAGGTTTGCACTGCCGAGGTTTGCACTGCCGAGGTTTGCACTGCCGAGGTTTGCACTGCC	TTGCCGAGGTTTGCACTGCCGAGGTTTGCACTGCCGAGGTTTGCACTGCC	conservative_inframe_deletion	MODERATE	PPE8	p.Gly2436_Leu2440del
+Chromosome	428384	C	T	missense_variant	MODERATE	PPE8	p.Gly2099Asp
+Chromosome	428698	C	T	synonymous_variant	LOW	PPE8	p.Ala1994Ala
+Chromosome	434327	A	G	missense_variant	MODERATE	PPE8	p.Val118Ala
+Chromosome	438271	G	A	missense_variant	MODERATE	Rv0359	p.Ala252Thr
+Chromosome	439711	T	C	upstream_gene_variant	MODIFIER	Rv0356c	
+Chromosome	440510	G	T	missense_variant	MODERATE	mgtE	p.Val214Phe
+Chromosome	442988	G	A	synonymous_variant	LOW	Rv0364	p.Leu198Leu
+Chromosome	445400	C	T	missense_variant	MODERATE	Rv0368c	p.Ala376Thr
+Chromosome	445780	C	T	missense_variant	MODERATE	Rv0368c	p.Arg249His
+Chromosome	446747	C	T	synonymous_variant	LOW	Rv0369c	p.Val100Val
+Chromosome	447442	C	T	missense_variant	MODERATE	Rv0370c	p.Gly201Glu
+Chromosome	447525	G	C	missense_variant	MODERATE	Rv0370c	p.Ile173Met
+Chromosome	451029	C	A	missense_variant	MODERATE	Rv0373c	p.Asp259Tyr
+Chromosome	452288	C	T	upstream_gene_variant	MODIFIER	Rv0370c	
+Chromosome	453659	C	A	synonymous_variant	LOW	Rv0376c	p.Thr238Thr
+Chromosome	454295	T	C	synonymous_variant	LOW	Rv0376c	p.Pro26Pro
+Chromosome	455325	C	G	missense_variant	MODERATE	Rv0377	p.Pro302Arg
+Chromosome	455329	T	C	synonymous_variant	LOW	Rv0377	p.Gly303Gly
+Chromosome	456487	C	A	synonymous_variant	LOW	Rv0380c	p.Pro111Pro
+Chromosome	456511	G	A	synonymous_variant	LOW	Rv0380c	p.Thr103Thr
+Chromosome	457452	T	G	synonymous_variant	LOW	Rv0381c	p.Thr124Thr
+Chromosome	459399	A	C	upstream_gene_variant	MODIFIER	Rv0380c	
+Chromosome	466848	TGGCAGCCGGG	TG	conservative_inframe_deletion	MODERATE	Rv0387c	p.Pro184_Ala186del
+Chromosome	467497	CGGG	CGGGG	frameshift_variant	HIGH	PPE9	p.Ala169fs
+Chromosome	467508	CG	CGG	frameshift_variant	HIGH	PPE9	p.Arg165fs
+Chromosome	467516	G	C	synonymous_variant	LOW	PPE9	p.Ser162Ser
+Chromosome	467526	C	G	missense_variant	MODERATE	PPE9	p.Gly159Ala
+Chromosome	467546	G	C	missense_variant	MODERATE	PPE9	p.Asp152Glu
+Chromosome	467557	A	C	missense_variant	MODERATE	PPE9	p.Leu149Val
+Chromosome	467564	A	C	missense_variant	MODERATE	PPE9	p.His146Gln
+Chromosome	467585	G	C	missense_variant	MODERATE	PPE9	p.His139Gln
+Chromosome	467590	T	C	missense_variant	MODERATE	PPE9	p.Thr138Ala
+Chromosome	467621	T	G	synonymous_variant	LOW	PPE9	p.Gly127Gly
+Chromosome	467638	G	T	missense_variant	MODERATE	PPE9	p.Gln122Lys
+Chromosome	468357	A	G	missense_variant	MODERATE	purT	p.Glu8Gly
+Chromosome	469042	C	T	synonymous_variant	LOW	purT	p.Asn236Asn
+Chromosome	471666	A	G	missense_variant	MODERATE	ndhA	p.Met325Thr
+Chromosome	475178	T	C	missense_variant	MODERATE	Rv0395	p.Val80Ala
+Chromosome	483935	T	G	upstream_gene_variant	MODIFIER	fadE7	
+Chromosome	485230	C	T	synonymous_variant	LOW	fadD30	p.His418His
+Chromosome	485785	T	G	missense_variant	MODERATE	pks6	p.Leu19Val
+Chromosome	487996	G	A	missense_variant	MODERATE	pks6	p.Ala756Thr
+Chromosome	489935	G	C	missense_variant	MODERATE	pks6	p.Arg1402Pro
+Chromosome	491742	T	C	synonymous_variant	LOW	fgd1	p.Phe320Phe
+Chromosome	492150	G	C	missense_variant	MODERATE	pta	p.Gly122Ala
+Chromosome	492655	G	A	synonymous_variant	LOW	pta	p.Ala290Ala
+Chromosome	495198	A	G	missense_variant	MODERATE	pknG	p.Phe706Ser
+Chromosome	495473	C	T	synonymous_variant	LOW	pknG	p.Ser614Ser
+Chromosome	498531	A	G	synonymous_variant	LOW	Rv0412c	p.Ala363Ala
+Chromosome	498557	C	A	missense_variant	MODERATE	Rv0412c	p.Asp355Tyr
+Chromosome	502589	C	G	missense_variant	MODERATE	thiG	p.Ser75Cys
+Chromosome	503354	G	C	upstream_gene_variant	MODIFIER	Rv0412c	
+Chromosome	505974	G	A	missense_variant	MODERATE	lpqM	p.Ala297Thr
+Chromosome	508435	C	T	missense_variant	MODERATE	thiD	p.Val41Ile
+Chromosome	513257	T	C	missense_variant	MODERATE	ctpH	p.Met689Val
+Chromosome	514657	T	G	missense_variant	MODERATE	ctpH	p.Glu222Ala
+Chromosome	515214	G	T	synonymous_variant	LOW	ctpH	p.Val36Val
+Chromosome	517358	T	C	missense_variant	MODERATE	Rv0428c	p.Asp149Gly
+Chromosome	517411	A	G	synonymous_variant	LOW	Rv0428c	p.Arg131Arg
+Chromosome	519185	T	G	missense_variant	MODERATE	Rv0431	p.Val38Gly
+Chromosome	522081	A	G	missense_variant	MODERATE	Rv0434	p.Thr190Ala
+Chromosome	524891	C	A	missense_variant	MODERATE	pssA	p.Gly167Val
+Chromosome	526385	G	T	missense_variant	MODERATE	moeA2	p.Leu326Met
+Chromosome	527050	G	A	missense_variant	MODERATE	moeA2	p.Thr104Ile
+Chromosome	527316	C	G	missense_variant	MODERATE	moeA2	p.Met15Ile
+Chromosome	528354	C	A	upstream_gene_variant	MODIFIER	Rv0435c	
+Chromosome	528781	G	A	synonymous_variant	LOW	groEL2	p.Glu58Glu
+Chromosome	534427	T	A	upstream_gene_variant	MODIFIER	Rv0441c	
+Chromosome	534864	G	T	missense_variant	MODERATE	Rv0446c	p.Leu118Met
+Chromosome	540768	C	T	missense_variant	MODERATE	mmpL4	p.Val242Ile
+Chromosome	541201	A	G	synonymous_variant	LOW	mmpL4	p.Leu97Leu
+Chromosome	542959	C	T	upstream_gene_variant	MODIFIER	Rv0449c	
+Chromosome	546357	A	G	synonymous_variant	LOW	echA2	p.Thr149Thr
+Chromosome	549251	C	T	stop_gained	HIGH	Rv0457c	p.Trp119*
+Chromosome	551525	A	C	synonymous_variant	LOW	Rv0459	p.Arg110Arg
+Chromosome	554523	C	T	synonymous_variant	LOW	Rv0464c	p.Pro121Pro
+Chromosome	555945	T	C	missense_variant	MODERATE	Rv0465c	p.Gln121Arg
+Chromosome	555991	A	G	missense_variant	MODERATE	Rv0465c	p.Cys106Arg
+Chromosome	556035	G	T	missense_variant	MODERATE	Rv0465c	p.Pro91Gln
+Chromosome	560664	C	T	synonymous_variant	LOW	umaA	p.Asn259Asn
+Chromosome	560666	A	G	missense_variant	MODERATE	umaA	p.Lys260Arg
+Chromosome	562433	G	A	missense_variant	MODERATE	Rv0471c	p.Thr94Ile
+Chromosome	562497	C	T	missense_variant	MODERATE	Rv0471c	p.Glu73Lys
+Chromosome	564723	C	T	missense_variant	MODERATE	Rv0473	p.Thr387Met
+Chromosome	565404	G	T	synonymous_variant	LOW	Rv0474	p.Arg128Arg
+Chromosome	565655	A	G	upstream_gene_variant	MODIFIER	pcaA	
+Chromosome	567065	C	G	missense_variant	MODERATE	Rv0477	p.Ala97Gly
+Chromosome	568693	G	T	missense_variant	MODERATE	Rv0479c	p.Ala92Glu
+Chromosome	573262	A	G	synonymous_variant	LOW	Rv0484c	p.Gly180Gly
+Chromosome	573384	T	G	missense_variant	MODERATE	Rv0484c	p.Ile140Leu
+Chromosome	575368	T	C	synonymous_variant	LOW	mshA	p.Asp7Asp
+Chromosome	580008	A	G	synonymous_variant	LOW	senX3	p.Leu220Leu
+Chromosome	580336	C	A	synonymous_variant	LOW	senX3	p.Arg330Arg
+Chromosome	580772	T	A	upstream_gene_variant	MODIFIER	regX3	
+Chromosome	580773	GGGGGCACCACCCGCTTGCGGGGGAG	GG	upstream_gene_variant	MODIFIER	regX3	
+Chromosome	584171	T	C	missense_variant	MODERATE	Rv0493c	p.Ser174Gly
+Chromosome	584511	G	T	synonymous_variant	LOW	Rv0493c	p.Thr60Thr
+Chromosome	590436	T	C	synonymous_variant	LOW	proC	p.Ala118Ala
+Chromosome	590763	G	C	missense_variant	MODERATE	proC	p.Glu227Asp
+Chromosome	591965	G	A	synonymous_variant	LOW	galE2	p.Ala104Ala
+Chromosome	592584	A	G	missense_variant	MODERATE	galE2	p.Met311Val
+Chromosome	595374	T	C	upstream_gene_variant	MODIFIER	cmaA2	
+Chromosome	595501	G	A	missense_variant	MODERATE	serB1	p.Ala362Val
+Chromosome	597816	A	G	synonymous_variant	LOW	mmpL2	p.Ala206Ala
+Chromosome	598475	G	A	missense_variant	MODERATE	mmpL2	p.Arg426His
+Chromosome	599868	A	G	synonymous_variant	LOW	mmpL2	p.Arg890Arg
+Chromosome	607095	A	G	missense_variant	MODERATE	Rv0515	p.Gln182Arg
+Chromosome	610120	T	G	upstream_gene_variant	MODIFIER	Rv0516c	
+Chromosome	615938	G	A	synonymous_variant	LOW	hemL	p.Glu368Glu
+Chromosome	617833	T	C	missense_variant	MODERATE	ccdA	p.Val114Ala
+Chromosome	621390	G	A	missense_variant	MODERATE	Rv0530	p.Val162Ile
+Chromosome	623406	CGGCCGGCGGGGCCGG	CGGCCGGCGGGGCCGGCGGGGCCGG	disruptive_inframe_insertion	MODERATE	PE_PGRS6	p.Gly210_Gly211insGlyAlaGly
+Chromosome	623472	A	G	missense_variant	MODERATE	PE_PGRS6	p.Asp227Gly
+Chromosome	623508	C	G	missense_variant	MODERATE	PE_PGRS6	p.Ala239Gly
+Chromosome	624349	GTT	GTTT	frameshift_variant	HIGH	PE_PGRS6	p.Leu520fs
+Chromosome	627350	C	G	missense_variant	MODERATE	galE3	p.Pro35Ala
+Chromosome	630722	G	C	missense_variant	MODERATE	Rv0538	p.Arg228Pro
+Chromosome	637319	G	A	missense_variant	MODERATE	pitA	p.Pro49Ser
+Chromosome	638558	A	C	missense_variant	MODERATE	Rv0547c	p.Ile120Ser
+Chromosome	639835	C	T	missense_variant	MODERATE	menB	p.Arg41His
+Chromosome	641791	G	T	missense_variant	MODERATE	fadD8	p.Leu341Ile
+Chromosome	643449	C	T	synonymous_variant	LOW	Rv0552	p.Ala187Ala
+Chromosome	643483	G	A	missense_variant	MODERATE	Rv0552	p.Gly199Ser
+Chromosome	646163	C	A	missense_variant	MODERATE	bpoC	p.Gln233Lys
+Chromosome	646531	A	T	synonymous_variant	LOW	menD	p.Thr78Thr
+Chromosome	648002	T	G	missense_variant	MODERATE	Rv0556	p.Leu15Arg
+Chromosome	648856	T	C	synonymous_variant	LOW	mgtA	p.Gly107Gly
+Chromosome	649345	C	T	synonymous_variant	LOW	mgtA	p.Ala270Ala
+Chromosome	654996	C	T	synonymous_variant	LOW	gpdA1	p.Ser318Ser
+Chromosome	655707	G	A	synonymous_variant	LOW	gpdA1	p.Val81Val
+Chromosome	655986	T	G	upstream_gene_variant	MODIFIER	Rv0560c	
+Chromosome	657578	A	G	synonymous_variant	LOW	Rv0566c	p.Asp154Asp
+Chromosome	659341	T	C	upstream_gene_variant	MODIFIER	gpdA1	
+Chromosome	662911	T	C	synonymous_variant	LOW	nrdZ	p.Ala539Ala
+Chromosome	665293	A	G	missense_variant	MODERATE	Rv0572c	p.Phe31Leu
+Chromosome	669398	T	C	synonymous_variant	LOW	Rv0575c	p.Gln116Gln
+Chromosome	670545	G	A	missense_variant	MODERATE	Rv0576	p.Arg233His
+Chromosome	672259	GCCC	GCCCC	frameshift_variant	HIGH	PE_PGRS7	p.His1220fs
+Chromosome	678440	C	T	synonymous_variant	LOW	lpqN	p.Thr212Thr
+Chromosome	684290	A	G	upstream_gene_variant	MODIFIER	Rv0585c	
+Chromosome	685461	C	G	synonymous_variant	LOW	yrbE2A	p.Ala111Ala
+Chromosome	685608	T	C	synonymous_variant	LOW	yrbE2A	p.Leu160Leu
+Chromosome	685955	G	A	missense_variant	MODERATE	yrbE2B	p.Ala10Thr
+Chromosome	686066	A	G	missense_variant	MODERATE	yrbE2B	p.Ile47Val
+Chromosome	686972	T	C	missense_variant	MODERATE	mce2A	p.Phe51Ser
+Chromosome	687602	C	A	missense_variant	MODERATE	mce2A	p.Thr261Asn
+Chromosome	688792	TGGGG	TGGGGG	frameshift_variant	HIGH	mce2B	p.Arg256fs
+Chromosome	690248	C	A	missense_variant	MODERATE	mce2C	p.Thr397Asn
+Chromosome	690450	A	C	synonymous_variant	LOW	mce2C	p.Ala464Ala
+Chromosome	690465	T	G	synonymous_variant	LOW	mce2C	p.Leu469Leu
+Chromosome	698968	G	A	synonymous_variant	LOW	Rv0601c	p.Gly9Gly
+Chromosome	700776	T	C	missense_variant	MODERATE	lpqO	p.Ser180Pro
+Chromosome	703945	A	T	missense_variant	MODERATE	Rv0609A	p.Asp39Val
+Chromosome	704997	G	A	stop_gained	HIGH	Rv0610c	p.Gln305*
+Chromosome	705602	T	C	missense_variant	MODERATE	Rv0610c	p.Asn103Ser
+Chromosome	712192	G	GA	frameshift_variant	HIGH	galTa	p.Pro220fs
+Chromosome	712693	A	G	missense_variant	MODERATE	galTb	p.Thr174Ala
+Chromosome	713310	T	C	missense_variant	MODERATE	galK	p.Cys199Arg
+Chromosome	715266	A	G	stop_lost&splice_region_variant	HIGH	Rv0621	p.Ter355Trpext*?
+Chromosome	716324	G	A	upstream_gene_variant	MODIFIER	vapB30	
+Chromosome	717537	C	T	synonymous_variant	LOW	Rv0625c	p.Leu119Leu
+Chromosome	717588	A	G	synonymous_variant	LOW	Rv0625c	p.Val102Val
+Chromosome	718984	G	A	missense_variant	MODERATE	Rv0628c	p.Ala310Val
+Chromosome	720049	C	A	missense_variant	MODERATE	recD	p.Ala562Ser
+Chromosome	720863	G	T	synonymous_variant	LOW	recD	p.Ala290Ala
+Chromosome	722852	G	A	missense_variant	MODERATE	recB	p.Pro721Leu
+Chromosome	725024	C	T	missense_variant	MODERATE	recC	p.Gly1095Arg
+Chromosome	726498	C	A	synonymous_variant	LOW	recC	p.Leu603Leu
+Chromosome	727020	G	T	synonymous_variant	LOW	recC	p.Leu429Leu
+Chromosome	730087	G	A	missense_variant	MODERATE	Rv0633c	p.Ala27Val
+Chromosome	734116	T	C	missense_variant	MODERATE	secE1	p.Met127Thr
+Chromosome	740281	C	A	missense_variant	MODERATE	lipG	p.Asp287Tyr
+Chromosome	741015	C	T	missense_variant	MODERATE	lipG	p.Arg42Gln
+Chromosome	749968	T	C	upstream_gene_variant	MODIFIER	Rv0653c	
+Chromosome	751264	C	T	missense_variant	MODERATE	Rv0654	p.Thr422Ile
+Chromosome	752046	C	T	missense_variant	MODERATE	mkl	p.Ala177Val
+Chromosome	753392	T	C	upstream_gene_variant	MODIFIER	Rv0653c	
+Chromosome	753668	C	T	upstream_gene_variant	MODIFIER	Rv0653c	
+Chromosome	754186	A	G	missense_variant	MODERATE	Rv0658c	p.Leu75Pro
+Chromosome	754387	G	A	missense_variant	MODERATE	Rv0658c	p.Thr8Ile
+Chromosome	757182	A	G	missense_variant	MODERATE	atsD	p.Asp349Gly
+Chromosome	763031	T	C	synonymous_variant	LOW	rpoB	p.Ala1075Ala
+Chromosome	763531	G	C	synonymous_variant	LOW	rpoC	p.Pro54Pro
+Chromosome	763884	C	T	missense_variant	MODERATE	rpoC	p.Ala172Val
+Chromosome	763886	C	A	synonymous_variant	LOW	rpoC	p.Arg173Arg
+Chromosome	764809	C	T	synonymous_variant	LOW	rpoC	p.Arg480Arg
+Chromosome	767414	G	A	upstream_gene_variant	MODIFIER	end	
+Chromosome	767609	A	G	upstream_gene_variant	MODIFIER	end	
+Chromosome	770657	G	A	missense_variant	MODERATE	lpqP	p.Ala26Thr
+Chromosome	772089	C	T	synonymous_variant	LOW	fadE8	p.Ser202Ser
+Chromosome	773449	G	A	synonymous_variant	LOW	echA4	p.Pro109Pro
+Chromosome	775639	T	C	missense_variant	MODERATE	mmpL5	p.Ile948Val
+Chromosome	776100	G	A	missense_variant	MODERATE	mmpL5	p.Thr794Ile
+Chromosome	781395	T	C	upstream_gene_variant	MODIFIER	mmpL5	
+Chromosome	786137	A	C	upstream_gene_variant	MODIFIER	Rv0686	
+Chromosome	793702	C	T	missense_variant	MODERATE	lldD1	p.Pro123Leu
+Chromosome	797597	C	T	missense_variant	MODERATE	Rv0697	p.Thr222Met
+Chromosome	798738	C	G	upstream_gene_variant	MODIFIER	Rv0698	
+Chromosome	799136	ACCCCCCC	ACCCCCC	frameshift_variant	HIGH	Rv0698	p.Pro104fs
+Chromosome	800357	C	A	upstream_gene_variant	MODIFIER	rpsJ	
+Chromosome	810287	C	G	synonymous_variant	LOW	Rv0713	p.Thr114Thr
+Chromosome	811492	C	G	synonymous_variant	LOW	rplN	p.Val40Val
+Chromosome	812502	C	T	synonymous_variant	LOW	rplE	p.Val148Val
+Chromosome	815236	T	C	missense_variant	MODERATE	rplO	p.Ile16Thr
+Chromosome	815851	A	G	synonymous_variant	LOW	sppA	p.Arg63Arg
+Chromosome	817696	G	A	missense_variant	MODERATE	Rv0725c	p.Pro250Leu
+Chromosome	819213	T	C	missense_variant	MODERATE	Rv0726c	p.Glu143Gly
+Chromosome	820483	G	T	missense_variant	MODERATE	fucA	p.Ala6Asp
+Chromosome	820752	C	T	missense_variant	MODERATE	serA2	p.Arg242His
+Chromosome	821907	T	C	missense_variant	MODERATE	xylB	p.Leu134Pro
+Chromosome	824429	C	T	missense_variant	MODERATE	Rv0731c	p.Glu71Lys
+Chromosome	829719	G	A	upstream_gene_variant	MODIFIER	Rv0738	
+Chromosome	830868	GGCGCGCGCG	GGCGCGCGCGCG	frameshift_variant	HIGH	Rv0739	p.Glu9fs
+Chromosome	832201	C	T	synonymous_variant	LOW	Rv0740	p.Asp142Asp
+Chromosome	832246	A	G	synonymous_variant	LOW	Rv0740	p.Gln157Gln
+Chromosome	835526	G	A	missense_variant	MODERATE	Rv0745	p.Ala125Thr
+Chromosome	836538	A	G	missense_variant	MODERATE	PE_PGRS9	p.Asn280Asp
+Chromosome	836658	A	G	missense_variant	MODERATE	PE_PGRS9	p.Thr320Ala
+Chromosome	837033	A	G	missense_variant	MODERATE	PE_PGRS9	p.Thr445Ala
+Chromosome	841494	C	G	synonymous_variant	LOW	vapC31	p.Leu89Leu
+Chromosome	841495	A	G	missense_variant	MODERATE	vapC31	p.Met90Val
+Chromosome	841764	G	C	synonymous_variant	LOW	Rv0749A	p.Thr37Thr
+Chromosome	846996	G	A	missense_variant	MODERATE	PE_PGRS11	p.Gly280Arg
+Chromosome	847995	T	C	upstream_gene_variant	MODIFIER	mmsB	
+Chromosome	848407	C	T	missense_variant	MODERATE	PPE12	p.Arg545Lys
+Chromosome	850985	A	G	missense_variant	MODERATE	Rv0756c	p.Ile161Thr
+Chromosome	852910	C	T	missense_variant	MODERATE	phoR	p.Pro172Leu
+Chromosome	857696	A	G	synonymous_variant	LOW	cyp51	p.Ala114Ala
+Chromosome	864166	C	T	synonymous_variant	LOW	Rv0771	p.Gly9Gly
+Chromosome	865761	C	T	synonymous_variant	LOW	purD	p.His392His
+Chromosome	871271	A	C	missense_variant	MODERATE	purB	p.Thr422Pro
+Chromosome	874835	CC	CCGC	frameshift_variant	HIGH	ptrBa	p.His202fs
+Chromosome	880562	G	T	missense_variant	MODERATE	Rv0785	p.Cys408Phe
+Chromosome	882257	T	C	missense_variant	MODERATE	Rv0787	p.Tyr267His
+Chromosome	884134	C	G	missense_variant	MODERATE	Rv0790c	p.Ala223Pro
+Chromosome	885689	G	T	missense_variant	MODERATE	Rv0791c	p.Thr51Lys
+Chromosome	889003	C	T	upstream_gene_variant	MODIFIER	Rv0789c	
+Chromosome	889015	AGGAGG	A	upstream_gene_variant	MODIFIER	Rv0789c	
+Chromosome	891011	A	G	synonymous_variant	LOW	Rv0797	p.Leu208Leu
+Chromosome	891404	C	T	synonymous_variant	LOW	Rv0797	p.His339His
+Chromosome	893733	T	G	missense_variant	MODERATE	pepC	p.Leu139Arg
+Chromosome	894888	T	C	synonymous_variant	LOW	Rv0801	p.Ser86Ser
+Chromosome	895082	A	G	missense_variant	MODERATE	Rv0802c	p.Phe183Leu
+Chromosome	895120	C	T	missense_variant	MODERATE	Rv0802c	p.Arg170His
+Chromosome	898477	A	G	missense_variant	MODERATE	Rv0804	p.Ile133Val
+Chromosome	900221	T	C	synonymous_variant	LOW	cpsY	p.Val370Val
+Chromosome	903550	T	C	synonymous_variant	LOW	purF	p.Ala480Ala
+Chromosome	903913	T	C	synonymous_variant	LOW	purM	p.Gly63Gly
+Chromosome	906857	A	G	missense_variant	MODERATE	Rv0812	p.Ile145Met
+Chromosome	910015	C	A	missense_variant	MODERATE	thiX	p.Ala7Ser
+Chromosome	911261	T	C	missense_variant	MODERATE	Rv0818	p.Leu97Pro
+Chromosome	913274	C	G	synonymous_variant	LOW	phoT	p.Ser183Ser
+Chromosome	916046	T	G	missense_variant	MODERATE	Rv0822c	p.His89Pro
+Chromosome	921813	C	G	missense_variant	MODERATE	Rv0829	p.Ala80Gly
+Chromosome	923267	G	A	missense_variant	MODERATE	Rv0831c	p.Thr148Met
+Chromosome	925342	CGGGGGG	CGGGGGGG	frameshift_variant	HIGH	PE_PGRS12	p.Ala135fs
+Chromosome	929748	C	T	synonymous_variant	LOW	PE_PGRS14	p.Ala246Ala
+Chromosome	930496	C	G	upstream_gene_variant	MODIFIER	PE_PGRS14	
+Chromosome	931123	T	C	synonymous_variant	LOW	lpqQ	p.Tyr57Tyr
+Chromosome	932280	T	C	stop_lost&splice_region_variant	HIGH	Rv0836c	p.Ter218Trpext*?
+Chromosome	933699	G	T	synonymous_variant	LOW	Rv0837c	p.Gly111Gly
+Chromosome	934230	C	G	upstream_gene_variant	MODIFIER	PE_PGRS14	
+Chromosome	934611	G	T	upstream_gene_variant	MODIFIER	PE_PGRS14	
+Chromosome	938246	A	G	synonymous_variant	LOW	Rv0842	p.Leu45Leu
+Chromosome	940486	G	A	synonymous_variant	LOW	narL	p.Ala207Ala
+Chromosome	941503	G	T	missense_variant	MODERATE	Rv0845	p.Gly105Val
+Chromosome	941845	C	A	missense_variant	MODERATE	Rv0845	p.Ala219Glu
+Chromosome	945214	G	A	missense_variant	MODERATE	cysK2	p.Gly93Ser
+Chromosome	945972	C	T	synonymous_variant	LOW	cysK2	p.Asp345Asp
+Chromosome	947176	C	G	missense_variant	MODERATE	Rv0849	p.Ala374Gly
+Chromosome	948294	T	C	missense_variant	MODERATE	Rv0851c	p.Ser59Gly
+Chromosome	949535	T	C	synonymous_variant	LOW	pdc	p.Ala528Ala
+Chromosome	951142	C	A	upstream_gene_variant	MODIFIER	Rv0851c	
+Chromosome	952597	C	T	synonymous_variant	LOW	far	p.Ile322Ile
+Chromosome	952810	CTT	CT	upstream_gene_variant	MODIFIER	Rv0851c	
+Chromosome	955524	A	G	missense_variant	MODERATE	fadA	p.Ser150Gly
+Chromosome	957117	T	C	synonymous_variant	LOW	fadB	p.Asp275Asp
+Chromosome	959346	C	T	missense_variant	MODERATE	ercc3	p.Arg269His
+Chromosome	960367	A	G	missense_variant	MODERATE	Rv0862c	p.Leu749Ser
+Chromosome	967599	CGCG	CGCGGCG	conservative_inframe_insertion	MODERATE	Rv0870c	p.Ile44_Ala45insAla
+Chromosome	968426	AGCCGGGTTGGCCGG	AGCCGGGTTGGCCGGGTTGGCCGG	conservative_inframe_insertion	MODERATE	PE_PGRS15	p.Ala602_Gly603insGlyGlnPro
+Chromosome	970476	C	G	upstream_gene_variant	MODIFIER	rpfA	
+Chromosome	976043	G	T	upstream_gene_variant	MODIFIER	Rv0874c	
+Chromosome	976896	TTG	T	frameshift_variant	HIGH	PPE13	p.Gln436fs
+Chromosome	977196	G	A	synonymous_variant	LOW	PPE13	p.Gly336Gly
+Chromosome	977915	C	A	missense_variant	MODERATE	PPE13	p.Ala97Ser
+Chromosome	979704	G	C	missense_variant	MODERATE	Rv0881	p.Gly115Arg
+Chromosome	986463	G	C	upstream_gene_variant	MODIFIER	serC	
+Chromosome	987601	C	T	synonymous_variant	LOW	Rv0888	p.Gly123Gly
+Chromosome	990001	G	C	missense_variant	MODERATE	Rv0890c	p.Pro866Ala
+Chromosome	990383	G	A	synonymous_variant	LOW	Rv0890c	p.Gly738Gly
+Chromosome	990521	G	A	synonymous_variant	LOW	Rv0890c	p.Arg692Arg
+Chromosome	993346	A	C	missense_variant	MODERATE	Rv0891c	p.Val37Gly
+Chromosome	994362	C	G	synonymous_variant	LOW	Rv0892	p.Arg170Arg
+Chromosome	996219	G	A	missense_variant	MODERATE	Rv0893c	p.Ala26Val
+Chromosome	997143	CGG	CGGG	frameshift_variant	HIGH	Rv0894	p.Asp208fs
+Chromosome	1002342	T	C	missense_variant	MODERATE	Rv0897c	p.Tyr25Cys
+Chromosome	1009490	C	T	stop_gained	HIGH	Rv0906	p.Gln183*
+Chromosome	1010204	CGG	CGGG	frameshift_variant	HIGH	Rv0907	p.Cys25fs
+Chromosome	1011286	T	C	missense_variant	MODERATE	Rv0907	p.Ile384Thr
+Chromosome	1011313	G	A	missense_variant	MODERATE	Rv0907	p.Gly393Asp
+Chromosome	1014815	T	G	missense_variant	MODERATE	Rv0909	p.His45Gln
+Chromosome	1022613	G	A	missense_variant	MODERATE	betP	p.Arg176Gln
+Chromosome	1024346	A	G	missense_variant	MODERATE	Rv0918	p.Ser46Gly
+Chromosome	1025106	T	C	synonymous_variant	LOW	Rv0919	p.Phe141Phe
+Chromosome	1027727	G	C	missense_variant	MODERATE	Rv0922	p.Ala15Pro
+Chromosome	1029997	A	G	missense_variant	MODERATE	Rv0923c	p.Val194Ala
+Chromosome	1032241	G	T	synonymous_variant	LOW	Rv0925c	p.Ala131Ala
+Chromosome	1032524	T	C	missense_variant	MODERATE	Rv0925c	p.Asp37Gly
+Chromosome	1036484	G	A	missense_variant	MODERATE	pstC2	p.Ala153Thr
+Chromosome	1037012	T	C	missense_variant	MODERATE	pstA1	p.Met5Thr
+Chromosome	1037911	C	T	stop_gained	HIGH	pstA1	p.Arg305*
+Chromosome	1038500	T	G	missense_variant	MODERATE	pknD	p.Gln472Pro
+Chromosome	1040706	A	C	missense_variant	MODERATE	pstS2	p.Ser115Ala
+Chromosome	1043136	C	T	missense_variant	MODERATE	pstS1	p.Thr341Ile
+Chromosome	1047051	G	A	missense_variant	MODERATE	ligD	p.Ala306Thr
+Chromosome	1047165	T	C	missense_variant	MODERATE	ligD	p.Cys344Arg
+Chromosome	1048102	G	A	missense_variant	MODERATE	ligD	p.Arg656His
+Chromosome	1054784	C	G	missense_variant	MODERATE	Rv0945	p.Arg180Gly
+Chromosome	1055126	C	T	synonymous_variant	LOW	pgi	p.Leu520Leu
+Chromosome	1061386	T	C	missense_variant	MODERATE	Rv0950c	p.Glu90Gly
+Chromosome	1061858	C	T	upstream_gene_variant	MODIFIER	Rv0947c	
+Chromosome	1063765	G	A	missense_variant	MODERATE	sucD	p.Arg209Lys
+Chromosome	1063922	C	T	synonymous_variant	LOW	sucD	p.Gly261Gly
+Chromosome	1065742	G	A	missense_variant	MODERATE	Rv0954	p.Gly206Ser
+Chromosome	1066038	A	G	splice_region_variant&stop_retained_variant	LOW	Rv0954	p.Ter304Ter
+Chromosome	1068151	T	C	synonymous_variant	LOW	purN	p.His197His
+Chromosome	1068432	A	G	synonymous_variant	LOW	purH	p.Pro76Pro
+Chromosome	1070381	A	G	missense_variant	MODERATE	Rv0958	p.Thr167Ala
+Chromosome	1070702	T	C	missense_variant	MODERATE	Rv0958	p.Ser274Pro
+Chromosome	1072342	A	G	missense_variant	MODERATE	Rv0959	p.Asp363Gly
+Chromosome	1074558	G	A	missense_variant	MODERATE	lprP	p.Pro186Leu
+Chromosome	1075167	GCATC	GC	upstream_gene_variant	MODIFIER	lprP	
+Chromosome	1075279	T	C	upstream_gene_variant	MODIFIER	lprP	
+Chromosome	1076309	G	T	missense_variant	MODERATE	Rv0964c	p.Pro124Thr
+Chromosome	1077312	A	G	missense_variant	MODERATE	Rv0966c	p.Val175Ala
+Chromosome	1077624	GCCCCC	GCCCC	frameshift_variant	HIGH	Rv0966c	p.Ala71fs
+Chromosome	1077754	C	T	missense_variant	MODERATE	Rv0966c	p.Ala28Thr
+Chromosome	1078398	G	A	stop_gained	HIGH	Rv0968	p.Trp3*
+Chromosome	1079927	C	A	synonymous_variant	LOW	ctpV	p.Thr395Thr
+Chromosome	1080192	G	A	missense_variant	MODERATE	ctpV	p.Asp484Asn
+Chromosome	1081681	T	C	synonymous_variant	LOW	Rv0970	p.Val210Val
+Chromosome	1083755	A	G	missense_variant	MODERATE	accA2	p.Ser666Pro
+Chromosome	1085623	A	G	missense_variant	MODERATE	accA2	p.Val43Ala
+Chromosome	1086648	C	A	missense_variant	MODERATE	accD2	p.Arg233Leu
+Chromosome	1087193	G	C	missense_variant	MODERATE	accD2	p.Asn51Lys
+Chromosome	1090188	AGGG	AGGGG	upstream_gene_variant	MODIFIER	accA2	
+Chromosome	1092316	C	T	synonymous_variant	LOW	PE_PGRS16	p.Gly648Gly
+Chromosome	1093406	A	G	synonymous_variant	LOW	PE_PGRS17	p.Val317Val
+Chromosome	1093907	T	C	synonymous_variant	LOW	PE_PGRS17	p.Gly150Gly
+Chromosome	1094140	G	C	missense_variant	MODERATE	PE_PGRS17	p.Gln73Glu
+Chromosome	1094150	C	T	synonymous_variant	LOW	PE_PGRS17	p.Ala69Ala
+Chromosome	1094303	T	C	synonymous_variant	LOW	PE_PGRS17	p.Ala18Ala
+Chromosome	1094472	G	A	upstream_gene_variant	MODIFIER	Rv0976c	
+Chromosome	1094538	T	G	upstream_gene_variant	MODIFIER	Rv0976c	
+Chromosome	1095644	C	T	missense_variant	MODERATE	PE_PGRS18	p.Ala270Thr
+Chromosome	1095981	A	C	synonymous_variant	LOW	PE_PGRS18	p.Gly157Gly
+Chromosome	1095990	C	G	synonymous_variant	LOW	PE_PGRS18	p.Gly154Gly
+Chromosome	1096299	C	G	synonymous_variant	LOW	PE_PGRS18	p.Ala51Ala
+Chromosome	1096323	G	T	missense_variant	MODERATE	PE_PGRS18	p.His43Gln
+Chromosome	1096398	C	T	synonymous_variant	LOW	PE_PGRS18	p.Ala18Ala
+Chromosome	1096508	C	G	upstream_gene_variant	MODIFIER	PE_PGRS17	
+Chromosome	1096510	T	C	upstream_gene_variant	MODIFIER	PE_PGRS17	
+Chromosome	1096633	T	G	upstream_gene_variant	MODIFIER	PE_PGRS17	
+Chromosome	1097023	G	A	missense_variant	MODERATE	mprA	p.Gly68Ser
+Chromosome	1098523	T	A	missense_variant	MODERATE	mprB	p.Leu339His
+Chromosome	1099036	GTT	GT	upstream_gene_variant	MODIFIER	PE_PGRS17	
+Chromosome	1099212	C	T	synonymous_variant	LOW	pepD	p.Phe49Phe
+Chromosome	1100234	T	C	missense_variant	MODERATE	pepD	p.Leu390Pro
+Chromosome	1104634	C	T	missense_variant	MODERATE	Rv0987	p.Ala698Val
+Chromosome	1104690	T	G	missense_variant	MODERATE	Rv0987	p.Phe717Val
+Chromosome	1105284	G	A	missense_variant	MODERATE	Rv0988	p.Val57Ile
+Chromosome	1106422	T	C	missense_variant	MODERATE	grcC2	p.Ile321Val
+Chromosome	1107402	C	A	upstream_gene_variant	MODIFIER	grcC2	
+Chromosome	1107940	A	C	missense_variant	MODERATE	Rv0990c	p.Ser54Ala
+Chromosome	1109163	C	G	missense_variant	MODERATE	Rv0992c	p.Met3Ile
+Chromosome	1109975	A	G	missense_variant	MODERATE	galU	p.Gln235Arg
+Chromosome	1110956	T	G	missense_variant	MODERATE	moeA1	p.Cys230Gly
+Chromosome	1111518	T	C	missense_variant	MODERATE	moeA1	p.Val417Ala
+Chromosome	1113290	G	C	missense_variant	MODERATE	Rv0996	p.Glu303Gln
+Chromosome	1117405	C	T	missense_variant	MODERATE	arcA	p.Thr74Ile
+Chromosome	1119739	C	T	synonymous_variant	LOW	Rv1002c	p.Leu67Leu
+Chromosome	1121074	C	T	missense_variant	MODERATE	Rv1004c	p.Ala359Thr
+Chromosome	1121078	A	C	synonymous_variant	LOW	Rv1004c	p.Pro357Pro
+Chromosome	1123597	A	G	start_lost	HIGH	pabB	p.Leu1?
+Chromosome	1126562	C	T	missense_variant	MODERATE	metS	p.Val148Ile
+Chromosome	1126889	G	C	missense_variant	MODERATE	metS	p.Arg39Gly
+Chromosome	1127648	C	A	missense_variant	MODERATE	tatD	p.Thr187Asn
+Chromosome	1128814	G	A	missense_variant	MODERATE	rpfB	p.Glu242Lys
+Chromosome	1131229	CG	CGG	frameshift_variant	HIGH	Rv1012	p.Glu35fs
+Chromosome	1131300	G	A	missense_variant	MODERATE	Rv1012	p.Ser58Asn
+Chromosome	1136017	A	G	synonymous_variant	LOW	prsA	p.Gly155Gly
+Chromosome	1139222	G	A	missense_variant	MODERATE	mfd	p.Ala86Thr
+Chromosome	1143832	A	C	missense_variant	MODERATE	lpqU	p.Thr33Pro
+Chromosome	1144585	A	G	missense_variant	MODERATE	eno	p.Arg8Gly
+Chromosome	1148259	A	G	upstream_gene_variant	MODIFIER	kdpF	
+Chromosome	1149551	C	T	synonymous_variant	LOW	kdpD	p.Glu712Glu
+Chromosome	1150585	G	A	missense_variant	MODERATE	kdpD	p.Pro368Ser
+Chromosome	1151485	CGTGTGT	CGTGT	frameshift_variant	HIGH	kdpD	p.His67fs
+Chromosome	1154174	G	A	missense_variant	MODERATE	kdpB	p.Val151Ile
+Chromosome	1155700	C	T	synonymous_variant	LOW	kdpB	p.Ile659Ile
+Chromosome	1157771	G	C	missense_variant	MODERATE	trcS	p.Ser62Cys
+Chromosome	1159850	G	A	missense_variant	MODERATE	Rv1035c	p.Thr71Ile
+Chromosome	1160770	T	A	missense_variant	MODERATE	esxI	p.Gln20Leu
+Chromosome	1161346	G	T	missense_variant	MODERATE	PPE15	p.Pro376Gln
+Chromosome	1163134	T	C	synonymous_variant	LOW	PE8	p.Gly81Gly
+Chromosome	1164336	G	A	upstream_gene_variant	MODIFIER	Rv1035c	
+Chromosome	1164521	C	T	upstream_gene_variant	MODIFIER	Rv1035c	
+Chromosome	1165114	C	T	missense_variant	MODERATE	Rv1041c	p.Asp108Asn
+Chromosome	1165521	TA	TAA	upstream_gene_variant	MODIFIER	esxI	
+Chromosome	1168323	A	G	synonymous_variant	LOW	Rv1045	p.Gly217Gly
+Chromosome	1168715	CTT	CTTT	frameshift_variant	HIGH	Rv1046c	p.Ala172fs
+Chromosome	1169605	C	T	synonymous_variant	LOW	Rv1047	p.Asn61Asn
+Chromosome	1172063	C	T	missense_variant	MODERATE	Rv1048c	p.Asp31Asn
+Chromosome	1178116	T	C	synonymous_variant	LOW	Rv1056	p.Thr163Thr
+Chromosome	1184826	G	T	missense_variant	MODERATE	Rv1061	p.Arg271Leu
+Chromosome	1191741	G	A	synonymous_variant	LOW	PE_PGRS20	p.Tyr136Tyr
+Chromosome	1191817	A	C	missense_variant	MODERATE	PE_PGRS20	p.Leu111Trp
+Chromosome	1192830	G	A	missense_variant	MODERATE	Rv1069c	p.Arg482Trp
+Chromosome	1199019	T	C	missense_variant	MODERATE	fadA3	p.Thr119Ala
+Chromosome	1200418	A	G	upstream_gene_variant	MODIFIER	echA9	
+Chromosome	1201291	A	G	synonymous_variant	LOW	lipU	p.Glu175Glu
+Chromosome	1203824	T	C	missense_variant	MODERATE	pra	p.Ile171Thr
+Chromosome	1211369	A	C	missense_variant	MODERATE	Rv1086	p.Ser259Arg
+Chromosome	1212626	ACGGCGGCGCCGGCGG	ACGGCGG	disruptive_inframe_deletion	MODERATE	PE_PGRS21	p.Ala359_Gly361del
+Chromosome	1213406	C	T	missense_variant	MODERATE	PE_PGRS21	p.Ala616Val
+Chromosome	1213497	TGGCGGCGGCG	TGGCGGCGGCGGCG	disruptive_inframe_insertion	MODERATE	PE_PGRS21	p.Gly649dup
+Chromosome	1215049	G	A	missense_variant	MODERATE	PE10	p.Gly94Asp
+Chromosome	1218426	ACGGCGGG	ACGGCGGGTCCGGCGGG	conservative_inframe_insertion	MODERATE	PE_PGRS22	p.Gly655_Ala656insSerGlyGly
+Chromosome	1220570	G	T	upstream_gene_variant	MODIFIER	coaA	
+Chromosome	1220680	T	C	missense_variant	MODERATE	glyA1	p.Val36Ala
+Chromosome	1224367	T	C	upstream_gene_variant	MODIFIER	coaA	
+Chromosome	1225126	G	A	missense_variant	MODERATE	Rv1096	p.Val248Ile
+Chromosome	1228116	A	G	missense_variant	MODERATE	glpX	p.Ile190Thr
+Chromosome	1230778	G	A	missense_variant	MODERATE	mazF3	p.Thr65Ile
+Chromosome	1232499	G	C	synonymous_variant	LOW	Rv1105	p.Arg63Arg
+Chromosome	1235446	T	C	synonymous_variant	LOW	xseA	p.Ser5Ser
+Chromosome	1237403	G	A	missense_variant	MODERATE	Rv1111c	p.Pro264Ser
+Chromosome	1244768	G	A	synonymous_variant	LOW	zwf1	p.Leu354Leu
+Chromosome	1246231	TTCGAC	TTCGACTCGAC	frameshift_variant	HIGH	bpoB	p.Leu275fs
+Chromosome	1248382	A	G	missense_variant	MODERATE	Rv1125	p.Ser101Gly
+Chromosome	1248936	G	C	synonymous_variant	LOW	Rv1125	p.Pro285Pro
+Chromosome	1248978	T	C	synonymous_variant	LOW	Rv1125	p.Ala299Ala
+Chromosome	1250340	A	G	synonymous_variant	LOW	ppdK	p.Ala355Ala
+Chromosome	1250357	T	G	missense_variant	MODERATE	ppdK	p.Thr350Pro
+Chromosome	1251199	C	T	missense_variant	MODERATE	ppdK	p.Gly69Glu
+Chromosome	1252164	T	C	missense_variant	MODERATE	Rv1128c	p.Glu270Gly
+Chromosome	1254562	A	G	missense_variant	MODERATE	prpD	p.Asp3Gly
+Chromosome	1257032	G	A	missense_variant	MODERATE	prpC	p.Val301Met
+Chromosome	1257343	C	G	missense_variant	MODERATE	Rv1132	p.Arg7Gly
+Chromosome	1258324	A	G	missense_variant	MODERATE	Rv1132	p.Ile334Val
+Chromosome	1262230	C	T	upstream_gene_variant	MODIFIER	metE	
+Chromosome	1266565	C	T	missense_variant	MODERATE	Rv1139c	p.Ala141Thr
+Chromosome	1268649	C	T	missense_variant	MODERATE	echA11	p.Val121Ile
+Chromosome	1271143	AGG	AGGG	upstream_gene_variant	MODIFIER	Rv1138c	
+Chromosome	1273250	G	GA	frameshift_variant	HIGH	mmpL13a	p.Leu277fs
+Chromosome	1275957	T	C	upstream_gene_variant	MODIFIER	Rv1149	
+Chromosome	1277869	GT	GTT	upstream_gene_variant	MODIFIER	Rv1148c	
+Chromosome	1278278	G	A	missense_variant	MODERATE	Rv1149	p.Gly129Glu
+Chromosome	1281118	T	C	missense_variant	MODERATE	Rv1154c	p.Thr123Ala
+Chromosome	1281515	G	A	synonymous_variant	LOW	Rv1155	p.Gly29Gly
+Chromosome	1281572	G	A	synonymous_variant	LOW	Rv1155	p.Gln48Gln
+Chromosome	1281771	T	C	missense_variant	MODERATE	Rv1155	p.Ser115Pro
+Chromosome	1287112	T	C	upstream_gene_variant	MODIFIER	Rv1157c	
+Chromosome	1287160	A	C	upstream_gene_variant	MODIFIER	Rv1157c	
+Chromosome	1292102	A	G	synonymous_variant	LOW	narH	p.Pro346Pro
+Chromosome	1295748	G	T	synonymous_variant	LOW	typA	p.Arg527Arg
+Chromosome	1297397	G	A	missense_variant	MODERATE	lpqW	p.Gly416Ser
+Chromosome	1302607	A	AT	frameshift_variant	HIGH	PE12	p.Asn26fs
+Chromosome	1302821	G	A	upstream_gene_variant	MODIFIER	Rv1167c	
+Chromosome	1306259	A	G	synonymous_variant	LOW	fadH	p.Ala656Ala
+Chromosome	1307598	C	G	missense_variant	MODERATE	fadH	p.Cys210Ser
+Chromosome	1310316	C	T	missense_variant	MODERATE	Rv1178	p.Ala318Val
+Chromosome	1313337	A	AG	upstream_gene_variant	MODIFIER	Rv1176c	
+Chromosome	1313338	A	C	upstream_gene_variant	MODIFIER	Rv1176c	
+Chromosome	1314617	C	T	missense_variant	MODERATE	pks3	p.Ala298Val
+Chromosome	1315191	A	C	stop_lost&splice_region_variant	HIGH	pks3	p.Ter489Tyrext*?
+Chromosome	1315746	G	A	synonymous_variant	LOW	pks4	p.Val171Val
+Chromosome	1315884	G	A	synonymous_variant	LOW	pks4	p.Ala217Ala
+Chromosome	1316480	G	C	missense_variant	MODERATE	pks4	p.Gly416Ala
+Chromosome	1320508	G	A	synonymous_variant	LOW	papA3	p.Val158Val
+Chromosome	1320614	C	G	missense_variant	MODERATE	papA3	p.Leu194Val
+Chromosome	1327890	G	A	synonymous_variant	LOW	Rv1186c	p.Asp472Asp
+Chromosome	1328687	G	C	missense_variant	MODERATE	Rv1186c	p.Pro207Ala
+Chromosome	1338794	TCGGCGGCGGCGG	TCGGCGGCGG	upstream_gene_variant	MODIFIER	Rv1194c	
+Chromosome	1340052	G	T	missense_variant	MODERATE	PPE18	p.Arg235Leu
+Chromosome	1340208	G	A	missense_variant	MODERATE	PPE18	p.Arg287Gln
+Chromosome	1340274	T	C	missense_variant	MODERATE	PPE18	p.Leu309Ser
+Chromosome	1340775	C	T	synonymous_variant	LOW	esxK	p.Asn39Asn
+Chromosome	1341040	C	A	missense_variant	MODERATE	esxL	p.Ala12Asp
+Chromosome	1341044	C	T	synonymous_variant	LOW	esxL	p.His13His
+Chromosome	1342468	C	T	synonymous_variant	LOW	Rv1199c	p.Gly46Gly
+Chromosome	1342581	T	C	missense_variant	MODERATE	Rv1199c	p.Thr9Ala
+Chromosome	1344857	C	T	missense_variant	MODERATE	dapD	p.Gly105Ser
+Chromosome	1348518	GCCA	G	disruptive_inframe_deletion	MODERATE	Rv1204c	p.Leu35_Ala36delinsPro
+Chromosome	1351172	A	G	upstream_gene_variant	MODIFIER	Rv1203c	
+Chromosome	1356648	C	T	synonymous_variant	LOW	glgC	p.Asp271Asp
+Chromosome	1358940	C	A	missense_variant	MODERATE	Rv1215c	p.Ala169Ser
+Chromosome	1360209	T	C	synonymous_variant	LOW	Rv1217c	p.Ala531Ala
+Chromosome	1362006	T	C	missense_variant	MODERATE	Rv1218c	p.Gln243Arg
+Chromosome	1363194	G	A	synonymous_variant	LOW	Rv1219c	p.Ala56Ala
+Chromosome	1365837	CGGGG	CGGGGGG	upstream_gene_variant	MODIFIER	Rv1217c	
+Chromosome	1367484	T	G	missense_variant	MODERATE	tatB	p.Trp8Gly
+Chromosome	1368947	A	G	missense_variant	MODERATE	Rv1226c	p.Val450Ala
+Chromosome	1369389	C	T	missense_variant	MODERATE	Rv1226c	p.Gly303Ser
+Chromosome	1369735	G	A	synonymous_variant	LOW	Rv1226c	p.Tyr187Tyr
+Chromosome	1374065	T	C	missense_variant	MODERATE	Rv1230c	p.Ser45Gly
+Chromosome	1374578	C	T	missense_variant	MODERATE	Rv1231c	p.Arg96His
+Chromosome	1374639	T	A	missense_variant	MODERATE	Rv1231c	p.Asn76Tyr
+Chromosome	1375724	A	C	missense_variant	MODERATE	Rv1232c	p.Cys149Gly
+Chromosome	1378958	C	T	missense_variant	MODERATE	sugA	p.Ala11Val
+Chromosome	1382628	T	C	missense_variant	MODERATE	corA	p.Lys139Glu
+Chromosome	1387211	G	A	missense_variant	MODERATE	lpqZ	p.Ala119Thr
+Chromosome	1389866	C	T	missense_variant	MODERATE	Rv1248c	p.Gly1063Ser
+Chromosome	1390763	C	T	missense_variant	MODERATE	Rv1248c	p.Val764Met
+Chromosome	1393208	G	A	missense_variant	MODERATE	Rv1249c	p.Arg259Trp
+Chromosome	1393626	A	G	synonymous_variant	LOW	Rv1249c	p.Leu119Leu
+Chromosome	1395010	A	G	missense_variant	MODERATE	Rv1250	p.Arg278Gly
+Chromosome	1396922	T	C	synonymous_variant	LOW	Rv1251c	p.Thr773Thr
+Chromosome	1397201	A	G	synonymous_variant	LOW	Rv1251c	p.Asn680Asn
+Chromosome	1397215	C	G	missense_variant	MODERATE	Rv1251c	p.Gly676Arg
+Chromosome	1400396	A	G	missense_variant	MODERATE	deaD	p.Met143Val
+Chromosome	1401206	G	A	missense_variant	MODERATE	deaD	p.Glu413Lys
+Chromosome	1406312	A	G	synonymous_variant	LOW	Rv1258c	p.His343His
+Chromosome	1409030	CGGATTTCTATT	C	frameshift_variant	HIGH	Rv1260	p.Asp265fs
+Chromosome	1409197	G	A	missense_variant	MODERATE	Rv1260	p.Gly320Ser
+Chromosome	1410062	G	C	missense_variant	MODERATE	Rv1262c	p.Pro104Arg
+Chromosome	1411210	T	G	synonymous_variant	LOW	amiB2	p.Val260Val
+Chromosome	1413148	C	T	upstream_gene_variant	MODIFIER	Rv1261c	
+Chromosome	1414021	C	T	missense_variant	MODERATE	pknH	p.Arg607Gln
+Chromosome	1417019	C	T	missense_variant	MODERATE	embR	p.Cys110Tyr
+Chromosome	1417554	G	C	upstream_gene_variant	MODIFIER	mcr11	
+Chromosome	1417793	G	A	synonymous_variant	LOW	Rv1268c	p.Thr188Thr
+Chromosome	1419602	T	C	synonymous_variant	LOW	lprA	p.Leu49Leu
+Chromosome	1424699	T	C	missense_variant	MODERATE	lprB	p.Leu168Pro
+Chromosome	1426928	C	T	synonymous_variant	LOW	Rv1277	p.Phe255Phe
+Chromosome	1437456	A	G	missense_variant	MODERATE	canA	p.Met45Val
+Chromosome	1440469	C	G	synonymous_variant	LOW	cysN	p.Pro521Pro
+Chromosome	1443354	C	T	synonymous_variant	LOW	Rv1289	p.Ala196Ala
+Chromosome	1443899	T	C	synonymous_variant	LOW	Rv1290c	p.Ala383Ala
+Chromosome	1445781	A	G	synonymous_variant	LOW	Rv1291c	p.Ala18Ala
+Chromosome	1445977	C	T	upstream_gene_variant	MODIFIER	Rv1290c	
+Chromosome	1451009	G	A	missense_variant	MODERATE	thrC	p.Ala105Thr
+Chromosome	1453165	C	G	upstream_gene_variant	MODIFIER	rho	
+Chromosome	1453996	C	G	missense_variant	MODERATE	rho	p.Arg265Gly
+Chromosome	1457144	C	T	missense_variant	MODERATE	hemK	p.Arg194Cys
+Chromosome	1458144	C	A	missense_variant	MODERATE	Rv1301	p.Pro196Gln
+Chromosome	1460907	T	C	missense_variant	MODERATE	atpB	p.Phe222Leu
+Chromosome	1468150	C	T	upstream_gene_variant	MODIFIER	murA	
+Chromosome	1468420	G	A	synonymous_variant	LOW	Rv1313c	p.Arg362Arg
+Chromosome	1468660	C	T	synonymous_variant	LOW	Rv1313c	p.Lys282Lys
+Chromosome	1469208	G	C	missense_variant	MODERATE	Rv1313c	p.Pro100Ala
+Chromosome	1471659	C	T	upstream_gene_variant	MODIFIER	Rv1313c	
+Chromosome	1472753	A	C	upstream_gene_variant	MODIFIER	Rv1313c	
+Chromosome	1478222	C	G	synonymous_variant	LOW	alkA	p.Leu299Leu
+Chromosome	1479085	T	C	missense_variant	MODERATE	alkA	p.Ile12Val
+Chromosome	1480972	T	C	synonymous_variant	LOW	Rv1319c	p.Glu510Glu
+Chromosome	1481185	A	C	missense_variant	MODERATE	Rv1319c	p.Asp439Glu
+Chromosome	1481602	T	G	synonymous_variant	LOW	Rv1319c	p.Arg300Arg
+Chromosome	1482627	T	C	missense_variant	MODERATE	Rv1320c	p.Thr531Ala
+Chromosome	1484708	A	C	missense_variant	MODERATE	Rv1321	p.Ser144Arg
+Chromosome	1487094	G	T	upstream_gene_variant	MODIFIER	Rv1319c	
+Chromosome	1490905	A	G	missense_variant	MODERATE	glgB	p.Ser470Pro
+Chromosome	1490911	G	A	missense_variant	MODERATE	glgB	p.Pro468Ser
+Chromosome	1491543	G	A	missense_variant	MODERATE	glgB	p.Thr257Ile
+Chromosome	1492194	T	C	missense_variant	MODERATE	glgB	p.Asp40Gly
+Chromosome	1496964	G	T	missense_variant	MODERATE	glgP	p.Ala801Ser
+Chromosome	1499274	C	G	missense_variant	MODERATE	pncB1	p.Gly429Ala
+Chromosome	1505194	T	C	synonymous_variant	LOW	murI	p.Gly40Gly
+Chromosome	1505973	G	A	synonymous_variant	LOW	Rv1339	p.Arg19Arg
+Chromosome	1514010	G	T	missense_variant	MODERATE	irtA	p.Val322Phe
+Chromosome	1521526	T	C	synonymous_variant	LOW	Rv1354c	p.Glu117Glu
+Chromosome	1522862	C	T	missense_variant	MODERATE	moeY	p.Val391Ile
+Chromosome	1523175	A	C	synonymous_variant	LOW	moeY	p.Ala286Ala
+Chromosome	1523791	A	G	missense_variant	MODERATE	moeY	p.Leu81Pro
+Chromosome	1525160	G	A	upstream_gene_variant	MODIFIER	Rv1354c	
+Chromosome	1526819	C	A	synonymous_variant	LOW	Rv1358	p.Arg70Arg
+Chromosome	1530440	G	A	missense_variant	MODERATE	Rv1359	p.Gly90Ser
+Chromosome	1533241	G	C	synonymous_variant	LOW	PPE19	p.Thr131Thr
+Chromosome	1533999	G	C	synonymous_variant	LOW	Rv1362c	p.Thr204Thr
+Chromosome	1534548	G	A	synonymous_variant	LOW	Rv1362c	p.Ile21Ile
+Chromosome	1535643	C	T	upstream_gene_variant	MODIFIER	PPE19	
+Chromosome	1536251	G	T	missense_variant	MODERATE	Rv1364c	p.Ala465Glu
+Chromosome	1540141	T	C	missense_variant	MODERATE	Rv1367c	p.Ile169Val
+Chromosome	1541129	C	T	missense_variant	MODERATE	lprF	p.Ala37Val
+Chromosome	1544255	C	T	synonymous_variant	LOW	Rv1371	p.Arg299Arg
+Chromosome	1546703	C	T	missense_variant	MODERATE	Rv1373	p.Pro231Leu
+Chromosome	1547125	T	C	missense_variant	MODERATE	Rv1374c	p.Thr136Ala
+Chromosome	1548087	G	A	missense_variant	MODERATE	Rv1375	p.Gly86Arg
+Chromosome	1552547	G	A	missense_variant	MODERATE	Rv1378c	p.Arg37Trp
+Chromosome	1553855	C	T	synonymous_variant	LOW	pyrB	p.Thr208Thr
+Chromosome	1559562	C	A	missense_variant	MODERATE	carB	p.Ala821Glu
+Chromosome	1560912	G	A	synonymous_variant	LOW	pyrF	p.Glu156Glu
+Chromosome	1563686	G	T	upstream_gene_variant	MODIFIER	mihF	
+Chromosome	1563717	C	T	synonymous_variant	LOW	mihF	p.Val8Val
+Chromosome	1567985	A	G	synonymous_variant	LOW	metK	p.Glu387Glu
+Chromosome	1568178	C	T	synonymous_variant	LOW	Rv1393c	p.Pro470Pro
+Chromosome	1569878	G	T	synonymous_variant	LOW	cyp132	p.Ile364Ile
+Chromosome	1570566	C	A	missense_variant	MODERATE	cyp132	p.Arg135Leu
+Chromosome	1573660	T	G	missense_variant	MODERATE	PE_PGRS25	p.Arg66Ser
+Chromosome	1574206	T	C	missense_variant	MODERATE	vapC10	p.Asp103Gly
+Chromosome	1575793	A	G	missense_variant	MODERATE	nlhH	p.Val6Ala
+Chromosome	1578829	T	G	missense_variant	MODERATE	priA	p.Leu406Arg
+Chromosome	1580181	G	A	missense_variant	MODERATE	Rv1403c	p.Pro81Leu
+Chromosome	1580283	A	G	missense_variant	MODERATE	Rv1403c	p.Ile47Thr
+Chromosome	1581377	C	T	missense_variant	MODERATE	Rv1405c	p.Gly198Asp
+Chromosome	1584379	A	C	missense_variant	MODERATE	fmu	p.Ile427Leu
+Chromosome	1585283	A	C	missense_variant	MODERATE	ribG	p.Lys30Asn
+Chromosome	1585404	G	A	missense_variant	MODERATE	ribG	p.Ala71Thr
+Chromosome	1588899	G	T	synonymous_variant	LOW	ribC	p.Ala111Ala
+Chromosome	1589739	C	T	synonymous_variant	LOW	Rv1413	p.Gly118Gly
+Chromosome	1590555	C	T	synonymous_variant	LOW	ribA2	p.Thr53Thr
+Chromosome	1594698	C	T	synonymous_variant	LOW	uvrC	p.Asn219Asn
+Chromosome	1600164	C	T	synonymous_variant	LOW	Rv1425	p.Gly169Gly
+Chromosome	1600685	C	T	missense_variant	MODERATE	Rv1425	p.Pro343Leu
+Chromosome	1601528	C	T	missense_variant	MODERATE	lipO	p.Cys265Tyr
+Chromosome	1604290	A	T	missense_variant	MODERATE	Rv1428c	p.Val157Asp
+Chromosome	1606357	GTT	GT	upstream_gene_variant	MODIFIER	lipO	
+Chromosome	1608276	A	C	missense_variant	MODERATE	Rv1431	p.Asn65Thr
+Chromosome	1609840	A	G	synonymous_variant	LOW	Rv1431	p.Pro586Pro
+Chromosome	1611283	T	C	upstream_gene_variant	MODIFIER	Rv1433	
+Chromosome	1613035	T	C	upstream_gene_variant	MODIFIER	Rv1435c	
+Chromosome	1613927	C	A	synonymous_variant	LOW	gap	p.Ala207Ala
+Chromosome	1616831	A	G	upstream_gene_variant	MODIFIER	Rv1435c	
+Chromosome	1617833	C	T	upstream_gene_variant	MODIFIER	Rv1435c	
+Chromosome	1623789	C	T	synonymous_variant	LOW	devB	p.Pro223Pro
+Chromosome	1624791	C	G	missense_variant	MODERATE	opcA	p.Arg192Pro
+Chromosome	1625259	A	C	missense_variant	MODERATE	opcA	p.Ile36Ser
+Chromosome	1627351	T	C	missense_variant	MODERATE	tal	p.Thr244Ala
+Chromosome	1630148	A	C	missense_variant	MODERATE	tkt	p.Tyr18Asp
+Chromosome	1630595	C	T	upstream_gene_variant	MODIFIER	zwf2	
+Chromosome	1634580	T	C	synonymous_variant	LOW	PE_PGRS27	p.Leu16Leu
+Chromosome	1634581	A	G	missense_variant	MODERATE	PE_PGRS27	p.Leu16Ser
+Chromosome	1634586	T	C	synonymous_variant	LOW	PE_PGRS27	p.Ala14Ala
+Chromosome	1634589	G	C	synonymous_variant	LOW	PE_PGRS27	p.Ala13Ala
+Chromosome	1634592	C	G	synonymous_variant	LOW	PE_PGRS27	p.Ala12Ala
+Chromosome	1637025	G	T	missense_variant	MODERATE	PE_PGRS28	p.Thr402Asn
+Chromosome	1637026	T	C	missense_variant	MODERATE	PE_PGRS28	p.Thr402Ala
+Chromosome	1637034	G	T	missense_variant	MODERATE	PE_PGRS28	p.Ala399Asp
+Chromosome	1637036	C	A	synonymous_variant	LOW	PE_PGRS28	p.Gly398Gly
+Chromosome	1637059	G	A	synonymous_variant	LOW	PE_PGRS28	p.Leu391Leu
+Chromosome	1638020	T	C	synonymous_variant	LOW	PE_PGRS28	p.Ala70Ala
+Chromosome	1638364	C	T	upstream_gene_variant	MODIFIER	PE_PGRS27	
+Chromosome	1639418	A	G	synonymous_variant	LOW	Rv1453	p.Leu346Leu
+Chromosome	1639594	C	A	missense_variant	MODERATE	Rv1453	p.Pro405Gln
+Chromosome	1639643	T	C	synonymous_variant	LOW	Rv1453	p.Arg421Arg
+Chromosome	1640442	C	T	synonymous_variant	LOW	qor	p.Gly73Gly
+Chromosome	1641318	C	G	synonymous_variant	LOW	Rv1455	p.Ala213Ala
+Chromosome	1644250	G	C	missense_variant	MODERATE	Rv1458c	p.Ala4Gly
+Chromosome	1645802	T	C	missense_variant	MODERATE	Rv1459c	p.Lys113Glu
+Chromosome	1647830	G	A	missense_variant	MODERATE	Rv1461	p.Gly281Asp
+Chromosome	1650072	A	G	missense_variant	MODERATE	Rv1462	p.Asn183Asp
+Chromosome	1657843	G	A	missense_variant	MODERATE	ctpD	p.Arg294His
+Chromosome	1658535	G	T	missense_variant	MODERATE	ctpD	p.Val525Phe
+Chromosome	1659902	T	C	missense_variant	MODERATE	echA12	p.Val47Ala
+Chromosome	1659994	C	T	missense_variant	MODERATE	echA12	p.Pro78Ser
+Chromosome	1668914	C	G	missense_variant	MODERATE	Rv1478	p.Leu166Val
+Chromosome	1674162	C	T	synonymous_variant	LOW	fabG1	p.Gly241Gly
+Chromosome	1676290	C	A	missense_variant	MODERATE	Rv1486c	p.Lys198Asn
+Chromosome	1676308	T	C	synonymous_variant	LOW	Rv1486c	p.Gly192Gly
+Chromosome	1676662	C	G	synonymous_variant	LOW	Rv1486c	p.Arg74Arg
+Chromosome	1677765	C	T	synonymous_variant	LOW	Rv1488	p.Arg123Arg
+Chromosome	1679833	C	A	missense_variant	MODERATE	Rv1490	p.Thr171Asn
+Chromosome	1688300	T	C	synonymous_variant	LOW	lipL	p.Phe120Phe
+Chromosome	1689349	C	T	missense_variant	MODERATE	Rv1498c	p.Arg191His
+Chromosome	1691520	T	G	missense_variant	MODERATE	Rv1500	p.Leu224Arg
+Chromosome	1692141	A	C	synonymous_variant	LOW	Rv1501	p.Ile84Ile
+Chromosome	1693262	GAAAAA	GAAAA	frameshift_variant	HIGH	Rv1502	p.Asn115fs
+Chromosome	1693561	A	G	missense_variant	MODERATE	Rv1502	p.Tyr213Cys
+Chromosome	1694547	A	C	stop_lost&splice_region_variant	HIGH	Rv1504c	p.Ter200Gluext*?
+Chromosome	1695674	G	A	synonymous_variant	LOW	Rv1505c	p.Tyr91Tyr
+Chromosome	1696499	GG	GCGGTG	upstream_gene_variant	MODIFIER	Rv1503c	
+Chromosome	1697481	C	A	missense_variant	MODERATE	Rv1507A	p.Ser42Arg
+Chromosome	1697633	T	C	missense_variant	MODERATE	Rv1507A	p.Leu93Pro
+Chromosome	1698911	G	A	synonymous_variant	LOW	Rv1508c	p.Gly328Gly
+Chromosome	1699849	G	A	missense_variant	MODERATE	Rv1508c	p.Pro16Ser
+Chromosome	1706119	T	C	synonymous_variant	LOW	Rv1514c	p.Ser159Ser
+Chromosome	1706746	C	A	missense_variant	MODERATE	Rv1515c	p.Val261Phe
+Chromosome	1709432	C	T	missense_variant	MODERATE	Rv1517	p.Leu188Phe
+Chromosome	1712671	G	A	missense_variant	MODERATE	fadD25	p.Val124Ile
+Chromosome	1713192	A	G	synonymous_variant	LOW	fadD25	p.Val297Val
+Chromosome	1714837	C	T	missense_variant	MODERATE	mmpL12	p.Gly926Ser
+Chromosome	1715799	C	A	missense_variant	MODERATE	mmpL12	p.Ser605Ile
+Chromosome	1716472	A	G	missense_variant	MODERATE	mmpL12	p.Ser381Pro
+Chromosome	1716649	C	T	missense_variant	MODERATE	mmpL12	p.Glu322Lys
+Chromosome	1718444	T	C	synonymous_variant	LOW	Rv1523	p.Arg264Arg
+Chromosome	1721428	GAAAAAAA	GAAAAAA	frameshift_variant	HIGH	Rv1526c	p.Phe211fs
+Chromosome	1721490	C	G	missense_variant	MODERATE	Rv1526c	p.Ala191Pro
+Chromosome	1726816	G	T	missense_variant	MODERATE	pks5	p.Pro532Thr
+Chromosome	1728615	A	C	upstream_gene_variant	MODIFIER	pks5	
+Chromosome	1728837	A	G	upstream_gene_variant	MODIFIER	pks5	
+Chromosome	1731563	A	T	missense_variant	MODERATE	adh	p.His64Leu
+Chromosome	1735903	A	G	upstream_gene_variant	MODIFIER	Rv1532c	
+Chromosome	1739390	A	G	missense_variant	MODERATE	ileS	p.Thr958Ala
+Chromosome	1742232	G	A	upstream_gene_variant	MODIFIER	ansA	
+Chromosome	1745446	T	A	missense_variant	MODERATE	Rv1543	p.Leu128His
+Chromosome	1752561	T	C	missense_variant	MODERATE	PPE21	p.Asp258Gly
+Chromosome	1753519	GCCCC	GCCCCC	frameshift_variant	HIGH	fadD11.1	p.Cys6fs
+Chromosome	1754016	GCCCCC	GCCCCCC	frameshift_variant	HIGH	fadD11.1	p.Ala172fs
+Chromosome	1754299	A	C	missense_variant	MODERATE	fadD11	p.Glu195Ala
+Chromosome	1754983	C	T	missense_variant	MODERATE	fadD11	p.Ala423Val
+Chromosome	1756732	G	A	missense_variant	MODERATE	plsB1	p.Val430Ile
+Chromosome	1757029	GA	G	frameshift_variant	HIGH	plsB1	p.Asp529fs
+Chromosome	1758790	C	T	synonymous_variant	LOW	frdA	p.Pro370Pro
+Chromosome	1759252	G	T	synonymous_variant	LOW	frdA	p.Ser524Ser
+Chromosome	1760292	A	G	missense_variant	MODERATE	frdC	p.Met40Val
+Chromosome	1760923	T	C	synonymous_variant	LOW	frdD	p.Thr124Thr
+Chromosome	1762127	C	T	synonymous_variant	LOW	mmpL6	p.Asp128Asp
+Chromosome	1766689	GCACAC	GCAC	frameshift_variant	HIGH	treZ	p.Val151fs
+Chromosome	1778430	T	C	missense_variant	MODERATE	bioD	p.Met191Thr
+Chromosome	1779370	G	C	synonymous_variant	LOW	Rv1573	p.Thr19Thr
+Chromosome	1780586	CG	CGG	frameshift_variant	HIGH	Rv1575	p.Val131fs
+Chromosome	1780800	C	A	missense_variant	MODERATE	Rv1576c	p.Gly422Val
+Chromosome	1786135	G	C	missense_variant	MODERATE	Rv1583c	p.Pro59Arg
+Chromosome	1788570	G	T	missense_variant	MODERATE	Rv1587c	p.Asn198Lys
+Chromosome	1788574	T	C	missense_variant	MODERATE	Rv1587c	p.His197Arg
+Chromosome	1788613	C	T	missense_variant	MODERATE	Rv1587c	p.Gly184Asp
+Chromosome	1788627	C	G	synonymous_variant	LOW	Rv1587c	p.Leu179Leu
+Chromosome	1788630	C	G	missense_variant	MODERATE	Rv1587c	p.Glu178Asp
+Chromosome	1788821	G	A	stop_gained	HIGH	Rv1587c	p.Gln115*
+Chromosome	1789446	C	T	missense_variant	MODERATE	Rv1588c	p.Val131Ile
+Chromosome	1789516	A	G	synonymous_variant	LOW	Rv1588c	p.Gly107Gly
+Chromosome	1789564	C	T	synonymous_variant	LOW	Rv1588c	p.Arg91Arg
+Chromosome	1789565	C	A	missense_variant	MODERATE	Rv1588c	p.Arg91Leu
+Chromosome	1789650	C	T	missense_variant	MODERATE	Rv1588c	p.Ala63Thr
+Chromosome	1789654	A	G	synonymous_variant	LOW	Rv1588c	p.Leu61Leu
+Chromosome	1789671	C	T	missense_variant	MODERATE	Rv1588c	p.Ala56Thr
+Chromosome	1789675	A	C	synonymous_variant	LOW	Rv1588c	p.Gly54Gly
+Chromosome	1789678	C	G	synonymous_variant	LOW	Rv1588c	p.Val53Val
+Chromosome	1789939	G	C	upstream_gene_variant	MODIFIER	Rv1582c	
+Chromosome	1791823	T	C	missense_variant	MODERATE	Rv1591	p.Leu85Ser
+Chromosome	1792777	T	C	missense_variant	MODERATE	Rv1592c	p.Ile322Val
+Chromosome	1792778	T	C	synonymous_variant	LOW	Rv1592c	p.Glu321Glu
+Chromosome	1797577	A	G	missense_variant	MODERATE	nadC	p.Asn64Asp
+Chromosome	1798355	G	A	missense_variant	MODERATE	Rv1597	p.Gly21Asp
+Chromosome	1803265	G	A	missense_variant	MODERATE	hisH	p.Ser201Asn
+Chromosome	1804409	C	A	missense_variant	MODERATE	impA	p.Pro124Gln
+Chromosome	1816652	A	C	missense_variant	MODERATE	pykA	p.Lys155Thr
+Chromosome	1817976	A	T	missense_variant	MODERATE	tesB1	p.His121Leu
+Chromosome	1826054	T	C	missense_variant	MODERATE	Rv1624c	p.Thr178Ala
+Chromosome	1826343	C	T	synonymous_variant	LOW	Rv1624c	p.Arg81Arg
+Chromosome	1826624	G	A	missense_variant	MODERATE	cya	p.Ala441Val
+Chromosome	1827553	C	G	missense_variant	MODERATE	cya	p.Leu131Phe
+Chromosome	1828133	GCCCCCC	GCCCCC	upstream_gene_variant	MODIFIER	cydD	
+Chromosome	1829576	C	T	synonymous_variant	LOW	Rv1627c	p.Glu166Glu
+Chromosome	1832293	G	C	missense_variant	MODERATE	polA	p.Glu543Asp
+Chromosome	1832642	G	T	missense_variant	MODERATE	polA	p.Gly660Cys
+Chromosome	1832643	G	C	missense_variant	MODERATE	polA	p.Gly660Ala
+Chromosome	1835952	G	A	missense_variant	MODERATE	coaE	p.Ala314Thr
+Chromosome	1836286	G	C	upstream_gene_variant	MODIFIER	uvrB	
+Chromosome	1839260	T	G	synonymous_variant	LOW	Rv1634	p.Leu31Leu
+Chromosome	1839329	G	A	synonymous_variant	LOW	Rv1634	p.Arg54Arg
+Chromosome	1839759	G	C	missense_variant	MODERATE	Rv1634	p.Gly198Arg
+Chromosome	1841313	G	A	synonymous_variant	LOW	Rv1635c	p.Gly310Gly
+Chromosome	1847919	C	G	synonymous_variant	LOW	Rv1639c	p.Thr180Thr
+Chromosome	1848147	C	A	synonymous_variant	LOW	Rv1639c	p.Val104Val
+Chromosome	1849191	T	C	missense_variant	MODERATE	lysX	p.Ile949Val
+Chromosome	1849609	T	C	synonymous_variant	LOW	lysX	p.Arg809Arg
+Chromosome	1851048	A	C	missense_variant	MODERATE	lysX	p.Ser330Ala
+Chromosome	1853974	C	T	synonymous_variant	LOW	tsnR	p.Gly123Gly
+Chromosome	1854300	T	C	missense_variant	MODERATE	tsnR	p.Leu232Pro
+Chromosome	1856777	G	C	missense_variant	MODERATE	Rv1647	p.Ala2Pro
+Chromosome	1859559	C	A	missense_variant	MODERATE	pheS	p.Ala276Asp
+Chromosome	1859989	C	T	missense_variant	MODERATE	pheT	p.Arg78Trp
+Chromosome	1863660	C	T	missense_variant	MODERATE	PE_PGRS30	p.Gly575Ser
+Chromosome	1864544	T	C	missense_variant	MODERATE	PE_PGRS30	p.Asn280Ser
+Chromosome	1872959	A	G	synonymous_variant	LOW	argH	p.Arg107Arg
+Chromosome	1873954	G	T	missense_variant	MODERATE	argH	p.Arg439Leu
+Chromosome	1874993	CGGGGG	CGGGG	frameshift_variant	HIGH	pks10	p.Gly280fs
+Chromosome	1875295	C	T	upstream_gene_variant	MODIFIER	pks7	
+Chromosome	1875881	TGGGC	T	frameshift_variant	HIGH	pks7	p.Leu193fs
+Chromosome	1875886	C	A	missense_variant	MODERATE	pks7	p.Leu195Met
+Chromosome	1876739	T	G	missense_variant	MODERATE	pks7	p.Val479Gly
+Chromosome	1885772	G	A	missense_variant	MODERATE	pks8	p.Ala1357Thr
+Chromosome	1886263	C	G	missense_variant	MODERATE	pks8	p.His1520Gln
+Chromosome	1886859	C	A	synonymous_variant	LOW	pks17	p.Gly116Gly
+Chromosome	1887284	G	A	missense_variant	MODERATE	pks17	p.Arg258Gln
+Chromosome	1889073	G	C	missense_variant	MODERATE	pks9	p.Ala350Pro
+Chromosome	1889265	CCG	CCGCG	frameshift_variant	HIGH	pks9	p.Val415fs
+Chromosome	1889272	C	T	missense_variant	MODERATE	pks9	p.Ala416Val
+Chromosome	1894300	GG	GGTCTTGCCGCG	frameshift_variant	HIGH	Rv1668c	p.Pro348fs
+Chromosome	1894422	A	G	synonymous_variant	LOW	Rv1668c	p.Asp307Asp
+Chromosome	1897646	G	C	missense_variant	MODERATE	Rv1672c	p.Pro188Ala
+Chromosome	1897938	G	A	synonymous_variant	LOW	Rv1672c	p.Val90Val
+Chromosome	1900800	A	G	missense_variant	MODERATE	cmr	p.Val59Ala
+Chromosome	1901493	T	C	synonymous_variant	LOW	Rv1676	p.Ser149Ser
+Chromosome	1902156	G	A	missense_variant	MODERATE	dsbF	p.Gly137Arg
+Chromosome	1902386	C	A	upstream_gene_variant	MODIFIER	Rv1672c	
+Chromosome	1902387	C	A	upstream_gene_variant	MODIFIER	Rv1672c	
+Chromosome	1903050	C	T	synonymous_variant	LOW	Rv1678	p.Tyr218Tyr
+Chromosome	1906336	A	G	upstream_gene_variant	MODIFIER	Rv1682	
+Chromosome	1907177	C	T	missense_variant	MODERATE	Rv1682	p.Arg259Trp
+Chromosome	1907296	G	C	synonymous_variant	LOW	Rv1682	p.Ala298Ala
+Chromosome	1911133	G	T	synonymous_variant	LOW	Rv1685c	p.Val89Val
+Chromosome	1916137	A	G	synonymous_variant	LOW	Rv1691	p.Leu63Leu
+Chromosome	1917972	A	G	synonymous_variant	LOW	tlyA	p.Leu11Leu
+Chromosome	1920120	G	T	synonymous_variant	LOW	recN	p.Pro146Pro
+Chromosome	1923985	G	A	missense_variant	MODERATE	pyrG	p.Val53Ile
+Chromosome	1924959	T	C	synonymous_variant	LOW	pyrG	p.Gly377Gly
+Chromosome	1927417	A	T	missense_variant	MODERATE	Rv1702c	p.Cys387Ser
+Chromosome	1931179	C	A	missense_variant	MODERATE	cycA	p.Arg93Leu
+Chromosome	1931470	G	A	upstream_gene_variant	MODIFIER	Rv1702c	
+Chromosome	1931718	G	C	missense_variant	MODERATE	PPE22	p.Leu313Val
+Chromosome	1933988	G	A	upstream_gene_variant	MODIFIER	Rv1703c	
+Chromosome	1935695	T	G	missense_variant	MODERATE	Rv1707	p.Ser272Ala
+Chromosome	1936525	G	A	missense_variant	MODERATE	Rv1708	p.Ala56Thr
+Chromosome	1939044	G	T	synonymous_variant	LOW	Rv1711	p.Val69Val
+Chromosome	1940307	G	T	missense_variant	MODERATE	engA	p.Trp7Leu
+Chromosome	1943991	A	T	missense_variant	MODERATE	Rv1716	p.Tyr139Phe
+Chromosome	1944107	A	G	missense_variant	MODERATE	Rv1716	p.Ser178Gly
+Chromosome	1944402	T	C	missense_variant	MODERATE	Rv1716	p.Val276Ala
+Chromosome	1944723	G	T	synonymous_variant	LOW	Rv1717	p.Val106Val
+Chromosome	1945465	CCGAG	C	frameshift_variant	HIGH	Rv1718	p.Arg220fs
+Chromosome	1945836	G	A	missense_variant	MODERATE	Rv1719	p.Gly66Arg
+Chromosome	1950767	T	C	synonymous_variant	LOW	Rv1724c	p.Lys95Lys
+Chromosome	1952160	T	C	synonymous_variant	LOW	Rv1726	p.Thr103Thr
+Chromosome	1956930	T	G	missense_variant	MODERATE	Rv1730c	p.Thr106Pro
+Chromosome	1960284	C	A	missense_variant	MODERATE	Rv1733c	p.Gln68His
+Chromosome	1963383	G	A	synonymous_variant	LOW	narX	p.Tyr268Tyr
+Chromosome	1963957	T	C	missense_variant	MODERATE	narX	p.Asp77Gly
+Chromosome	1964837	G	A	synonymous_variant	LOW	narK2	p.Ala178Ala
+Chromosome	1964913	C	T	missense_variant	MODERATE	narK2	p.Arg153Gln
+Chromosome	1965869	GAA	GAAA	frameshift_variant	HIGH	Rv1738	p.Arg73fs
+Chromosome	1967237	C	A	missense_variant	MODERATE	Rv1739c	p.Arg134Leu
+Chromosome	1971725	G	C	synonymous_variant	LOW	idi	p.Arg89Arg
+Chromosome	1978807	G	T	missense_variant	MODERATE	fadD1	p.Ala254Asp
+Chromosome	1979026	C	T	missense_variant	MODERATE	fadD1	p.Ser181Asn
+Chromosome	1983313	T	G	missense_variant	MODERATE	PPE24	p.Asn488Thr
+Chromosome	1985054	C	T	synonymous_variant	LOW	Rv1754c	p.Thr539Thr
+Chromosome	1989057	A	G	missense_variant	MODERATE	cut1	p.Arg6Gly
+Chromosome	1989370	C	T	missense_variant	MODERATE	cut1	p.Pro110Leu
+Chromosome	1990256	T	G	synonymous_variant	LOW	wag22	p.Ser774Ser
+Chromosome	1992323	GCCCCCCCC	GCCCCCCC	frameshift_variant	HIGH	wag22	p.Gly85fs
+Chromosome	1993652	C	T	missense_variant	MODERATE	Rv1760	p.Ala167Val
+Chromosome	1993808	A	T	missense_variant	MODERATE	Rv1760	p.Glu219Val
+Chromosome	1998122	G	A	synonymous_variant	LOW	Rv1765c	p.Leu132Leu
+Chromosome	1998141	G	C	synonymous_variant	LOW	Rv1765c	p.Gly125Gly
+Chromosome	1998300	T	C	synonymous_variant	LOW	Rv1765c	p.Ser72Ser
+Chromosome	1998701	A	G	upstream_gene_variant	MODIFIER	Rv1761c	
+Chromosome	2000536	C	T	upstream_gene_variant	MODIFIER	Rv1762c	
+Chromosome	2001677	TCGGTAACGG	TCGGTAACGGTGGGGGCGGCGGTAACGG	disruptive_inframe_insertion	MODERATE	PE_PGRS31	p.Gly358_Gly359insGlyGlyGlyGlyAsnGly
+Chromosome	2005944	A	C	missense_variant	MODERATE	Rv1771	p.Ser262Arg
+Chromosome	2008044	C	T	synonymous_variant	LOW	Rv1774	p.Ala71Ala
+Chromosome	2010614	G	A	upstream_gene_variant	MODIFIER	Rv1773c	
+Chromosome	2011542	T	C	missense_variant	MODERATE	cyp144	p.Ile296Thr
+Chromosome	2011673	C	G	missense_variant	MODERATE	cyp144	p.Pro340Ala
+Chromosome	2013872	A	C	missense_variant	MODERATE	Rv1779c	p.Val203Gly
+Chromosome	2013943	G	C	missense_variant	MODERATE	Rv1779c	p.Asp179Glu
+Chromosome	2016532	G	A	synonymous_variant	LOW	malQ	p.Tyr315Tyr
+Chromosome	2017291	T	C	synonymous_variant	LOW	malQ	p.Arg62Arg
+Chromosome	2017560	A	T	upstream_gene_variant	MODIFIER	Rv1779c	
+Chromosome	2019236	T	G	synonymous_variant	LOW	eccB5	p.Pro499Pro
+Chromosome	2022868	T	C	synonymous_variant	LOW	eccC5	p.Ser1204Ser
+Chromosome	2023211	G	T	missense_variant	MODERATE	eccC5	p.Val1319Phe
+Chromosome	2023976	C	T	missense_variant	MODERATE	cyp143	p.Ser218Asn
+Chromosome	2028967	A	C	synonymous_variant	LOW	PPE27	p.Ala181Ala
+Chromosome	2030355	A	G	upstream_gene_variant	MODIFIER	esxN	
+Chromosome	2030521	T	C	upstream_gene_variant	MODIFIER	esxN	
+Chromosome	2035937	G	A	missense_variant	MODERATE	eccE5	p.Arg152His
+Chromosome	2039884	T	G	missense_variant	MODERATE	PPE28	p.Cys144Trp
+Chromosome	2045310	A	G	synonymous_variant	LOW	PE_PGRS32	p.Ile511Ile
+Chromosome	2045849	C	T	missense_variant	MODERATE	PE_PGRS32	p.Ala332Thr
+Chromosome	2046211	T	G	missense_variant	MODERATE	PE_PGRS32	p.His211Pro
+Chromosome	2047425	GCGCTAACTTCCCGTCTC	GC	upstream_gene_variant	MODIFIER	PE_PGRS32	
+Chromosome	2047442	C	A	upstream_gene_variant	MODIFIER	PE_PGRS32	
+Chromosome	2049065	T	C	missense_variant	MODERATE	PPE31	p.Phe223Ser
+Chromosome	2049097	G	C	missense_variant	MODERATE	PPE31	p.Val234Leu
+Chromosome	2050061	A	G	synonymous_variant	LOW	PPE32	p.Ser47Ser
+Chromosome	2050822	G	C	missense_variant	MODERATE	PPE32	p.Gly301Ala
+Chromosome	2051746	T	C	synonymous_variant	LOW	PPE33	p.Ala155Ala
+Chromosome	2052035	G	T	missense_variant	MODERATE	PPE33	p.Val252Leu
+Chromosome	2052687	G	C	stop_lost&splice_region_variant	HIGH	PPE33	p.Ter469Serext*?
+Chromosome	2052960	TGCAGACCTATGAG	TGCAGACCTATGAGCAGACCTATGAG	disruptive_inframe_insertion	MODERATE	Rv1810	p.Met13_Arg14insSerArgProMet
+Chromosome	2055271	A	G	missense_variant	MODERATE	Rv1812c	p.Leu30Pro
+Chromosome	2055550	A	C	upstream_gene_variant	MODIFIER	Rv1812c	
+Chromosome	2057774	A	T	missense_variant	MODERATE	Rv1815	p.Ile83Phe
+Chromosome	2062328	G	A	missense_variant	MODERATE	PE_PGRS33	p.Pro116Leu
+Chromosome	2062468	C	T	synonymous_variant	LOW	PE_PGRS33	p.Ala69Ala
+Chromosome	2062922	T	C	missense_variant	MODERATE	bacA	p.Ile603Val
+Chromosome	2066471	T	C	synonymous_variant	LOW	secA2	p.Gly5Gly
+Chromosome	2072190	A	C	missense_variant	MODERATE	gcvH	p.Glu80Ala
+Chromosome	2074754	C	T	upstream_gene_variant	MODIFIER	Rv1830	
+Chromosome	2080182	G	T	missense_variant	MODERATE	lipZ	p.Arg118Leu
+Chromosome	2083124	T	C	missense_variant	MODERATE	Rv1836c	p.Ser505Gly
+Chromosome	2090306	G	A	missense_variant	MODERATE	Rv1841c	p.Pro138Leu
+Chromosome	2090400	TCGCCAACG	TCGCCAACGCCACCGCCAACG	conservative_inframe_insertion	MODERATE	Rv1841c	p.Ser104_Leu105insLeuAlaValAla
+Chromosome	2092391	G	T	synonymous_variant	LOW	guaB1	p.Ile436Ile
+Chromosome	2092970	C	T	synonymous_variant	LOW	guaB1	p.Leu243Leu
+Chromosome	2093648	G	A	synonymous_variant	LOW	guaB1	p.Asn17Asn
+Chromosome	2093715	T	C	upstream_gene_variant	MODIFIER	PE_PGRS34	
+Chromosome	2094911	ACAGCGTCAGCGTCAG	ACAGCGTCAG	conservative_inframe_deletion	MODERATE	gnd1	p.Asp89_Ala90del
+Chromosome	2096094	C	T	synonymous_variant	LOW	blaR	p.Thr25Thr
+Chromosome	2096186	A	G	synonymous_variant	LOW	blaI	p.Thr138Thr
+Chromosome	2096430	A	C	missense_variant	MODERATE	blaI	p.Leu57Arg
+Chromosome	2097144	G	C	missense_variant	MODERATE	Rv1847	p.Val90Leu
+Chromosome	2104779	C	T	synonymous_variant	LOW	Rv1856c	p.Gly15Gly
+Chromosome	2108141	T	C	missense_variant	MODERATE	apa	p.Phe136Leu
+Chromosome	2108890	A	C	upstream_gene_variant	MODIFIER	Rv1855c	
+Chromosome	2109523	CGG	CGGG	upstream_gene_variant	MODIFIER	Rv1856c	
+Chromosome	2110365	A	C	synonymous_variant	LOW	adhA	p.Thr274Thr
+Chromosome	2115746	C	G	upstream_gene_variant	MODIFIER	Rv1863c	
+Chromosome	2116903	C	T	synonymous_variant	LOW	Rv1867	p.Gly380Gly
+Chromosome	2118162	GCCCCC	GCCCC	frameshift_variant	HIGH	Rv1868	p.Pro274fs
+Chromosome	2119485	G	A	missense_variant	MODERATE	Rv1869c	p.Pro404Leu
+Chromosome	2120796	T	A	stop_lost&splice_region_variant	HIGH	Rv1870c	p.Ter212Leuext*?
+Chromosome	2122625	A	G	missense_variant	MODERATE	lldD2	p.Val176Ala
+Chromosome	2122976	C	G	missense_variant	MODERATE	lldD2	p.Gly59Ala
+Chromosome	2123987	G	A	missense_variant	MODERATE	Rv1874	p.Glu102Lys
+Chromosome	2127523	G	A	synonymous_variant	LOW	Rv1877	p.Leu540Leu
+Chromosome	2128372	A	G	synonymous_variant	LOW	glnA3	p.Thr117Thr
+Chromosome	2128870	A	G	synonymous_variant	LOW	glnA3	p.Leu283Leu
+Chromosome	2129281	C	A	synonymous_variant	LOW	glnA3	p.Ala420Ala
+Chromosome	2130529	A	G	downstream_gene_variant	MODIFIER	bfrA	
+Chromosome	2132062	C	G	missense_variant	MODERATE	lppE	p.Gly90Arg
+Chromosome	2133468	TTCGCAT	TTCGCATGCCGTCACCTCGCAT	conservative_inframe_insertion	MODERATE	Rv1883c	p.Val73_Cys74insCysGluValThrAla
+Chromosome	2135870	T	C	upstream_gene_variant	MODIFIER	cyp140	
+Chromosome	2137521	AC	ACTCCGATCACC	frameshift_variant	HIGH	Rv1888c	p.Ter187fs
+Chromosome	2138767	G	C	missense_variant	MODERATE	Rv1889c	p.Ala84Gly
+Chromosome	2143328	G	C	missense_variant	MODERATE	Rv1895	p.Val270Leu
+Chromosome	2143523	CT	CTT	frameshift_variant	HIGH	Rv1895	p.Arg336fs
+Chromosome	2145878	A	G	missense_variant	MODERATE	lppD	p.Leu123Pro
+Chromosome	2147022	A	C	missense_variant	MODERATE	lipJ	p.Ile204Met
+Chromosome	2147641	CGTTAGTTCATGCGTAG	CGTTAGTTCATGCGTAGTTAGTTCATGCGTAG	upstream_gene_variant	MODIFIER	Rv1896c	
+Chromosome	2151678	G	T	missense_variant	MODERATE	aao	p.Pro240Thr
+Chromosome	2154724	C	A	missense_variant	MODERATE	katG	p.Arg463Leu
+Chromosome	2155168	C	G	missense_variant	MODERATE	katG	p.Ser315Thr
+Chromosome	2156868	G	T	synonymous_variant	LOW	Rv1910c	p.Gly144Gly
+Chromosome	2158109	T	C	missense_variant	MODERATE	fadB5	p.Asp328Gly
+Chromosome	2158563	GTTTTT	GTTTT	frameshift_variant	HIGH	fadB5	p.Lys176fs
+Chromosome	2160632	A	G	missense_variant	MODERATE	aceAa	p.His57Arg
+Chromosome	2160998	G	A	missense_variant	MODERATE	aceAa	p.Gly179Asp
+Chromosome	2161343	GTTTT	GTTTTT	frameshift_variant	HIGH	aceAa	p.Thr296fs
+Chromosome	2163790	A	C	synonymous_variant	LOW	PPE34	p.Pro1174Pro
+Chromosome	2165256	T	G	missense_variant	MODERATE	PPE34	p.Ser686Arg
+Chromosome	2165286	A	C	missense_variant	MODERATE	PPE34	p.Ser676Ala
+Chromosome	2165503	T	A	synonymous_variant	LOW	PPE34	p.Ala603Ala
+Chromosome	2167926	A	G	missense_variant	MODERATE	PPE35	p.Leu896Ser
+Chromosome	2176277	C	T	missense_variant	MODERATE	lipD	p.His369Tyr
+Chromosome	2177073	T	C	upstream_gene_variant	MODIFIER	lppF	
+Chromosome	2177968	G	T	synonymous_variant	LOW	fadD31	p.Ala294Ala
+Chromosome	2179708	C	A	synonymous_variant	LOW	Rv1927	p.Pro12Pro
+Chromosome	2185358	G	A	synonymous_variant	LOW	fadE17	p.Thr277Thr
+Chromosome	2185741	C	T	missense_variant	MODERATE	fadE17	p.Asp150Asn
+Chromosome	2197065	C	G	synonymous_variant	LOW	Rv1945	p.Ala359Ala
+Chromosome	2198526	A	C	upstream_gene_variant	MODIFIER	mazF5	
+Chromosome	2199052	C	G	missense_variant	MODERATE	Rv1948c	p.Gly5Arg
+Chromosome	2199416	A	G	missense_variant	MODERATE	Rv1949c	p.Phe207Leu
+Chromosome	2207591	T	TC	upstream_gene_variant	MODIFIER	Rv1958c	
+Chromosome	2209465	G	A	missense_variant	MODERATE	mce3A	p.Ala47Thr
+Chromosome	2211826	A	G	synonymous_variant	LOW	mce3C	p.Lys67Lys
+Chromosome	2215712	G	A	synonymous_variant	LOW	mce3F	p.Leu152Leu
+Chromosome	2216370	G	C	missense_variant	MODERATE	mce3F	p.Gly372Arg
+Chromosome	2216443	C	A	missense_variant	MODERATE	mce3F	p.Ala396Glu
+Chromosome	2216973	A	G	missense_variant	MODERATE	Rv1972	p.Ser128Gly
+Chromosome	2218012	A	G	synonymous_variant	LOW	Rv1974	p.Ala118Ala
+Chromosome	2218488	G	C	missense_variant	MODERATE	Rv1975	p.Ser146Thr
+Chromosome	2219955	CGG	CG	frameshift_variant	HIGH	Rv1977	p.Gln69fs
+Chromosome	2220512	T	G	synonymous_variant	LOW	Rv1977	p.Ser253Ser
+Chromosome	2222308	T	C	missense_variant	MODERATE	Rv1979c	p.Asp286Gly
+Chromosome	2223293	T	C	upstream_gene_variant	MODIFIER	Rv1976c	
+Chromosome	2228967	A	G	upstream_gene_variant	MODIFIER	mpt64	
+Chromosome	2229801	C	G	synonymous_variant	LOW	Rv1985c	p.Pro34Pro
+Chromosome	2231486	A	G	upstream_gene_variant	MODIFIER	cfp21	
+Chromosome	2232979	CGGGG	CGGGGG	frameshift_variant	HIGH	Rv1989c	p.Gln108fs
+Chromosome	2237497	G	C	missense_variant	MODERATE	Rv1993c	p.Leu27Val
+Chromosome	2238930	A	C	upstream_gene_variant	MODIFIER	Rv1990A	
+Chromosome	2239055	C	T	missense_variant	MODERATE	Rv1996	p.Pro18Ser
+Chromosome	2239160	G	C	missense_variant	MODERATE	Rv1996	p.Gly53Arg
+Chromosome	2240062	C	G	upstream_gene_variant	MODIFIER	ctpG	
+Chromosome	2241646	C	T	synonymous_variant	LOW	ctpF	p.Ala496Ala
+Chromosome	2241742	A	G	synonymous_variant	LOW	ctpF	p.Pro528Pro
+Chromosome	2242808	G	A	missense_variant	MODERATE	ctpF	p.Ala884Thr
+Chromosome	2243034	T	G	missense_variant	MODERATE	Rv1998c	p.Ser230Arg
+Chromosome	2244336	G	A	missense_variant	MODERATE	Rv1999c	p.Ala268Val
+Chromosome	2246960	G	C	synonymous_variant	LOW	Rv2001	p.Val43Val
+Chromosome	2247677	A	C	synonymous_variant	LOW	fabG3	p.Ile6Ile
+Chromosome	2248731	T	G	synonymous_variant	LOW	Rv2003c	p.Gly230Gly
+Chromosome	2249035	A	G	missense_variant	MODERATE	Rv2003c	p.Met129Thr
+Chromosome	2251999	A	G	upstream_gene_variant	MODIFIER	Rv2003c	
+Chromosome	2253974	C	T	missense_variant	MODERATE	otsB1	p.Thr658Met
+Chromosome	2255942	G	T	missense_variant	MODERATE	otsB1	p.Arg1314Leu
+Chromosome	2260100	C	T	upstream_gene_variant	MODIFIER	fdxA	
+Chromosome	2260525	C	T	upstream_gene_variant	MODIFIER	fdxA	
+Chromosome	2261479	G	A	missense_variant	MODERATE	Rv2014	p.Gly128Ser
+Chromosome	2262620	T	A	missense_variant	MODERATE	Rv2015c	p.Glu151Asp
+Chromosome	2262857	T	C	synonymous_variant	LOW	Rv2015c	p.Ser72Ser
+Chromosome	2266487	G	C	synonymous_variant	LOW	Rv2020c	p.Leu78Leu
+Chromosome	2266508	A	T	missense_variant	MODERATE	Rv2020c	p.Asp71Glu
+Chromosome	2266517	T	C	synonymous_variant	LOW	Rv2020c	p.Glu68Glu
+Chromosome	2266550	G	T	synonymous_variant	LOW	Rv2020c	p.Gly57Gly
+Chromosome	2266553	C	G	synonymous_variant	LOW	Rv2020c	p.Ser56Ser
+Chromosome	2266583	C	G	missense_variant	MODERATE	Rv2020c	p.Glu46Asp
+Chromosome	2266598	G	C	synonymous_variant	LOW	Rv2020c	p.Leu41Leu
+Chromosome	2266604	C	G	synonymous_variant	LOW	Rv2020c	p.Ser39Ser
+Chromosome	2266613	GC	GCC	frameshift_variant	HIGH	Rv2020c	p.Ser37fs
+Chromosome	2266624	G	T	missense_variant	MODERATE	Rv2020c	p.Leu33Ile
+Chromosome	2269780	T	C	missense_variant	MODERATE	Rv2024c	p.Asp154Gly
+Chromosome	2270065	T	C	missense_variant	MODERATE	Rv2024c	p.Asp59Gly
+Chromosome	2270102	A	G	missense_variant	MODERATE	Rv2024c	p.Trp47Arg
+Chromosome	2277350	C	T	synonymous_variant	LOW	Rv2030c	p.Leu379Leu
+Chromosome	2278507	G	A	synonymous_variant	LOW	hspX	p.Ser142Ser
+Chromosome	2282130	C	A	missense_variant	MODERATE	Rv2036	p.Ser11Tyr
+Chromosome	2282376	C	T	missense_variant	MODERATE	Rv2036	p.Ala93Val
+Chromosome	2282377	C	T	synonymous_variant	LOW	Rv2036	p.Ala93Ala
+Chromosome	2282787	C	T	missense_variant	MODERATE	Rv2037c	p.Cys312Tyr
+Chromosome	2285251	C	A	missense_variant	MODERATE	Rv2039c	p.Val131Phe
+Chromosome	2287121	A	G	synonymous_variant	LOW	Rv2041c	p.Asp242Asp
+Chromosome	2287485	T	C	missense_variant	MODERATE	Rv2041c	p.Gln121Arg
+Chromosome	2296042	G	C	missense_variant	MODERATE	pks12	p.Pro3649Ala
+Chromosome	2297766	G	A	missense_variant	MODERATE	pks12	p.Ala3074Val
+Chromosome	2300237	A	G	synonymous_variant	LOW	pks12	p.Ala2250Ala
+Chromosome	2300546	A	T	missense_variant	MODERATE	pks12	p.His2147Gln
+Chromosome	2300552	T	G	synonymous_variant	LOW	pks12	p.Pro2145Pro
+Chromosome	2300555	A	G	synonymous_variant	LOW	pks12	p.Asp2144Asp
+Chromosome	2301089	T	C	synonymous_variant	LOW	pks12	p.Leu1966Leu
+Chromosome	2301782	T	C	synonymous_variant	LOW	pks12	p.Val1735Val
+Chromosome	2302033	G	A	missense_variant	MODERATE	pks12	p.Arg1652Cys
+Chromosome	2302132	G	C	missense_variant	MODERATE	pks12	p.Pro1619Ala
+Chromosome	2306888	C	T	synonymous_variant	LOW	pks12	p.Ser33Ser
+Chromosome	2309356	G	A	missense_variant	MODERATE	ppm1	p.Thr467Ile
+Chromosome	2311099	C	G	synonymous_variant	LOW	Rv2052c	p.Pro473Pro
+Chromosome	2315005	C	T	synonymous_variant	LOW	rpmB2	p.Ser19Ser
+Chromosome	2321358	G	C	missense_variant	MODERATE	mazF7	p.Arg101Pro
+Chromosome	2324087	C	A	synonymous_variant	LOW	cobI	p.Arg305Arg
+Chromosome	2327903	ATGAT	A	frameshift_variant	HIGH	cobK	p.Ile107fs
+Chromosome	2328543	T	C	missense_variant	MODERATE	cobM	p.Ile145Met
+Chromosome	2329533	A	G	missense_variant	MODERATE	cobL	p.Leu205Pro
+Chromosome	2331255	C	T	missense_variant	MODERATE	Rv2074	p.Ala88Val
+Chromosome	2331620	A	C	synonymous_variant	LOW	Rv2075c	p.Gly420Gly
+Chromosome	2331789	G	T	missense_variant	MODERATE	Rv2075c	p.Pro364Gln
+Chromosome	2334007	A	G	synonymous_variant	LOW	Rv2077c	p.Ala96Ala
+Chromosome	2335075	A	G	missense_variant	MODERATE	Rv2078	p.Glu6Gly
+Chromosome	2335494	A	G	missense_variant	MODERATE	Rv2079	p.Tyr47Cys
+Chromosome	2335500	C	T	missense_variant	MODERATE	Rv2079	p.Ala49Val
+Chromosome	2338194	ACCCCCCCC	ACCCCCCC	frameshift_variant	HIGH	Rv2081c	p.Gly104fs
+Chromosome	2339255	A	G	missense_variant	MODERATE	Rv2082	p.Thr183Ala
+Chromosome	2339719	A	G	synonymous_variant	LOW	Rv2082	p.Ala337Ala
+Chromosome	2339722	G	C	synonymous_variant	LOW	Rv2082	p.Gly338Gly
+Chromosome	2339724	C	T	missense_variant	MODERATE	Rv2082	p.Ala339Val
+Chromosome	2339726	C	G	missense_variant	MODERATE	Rv2082	p.Leu340Val
+Chromosome	2339948	GCCCCCCC	GCCCCCCCC	frameshift_variant	HIGH	Rv2082	p.Ala417fs
+Chromosome	2339963	G	A	missense_variant	MODERATE	Rv2082	p.Ala419Thr
+Chromosome	2340621	C	G	missense_variant	MODERATE	Rv2082	p.Pro638Arg
+Chromosome	2341030	G	A	missense_variant	MODERATE	Rv2083	p.Ala54Thr
+Chromosome	2341636	C	G	missense_variant	MODERATE	Rv2083	p.Leu256Val
+Chromosome	2342202	C	CT	frameshift_variant	HIGH	Rv2084	p.Val133fs
+Chromosome	2342203	G	C	synonymous_variant	LOW	Rv2084	p.Ala132Ala
+Chromosome	2342649	AG	AGGCGTACACACG	frameshift_variant	HIGH	Rv2084	p.Ser282fs
+Chromosome	2345037	C	A	synonymous_variant	LOW	pknJ	p.Leu209Leu
+Chromosome	2348446	C	G	missense_variant	MODERATE	Rv2090	p.Phe358Leu
+Chromosome	2348482	G	T	missense_variant	MODERATE	Rv2090	p.Glu370Asp
+Chromosome	2348635	T	C	missense_variant	MODERATE	Rv2091c	p.Ile220Val
+Chromosome	2348804	T	C	synonymous_variant	LOW	Rv2091c	p.Gly163Gly
+Chromosome	2350186	A	G	synonymous_variant	LOW	helY	p.Arg623Arg
+Chromosome	2357268	TGCCGCCGCCGCCGCCGCCG	TGCCGCCGCCGCCGCCG	upstream_gene_variant	MODIFIER	tatC	
+Chromosome	2358029	TGG	TGGG	upstream_gene_variant	MODIFIER	tatA	
+Chromosome	2361604	C	G	synonymous_variant	LOW	helZ	p.Val455Val
+Chromosome	2362041	C	A	missense_variant	MODERATE	helZ	p.Pro601Gln
+Chromosome	2362756	GGAGATCCTGGAAGAGATCCTGG	GGAGATCCTGG	disruptive_inframe_deletion	MODERATE	helZ	p.Glu843_Leu846del
+Chromosome	2368564	TAA	TA	upstream_gene_variant	MODIFIER	vapC37	
+Chromosome	2368596	C	T	upstream_gene_variant	MODIFIER	vapC37	
+Chromosome	2369186	G	C	missense_variant	MODERATE	prcA	p.Arg182Gly
+Chromosome	2369326	C	G	missense_variant	MODERATE	prcA	p.Arg135Pro
+Chromosome	2372351	G	A	synonymous_variant	LOW	dop	p.Ile73Ile
+Chromosome	2372493	C	G	missense_variant	MODERATE	dop	p.Arg26Pro
+Chromosome	2373356	A	C	missense_variant	MODERATE	Rv2113	p.Ser243Arg
+Chromosome	2374442	G	A	synonymous_variant	LOW	Rv2114	p.Ser203Ser
+Chromosome	2376425	A	G	upstream_gene_variant	MODIFIER	dop	
+Chromosome	2379743	C	G	upstream_gene_variant	MODIFIER	mpa	
+Chromosome	2380827	C	T	missense_variant	MODERATE	hisE	p.Ala40Thr
+Chromosome	2386389	G	A	missense_variant	MODERATE	Rv2125	p.Gly33Ser
+Chromosome	2387733	T	C	synonymous_variant	LOW	PE_PGRS37	p.Glu80Glu
+Chromosome	2388641	G	A	missense_variant	MODERATE	ansP1	p.Gly9Asp
+Chromosome	2390299	A	G	upstream_gene_variant	MODIFIER	metH	
+Chromosome	2394761	C	T	synonymous_variant	LOW	Rv2134c	p.Pro159Pro
+Chromosome	2397445	C	T	missense_variant	MODERATE	lppL	p.Pro39Leu
+Chromosome	2397760	C	G	missense_variant	MODERATE	lppL	p.Ala144Gly
+Chromosome	2398305	C	T	missense_variant	MODERATE	lppL	p.Pro326Ser
+Chromosome	2400031	G	A	missense_variant	MODERATE	TB18.6	p.Arg100Cys
+Chromosome	2413246	C	A	missense_variant	MODERATE	murG	p.Val36Leu
+Chromosome	2415656	G	C	missense_variant	MODERATE	murD	p.Arg247Gly
+Chromosome	2419142	A	G	synonymous_variant	LOW	murE	p.Val489Val
+Chromosome	2421816	A	G	missense_variant	MODERATE	Rv2160A	p.Cys155Arg
+Chromosome	2421975	G	GGGAA	frameshift_variant	HIGH	Rv2160A	p.Pro102fs
+Chromosome	2424864	A	G	upstream_gene_variant	MODIFIER	murE	
+Chromosome	2424925	A	G	upstream_gene_variant	MODIFIER	murE	
+Chromosome	2425097	A	C	missense_variant	MODERATE	pbpB	p.Val664Gly
+Chromosome	2425471	T	C	synonymous_variant	LOW	pbpB	p.Arg539Arg
+Chromosome	2428081	G	A	missense_variant	MODERATE	Rv2164c	p.Ala53Val
+Chromosome	2433579	T	C	missense_variant	MODERATE	lppM	p.Ile210Thr
+Chromosome	2437259	G	T	missense_variant	MODERATE	mptA	p.Ala451Ser
+Chromosome	2439519	G	A	synonymous_variant	LOW	Rv2177c	p.Arg143Arg
+Chromosome	2439613	G	A	missense_variant	MODERATE	Rv2177c	p.Ala112Val
+Chromosome	2440926	G	T	missense_variant	MODERATE	aroG	p.Asp265Glu
+Chromosome	2447539	A	G	upstream_gene_variant	MODIFIER	Rv2180c	
+Chromosome	2448288	G	A	stop_gained	HIGH	fadD15	p.Trp43*
+Chromosome	2448458	C	T	missense_variant	MODERATE	fadD15	p.Thr100Ile
+Chromosome	2449295	G	A	missense_variant	MODERATE	fadD15	p.Gly379Glu
+Chromosome	2450045	G	A	missense_variant	MODERATE	pimB	p.Thr369Met
+Chromosome	2451081	C	G	missense_variant	MODERATE	pimB	p.Glu24Gln
+Chromosome	2451355	C	A	synonymous_variant	LOW	Rv2189c	p.Leu222Leu
+Chromosome	2451927	GCAGCC	GCAGCCAGCC	frameshift_variant	HIGH	Rv2189c	p.Leu32fs
+Chromosome	2462700	C	A	synonymous_variant	LOW	mmpS3	p.Ser116Ser
+Chromosome	2462850	G	A	synonymous_variant	LOW	mmpS3	p.Thr66Thr
+Chromosome	2462871	G	A	synonymous_variant	LOW	mmpS3	p.Ala59Ala
+Chromosome	2470485	G	T	upstream_gene_variant	MODIFIER	adoK	
+Chromosome	2470591	A	C	upstream_gene_variant	MODIFIER	adoK	
+Chromosome	2472956	T	C	missense_variant	MODERATE	cobS	p.Leu155Ser
+Chromosome	2482469	T	C	missense_variant	MODERATE	dlaT	p.Ser169Pro
+Chromosome	2486342	C	T	synonymous_variant	LOW	Rv2219	p.Phe36Phe
+Chromosome	2487829	T	G	missense_variant	MODERATE	glnA1	p.Leu72Arg
+Chromosome	2488091	G	A	synonymous_variant	LOW	glnA1	p.Ser159Ser
+Chromosome	2490551	C	T	synonymous_variant	LOW	glnE	p.Val601Val
+Chromosome	2495500	T	C	synonymous_variant	LOW	caeA	p.Leu508Leu
+Chromosome	2499726	G	A	missense_variant	MODERATE	Rv2226	p.Asp299Asn
+Chromosome	2500892	C	T	upstream_gene_variant	MODIFIER	caeA	
+Chromosome	2501147	G	GC	frameshift_variant	HIGH	Rv2227	p.Val73fs
+Chromosome	2501148	T	C	missense_variant	MODERATE	Rv2227	p.Val73Ala
+Chromosome	2503549	C	A	missense_variant	MODERATE	Rv2230c	p.Ala354Ser
+Chromosome	2508395	G	A	synonymous_variant	LOW	Rv2235	p.Pro253Pro
+Chromosome	2508579	T	C	missense_variant	MODERATE	cobD	p.His266Arg
+Chromosome	2509140	G	C	missense_variant	MODERATE	cobD	p.Ser79Cys
+Chromosome	2509181	C	G	synonymous_variant	LOW	cobD	p.Val65Val
+Chromosome	2509722	A	G	synonymous_variant	LOW	Rv2237	p.Pro78Pro
+Chromosome	2511712	G	T	missense_variant	MODERATE	Rv2240c	p.Thr190Lys
+Chromosome	2516567	G	C	upstream_gene_variant	MODIFIER	Rv2239c	
+Chromosome	2518132	C	T	synonymous_variant	LOW	kasA	p.Thr6Thr
+Chromosome	2519048	G	A	missense_variant	MODERATE	kasA	p.Gly312Ser
+Chromosome	2521342	T	C	synonymous_variant	LOW	accD6	p.Asp200Asp
+Chromosome	2523205	GCG	GCGCCG	upstream_gene_variant	MODIFIER	Rv2250A	
+Chromosome	2525722	CGGGGG	CGGGG	frameshift_variant	HIGH	Rv2250A	p.Gly109fs
+Chromosome	2526974	T	C	synonymous_variant	LOW	Rv2251	p.Pro470Pro
+Chromosome	2528378	C	A	missense_variant	MODERATE	Rv2253	p.Thr132Lys
+Chromosome	2528931	G	A	synonymous_variant	LOW	Rv2254c	p.Asn15Asn
+Chromosome	2529680	A	G	synonymous_variant	LOW	Rv2256c	p.Thr65Thr
+Chromosome	2530434	G	T	missense_variant	MODERATE	Rv2257c	p.Pro130His
+Chromosome	2531742	A	G	synonymous_variant	LOW	Rv2258c	p.Ala52Ala
+Chromosome	2532123	G	C	upstream_gene_variant	MODIFIER	Rv2254c	
+Chromosome	2534562	GGAG	GG	frameshift_variant	HIGH	Rv2262c	p.Leu330fs
+Chromosome	2538793	G	A	missense_variant	MODERATE	Rv2265	p.Gly32Ser
+Chromosome	2544979	T	A	missense_variant	MODERATE	lppN	p.His94Gln
+Chromosome	2547274	A	G	missense_variant	MODERATE	Rv2275	p.Asp131Gly
+Chromosome	2547529	AGGGGG	AGGGGGG	frameshift_variant	HIGH	Rv2275	p.Ala218fs
+Chromosome	2551429	C	A	upstream_gene_variant	MODIFIER	mazF8	
+Chromosome	2553682	C	T	synonymous_variant	LOW	pitB	p.Tyr170Tyr
+Chromosome	2562783	T	C	missense_variant	MODERATE	lppO	p.Val62Ala
+Chromosome	2563958	A	C	missense_variant	MODERATE	sseB	p.Glu262Ala
+Chromosome	2564368	GC	GCC	frameshift_variant	HIGH	Rv2293c	p.Ala222fs
+Chromosome	2566766	CG	CGG	upstream_gene_variant	MODIFIER	Rv2292c	
+Chromosome	2566768	A	C	upstream_gene_variant	MODIFIER	Rv2292c	
+Chromosome	2569593	A	G	missense_variant	MODERATE	Rv2298	p.His171Arg
+Chromosome	2573434	G	T	missense_variant	MODERATE	cut2	p.Trp140Cys
+Chromosome	2573756	C	A	upstream_gene_variant	MODIFIER	htpG	
+Chromosome	2574598	C	T	missense_variant	MODERATE	Rv2303c	p.Ser141Asn
+Chromosome	2577246	A	G	missense_variant	MODERATE	Rv2306A	p.Ile47Val
+Chromosome	2578626	A	G	missense_variant	MODERATE	Rv2307c	p.Met24Thr
+Chromosome	2580310	G	A	upstream_gene_variant	MODIFIER	Rv2307c	
+Chromosome	2581109	C	A	synonymous_variant	LOW	Rv2308	p.Arg231Arg
+Chromosome	2582324	G	A	upstream_gene_variant	MODIFIER	Rv2307c	
+Chromosome	2586127	A	G	synonymous_variant	LOW	Rv2314c	p.Gly388Gly
+Chromosome	2587048	C	T	synonymous_variant	LOW	Rv2314c	p.Leu81Leu
+Chromosome	2589216	G	C	missense_variant	MODERATE	uspA	p.Val127Leu
+Chromosome	2590827	T	G	missense_variant	MODERATE	uspC	p.Phe104Val
+Chromosome	2592063	GTTTTT	GTTTT	frameshift_variant	HIGH	Rv2319c	p.Lys221fs
+Chromosome	2597516	G	A	synonymous_variant	LOW	Rv2325c	p.Leu114Leu
+Chromosome	2598400	A	G	synonymous_variant	LOW	Rv2326c	p.Asn516Asn
+Chromosome	2602575	G	A	missense_variant	MODERATE	narK1	p.Pro296Leu
+Chromosome	2605293	G	T	missense_variant	MODERATE	mez	p.Glu62Asp
+Chromosome	2605507	T	C	synonymous_variant	LOW	mez	p.Leu134Leu
+Chromosome	2606797	G	GC	frameshift_variant	HIGH	stp	p.Leu509fs
+Chromosome	2608117	C	A	missense_variant	MODERATE	stp	p.Asp69Tyr
+Chromosome	2608488	T	C	upstream_gene_variant	MODIFIER	lppP	
+Chromosome	2608579	CTGTTGTTGTTGTTG	CTGTTGTTGTTG	upstream_gene_variant	MODIFIER	lppP	
+Chromosome	2611704	A	C	synonymous_variant	LOW	Rv2336	p.Arg290Arg
+Chromosome	2612632	C	A	missense_variant	MODERATE	Rv2337c	p.Gly119Val
+Chromosome	2617717	G	C	missense_variant	MODERATE	PE_PGRS39	p.Arg398Gly
+Chromosome	2618378	A	C	synonymous_variant	LOW	PE_PGRS39	p.Ala177Ala
+Chromosome	2619271	T	C	upstream_gene_variant	MODIFIER	PE_PGRS39	
+Chromosome	2622508	C	T	synonymous_variant	LOW	dgt	p.Leu415Leu
+Chromosome	2625924	T	C	synonymous_variant	LOW	esxO	p.Ala83Ala
+Chromosome	2626105	A	G	missense_variant	MODERATE	esxO	p.Leu23Ser
+Chromosome	2626108	C	G	missense_variant	MODERATE	esxO	p.Gly22Ala
+Chromosome	2626189	C	A	upstream_gene_variant	MODIFIER	dnaG	
+Chromosome	2626191	C	T	upstream_gene_variant	MODIFIER	dnaG	
+Chromosome	2626196	A	G	upstream_gene_variant	MODIFIER	dnaG	
+Chromosome	2626204	T	C	upstream_gene_variant	MODIFIER	dnaG	
+Chromosome	2626348	C	T	missense_variant	MODERATE	esxP	p.Ala58Thr
+Chromosome	2628069	G	C	synonymous_variant	LOW	plcC	p.Ala210Ala
+Chromosome	2631641	T	G	synonymous_variant	LOW	plcA	p.Pro145Pro
+Chromosome	2632341	CAAAA	CAAAAA	upstream_gene_variant	MODIFIER	plcC	
+Chromosome	2632500	A	G	upstream_gene_variant	MODIFIER	plcC	
+Chromosome	2637088	C	T	upstream_gene_variant	MODIFIER	PPE38	
+Chromosome	2637541	C	T	upstream_gene_variant	MODIFIER	PPE38	
+Chromosome	2639868	A	G	synonymous_variant	LOW	glyS	p.Asp399Asp
+Chromosome	2641840	A	G	missense_variant	MODERATE	zur	p.His64Arg
+Chromosome	2642383	C	T	missense_variant	MODERATE	Rv2360c	p.Ala66Thr
+Chromosome	2643653	G	A	synonymous_variant	LOW	recO	p.Gly202Gly
+Chromosome	2652908	C	G	missense_variant	MODERATE	dnaJ2	p.Glu360Asp
+Chromosome	2654696	G	A	missense_variant	MODERATE	hrcA	p.Ser133Leu
+Chromosome	2656225	A	G	missense_variant	MODERATE	mbtH	p.Val69Ala
+Chromosome	2660319	C	A	missense_variant	MODERATE	mbtF	p.Glu589Asp
+Chromosome	2663210	G	A	synonymous_variant	LOW	mbtE	p.Ala1302Ala
+Chromosome	2672514	C	G	synonymous_variant	LOW	mbtB	p.Leu1108Leu
+Chromosome	2673701	C	T	missense_variant	MODERATE	mbtB	p.Asp713Asn
+Chromosome	2676383	G	A	missense_variant	MODERATE	mbtA	p.Asp150Asn
+Chromosome	2677499	G	T	missense_variant	MODERATE	mbtA	p.Ala522Ser
+Chromosome	2679840	G	C	missense_variant	MODERATE	mbtI	p.Leu56Val
+Chromosome	2680658	T	G	upstream_gene_variant	MODIFIER	mbtB	
+Chromosome	2688225	G	C	missense_variant	MODERATE	ggtB	p.Met72Ile
+Chromosome	2691713	T	C	missense_variant	MODERATE	Rv2395	p.Ser548Pro
+Chromosome	2695378	C	G	missense_variant	MODERATE	cysW	p.Gly141Ala
+Chromosome	2696977	G	C	synonymous_variant	LOW	subI	p.Ala246Ala
+Chromosome	2699058	C	G	missense_variant	MODERATE	Rv2402	p.Pro177Arg
+Chromosome	2703968	A	G	upstream_gene_variant	MODIFIER	lppR	
+Chromosome	2704291	G	A	synonymous_variant	LOW	Rv2406c	p.Ile49Ile
+Chromosome	2704884	AC	ACAGCGACCATATCGCCGAGCTC	conservative_inframe_insertion	MODERATE	Rv2407	p.His63_Gly64insSerAspHisIleAlaGluLeu
+Chromosome	2706890	G	C	synonymous_variant	LOW	Rv2409c	p.Arg148Arg
+Chromosome	2709795	A	G	synonymous_variant	LOW	Rv2411c	p.Ala57Ala
+Chromosome	2712913	C	A	missense_variant	MODERATE	Rv2415c	p.Arg291Leu
+Chromosome	2713795	C	T	upstream_gene_variant	MODIFIER	Rv2411c	
+Chromosome	2718852	T	G	upstream_gene_variant	MODIFIER	eis	
+Chromosome	2721562	C	G	synonymous_variant	LOW	Rv2424c	p.Ala72Ala
+Chromosome	2723506	T	C	synonymous_variant	LOW	Rv2426c	p.Leu226Leu
+Chromosome	2723923	AT	A	frameshift_variant	HIGH	Rv2426c	p.Tyr87fs
+Chromosome	2724180	TCACGATCGGGTCTCCTCTAGCACGATCGGGTCTCCTCTAGC	TCACGATCGGGTCTCCTCTAGC	upstream_gene_variant	MODIFIER	Rv2424c	
+Chromosome	2726051	G	A	upstream_gene_variant	MODIFIER	Rv2424c	
+Chromosome	2727037	A	T	missense_variant	MODERATE	ahpD	p.Met78Leu
+Chromosome	2731741	G	A	synonymous_variant	LOW	Rv2435c	p.Leu337Leu
+Chromosome	2732591	C	G	synonymous_variant	LOW	Rv2435c	p.Ala53Ala
+Chromosome	2733047	G	C	upstream_gene_variant	MODIFIER	PE25	
+Chromosome	2734074	T	C	missense_variant	MODERATE	rbsK	p.Val282Ala
+Chromosome	2737201	A	C	synonymous_variant	LOW	proB	p.Ser349Ser
+Chromosome	2737393	G	A	synonymous_variant	LOW	proB	p.Leu285Leu
+Chromosome	2737572	C	A	missense_variant	MODERATE	proB	p.Ala226Ser
+Chromosome	2740606	G	C	upstream_gene_variant	MODIFIER	nadE	
+Chromosome	2740693	T	C	upstream_gene_variant	MODIFIER	nadE	
+Chromosome	2745739	G	A	upstream_gene_variant	MODIFIER	rne	
+Chromosome	2745839	G	A	synonymous_variant	LOW	Rv2446c	p.Ala100Ala
+Chromosome	2751804	C	T	missense_variant	MODERATE	rpfE	p.Arg126Gln
+Chromosome	2752698	C	A	upstream_gene_variant	MODIFIER	valS	
+Chromosome	2755112	G	A	synonymous_variant	LOW	Rv2455c	p.Ile531Ile
+Chromosome	2759534	C	G	upstream_gene_variant	MODIFIER	Rv2454c	
+Chromosome	2760152	A	G	missense_variant	MODERATE	mmuM	p.Tyr125Cys
+Chromosome	2764206	A	G	synonymous_variant	LOW	tig	p.Asp362Asp
+Chromosome	2764939	G	A	missense_variant	MODERATE	tig	p.Pro118Leu
+Chromosome	2771588	GCGTGTCTGTAC	GC	upstream_gene_variant	MODIFIER	Rv2464c	
+Chromosome	2773955	G	C	missense_variant	MODERATE	aglA	p.Ser131Thr
+Chromosome	2779136	T	C	missense_variant	MODERATE	gdh	p.Ser1043Gly
+Chromosome	2786952	A	G	missense_variant	MODERATE	plsB2	p.Cys778Arg
+Chromosome	2790458	A	C	missense_variant	MODERATE	plsC	p.Cys189Gly
+Chromosome	2791098	C	T	missense_variant	MODERATE	Rv2484c	p.Gly466Asp
+Chromosome	2791257	A	T	missense_variant	MODERATE	Rv2484c	p.Ile413Asn
+Chromosome	2791475	A	G	synonymous_variant	LOW	Rv2484c	p.Ala340Ala
+Chromosome	2799488	CCGCAA	C	frameshift_variant	HIGH	Rv2488c	p.Ile463fs
+Chromosome	2807486	C	A	missense_variant	MODERATE	Rv2492	p.Ala70Asp
+Chromosome	2809621	T	C	missense_variant	MODERATE	bkdC	p.Thr107Ala
+Chromosome	2809895	G	A	synonymous_variant	LOW	bkdC	p.Leu15Leu
+Chromosome	2817158	C	A	missense_variant	MODERATE	accD1	p.Met439Ile
+Chromosome	2818837	A	G	synonymous_variant	LOW	scoB	p.Gly97Gly
+Chromosome	2821342	C	T	synonymous_variant	LOW	fadD35	p.Ala85Ala
+Chromosome	2824432	G	A	synonymous_variant	LOW	Rv2508c	p.Thr54Thr
+Chromosome	2825466	G	A	synonymous_variant	LOW	Rv2509	p.Lys263Lys
+Chromosome	2827984	G	T	upstream_gene_variant	MODIFIER	Rv2508c	
+Chromosome	2828019	T	C	upstream_gene_variant	MODIFIER	Rv2508c	
+Chromosome	2828104	C	T	upstream_gene_variant	MODIFIER	Rv2508c	
+Chromosome	2830525	C	A	missense_variant	MODERATE	Rv2513	p.Thr122Lys
+Chromosome	2836812	ATTT	ATT	frameshift_variant	HIGH	PE26	p.Leu344fs
+Chromosome	2840849	G	C	synonymous_variant	LOW	fas	p.Gly2828Gly
+Chromosome	2841022	A	G	missense_variant	MODERATE	fas	p.Cys2771Arg
+Chromosome	2842043	C	G	missense_variant	MODERATE	fas	p.Trp2430Cys
+Chromosome	2844546	C	A	missense_variant	MODERATE	fas	p.Gly1596Val
+Chromosome	2847281	A	G	synonymous_variant	LOW	fas	p.Asp684Asp
+Chromosome	2850995	T	C	upstream_gene_variant	MODIFIER	fas	
+Chromosome	2855259	A	G	synonymous_variant	LOW	Rv2531c	p.Ala841Ala
+Chromosome	2855317	CCGGCGTAGAAAGCCGACCGCATGTCACCGAAAGAGCTGGCGTCGTCGGGGCGG	CCGG	frameshift_variant	HIGH	Rv2531c	p.Pro806fs
+Chromosome	2858669	G	T	missense_variant	MODERATE	nusB	p.Ala19Asp
+Chromosome	2865760	A	G	missense_variant	MODERATE	Rv2542	p.Thr211Ala
+Chromosome	2865882	T	C	synonymous_variant	LOW	Rv2542	p.Val251Val
+Chromosome	2867333	C	A	synonymous_variant	LOW	lppB	p.Leu70Leu
+Chromosome	2867547	G	A	missense_variant	MODERATE	lppB	p.Val142Met
+Chromosome	2869242	T	C	upstream_gene_variant	MODIFIER	aroF	
+Chromosome	2870386	C	T	upstream_gene_variant	MODIFIER	Rv2548A	
+Chromosome	2878980	C	T	missense_variant	MODERATE	Rv2559c	p.Gly317Asp
+Chromosome	2880702	G	C	missense_variant	MODERATE	Rv2560	p.Val210Leu
+Chromosome	2881244	A	G	upstream_gene_variant	MODIFIER	alaS	
+Chromosome	2881597	AGGGGGG	AGGGGG	frameshift_variant	HIGH	Rv2561	p.Gln66fs
+Chromosome	2882331	ACGC	ACGCGC	frameshift_variant	HIGH	Rv2563	p.Leu16fs
+Chromosome	2884634	C	T	synonymous_variant	LOW	Rv2565	p.Pro8Pro
+Chromosome	2886570	A	G	synonymous_variant	LOW	Rv2566	p.Glu66Glu
+Chromosome	2888201	T	C	missense_variant	MODERATE	Rv2566	p.Leu610Pro
+Chromosome	2889633	T	C	synonymous_variant	LOW	Rv2566	p.Ala1087Ala
+Chromosome	2891267	C	T	synonymous_variant	LOW	Rv2567	p.Gly491Gly
+Chromosome	2891728	A	G	missense_variant	MODERATE	Rv2567	p.Gln645Arg
+Chromosome	2894208	G	A	synonymous_variant	LOW	Rv2569c	p.Ser67Ser
+Chromosome	2894594	G	A	missense_variant	MODERATE	Rv2570	p.Gly28Asp
+Chromosome	2894642	A	G	missense_variant	MODERATE	Rv2570	p.Glu44Gly
+Chromosome	2897528	G	A	synonymous_variant	LOW	aspS	p.Ala92Ala
+Chromosome	2897871	A	G	upstream_gene_variant	MODIFIER	Rv2568c	
+Chromosome	2899890	G	T	missense_variant	MODERATE	Rv2575	p.Gln184His
+Chromosome	2900943	A	C	missense_variant	MODERATE	Rv2577	p.Gln9Pro
+Chromosome	2910461	G	T	missense_variant	MODERATE	apt	p.Ala147Glu
+Chromosome	2911293	C	G	missense_variant	MODERATE	Rv2585c	p.Cys462Ser
+Chromosome	2912061	G	A	missense_variant	MODERATE	Rv2585c	p.Ala206Val
+Chromosome	2912294	T	G	synonymous_variant	LOW	Rv2585c	p.Ala128Ala
+Chromosome	2917091	C	A	missense_variant	MODERATE	gabT	p.Phe244Leu
+Chromosome	2922984	T	C	synonymous_variant	LOW	PE_PGRS44	p.Gly478Gly
+Chromosome	2923106	G	T	missense_variant	MODERATE	PE_PGRS44	p.Gly519Val
+Chromosome	2923110	C	T	synonymous_variant	LOW	PE_PGRS44	p.Asn520Asn
+Chromosome	2923115	T	G	missense_variant	MODERATE	PE_PGRS44	p.Val522Gly
+Chromosome	2923118	A	C	missense_variant	MODERATE	PE_PGRS44	p.Asn523Thr
+Chromosome	2923119	T	C	synonymous_variant	LOW	PE_PGRS44	p.Asn523Asn
+Chromosome	2923391	T	C	synonymous_variant	LOW	ruvB	p.Pro281Pro
+Chromosome	2925683	G	A	synonymous_variant	LOW	vapB40	p.Leu64Leu
+Chromosome	2925962	T	C	missense_variant	MODERATE	vapC40	p.Cys77Arg
+Chromosome	2926882	C	T	synonymous_variant	LOW	Rv2597	p.Arg176Arg
+Chromosome	2927511	G	T	missense_variant	MODERATE	Rv2599	p.Ser12Ile
+Chromosome	2927939	T	C	upstream_gene_variant	MODIFIER	ruvB	
+Chromosome	2939373	G	C	missense_variant	MODERATE	Rv2611c	p.Ser197Cys
+Chromosome	2939657	T	C	missense_variant	MODERATE	Rv2611c	p.Ile102Met
+Chromosome	2940608	C	T	missense_variant	MODERATE	pgsA1	p.Ser2Asn
+Chromosome	2943711	GCCGCCGTTTCCGCCGTTTCC	GCCGCCGTTTCCGCCGTTTCCGCCGTTTCC	conservative_inframe_insertion	MODERATE	PE_PGRS45	p.Gly418_Gly419insGlyAsnGly
+Chromosome	2944515	A	C	synonymous_variant	LOW	PE_PGRS45	p.Gly157Gly
+Chromosome	2944932	T	C	synonymous_variant	LOW	PE_PGRS45	p.Ala18Ala
+Chromosome	2945490	G	A	stop_gained	HIGH	Rv2616	p.Trp54*
+Chromosome	2948650	T	C	synonymous_variant	LOW	Rv2622	p.Arg5Arg
+Chromosome	2953307	G	T	upstream_gene_variant	MODIFIER	Rv2621c	
+Chromosome	2954439	T	C	missense_variant	MODERATE	Rv2627c	p.Arg104Gly
+Chromosome	2955233	C	T	missense_variant	MODERATE	Rv2628	p.Ser59Leu
+Chromosome	2957568	CTT	CT	upstream_gene_variant	MODIFIER	hrp1	
+Chromosome	2958570	G	A	synonymous_variant	LOW	Rv2631	p.Thr333Thr
+Chromosome	2959324	A	G	upstream_gene_variant	MODIFIER	Rv2627c	
+Chromosome	2959714	T	C	missense_variant	MODERATE	Rv2633c	p.Asp36Gly
+Chromosome	2960689	C	A	missense_variant	MODERATE	PE_PGRS46	p.Ala585Ser
+Chromosome	2961099	G	A	missense_variant	MODERATE	PE_PGRS46	p.Ala448Val
+Chromosome	2961376	C	T	missense_variant	MODERATE	PE_PGRS46	p.Gly356Ser
+Chromosome	2961605	C	G	synonymous_variant	LOW	PE_PGRS46	p.Gly279Gly
+Chromosome	2970434	G	A	synonymous_variant	LOW	Rv2645	p.Pro104Pro
+Chromosome	2971122	T	C	missense_variant	MODERATE	Rv2646	p.Ile191Thr
+Chromosome	2974933	A	G	missense_variant	MODERATE	Rv2650c	p.Ile101Thr
+Chromosome	2975227	T	G	missense_variant	MODERATE	Rv2650c	p.Asn3Thr
+Chromosome	2976564	C	T	upstream_gene_variant	MODIFIER	Rv2650c	
+Chromosome	2976616	G	C	missense_variant	MODERATE	Rv2653c	p.His98Gln
+Chromosome	2976638	T	A	missense_variant	MODERATE	Rv2653c	p.Lys91Met
+Chromosome	2976799	G	A	synonymous_variant	LOW	Rv2653c	p.Ala37Ala
+Chromosome	2977410	C	G	missense_variant	MODERATE	Rv2655c	p.Glu417Gln
+Chromosome	2984740	A	G	missense_variant	MODERATE	Rv2668	p.His3Arg
+Chromosome	2985216	G	A	missense_variant	MODERATE	Rv2668	p.Glu162Lys
+Chromosome	2987918	G	A	synonymous_variant	LOW	Rv2672	p.Arg79Arg
+Chromosome	2988630	C	G	missense_variant	MODERATE	Rv2672	p.His317Asp
+Chromosome	2992564	G	A	missense_variant	MODERATE	Rv2676c	p.Ser22Leu
+Chromosome	2993523	T	C	missense_variant	MODERATE	hemY	p.Gln157Arg
+Chromosome	2994187	T	C	synonymous_variant	LOW	hemE	p.Leu292Leu
+Chromosome	3000362	T	C	missense_variant	MODERATE	Rv2683	p.Leu84Ser
+Chromosome	3001907	T	C	upstream_gene_variant	MODIFIER	dxs1	
+Chromosome	3003115	C	G	missense_variant	MODERATE	arsB1	p.Ala378Gly
+Chromosome	3005185	G	T	missense_variant	MODERATE	Rv2688c	p.Pro156Thr
+Chromosome	3006898	G	A	synonymous_variant	LOW	Rv2689c	p.Tyr55Tyr
+Chromosome	3007238	A	G	stop_lost&splice_region_variant	HIGH	Rv2690c	p.Ter658Argext*?
+Chromosome	3009692	A	G	missense_variant	MODERATE	ceoB	p.Thr117Ala
+Chromosome	3010420	A	G	missense_variant	MODERATE	ceoC	p.Ile133Val
+Chromosome	3010423	G	A	missense_variant	MODERATE	ceoC	p.Gly134Ser
+Chromosome	3015119	CTTTTT	CTTTT	upstream_gene_variant	MODIFIER	Rv2693c	
+Chromosome	3015379	G	A	synonymous_variant	LOW	Rv2700	p.Pro59Pro
+Chromosome	3017465	T	C	missense_variant	MODERATE	ppgK	p.Ile203Thr
+Chromosome	3025431	C	T	upstream_gene_variant	MODIFIER	Rv2706c	
+Chromosome	3027606	C	G	missense_variant	MODERATE	Rv2714	p.Ser181Trp
+Chromosome	3027798	T	C	missense_variant	MODERATE	Rv2714	p.Val245Ala
+Chromosome	3028074	G	T	upstream_gene_variant	MODIFIER	Rv2712c	
+Chromosome	3029969	G	A	synonymous_variant	LOW	Rv2717c	p.Ser131Ser
+Chromosome	3030990	T	C	upstream_gene_variant	MODIFIER	Rv2717c	
+Chromosome	3031168	A	G	missense_variant	MODERATE	Rv2719c	p.Tyr124His
+Chromosome	3031285	A	T	missense_variant	MODERATE	Rv2719c	p.Leu85Met
+Chromosome	3035533	G	A	missense_variant	MODERATE	Rv2723	p.Asp209Asn
+Chromosome	3037377	T	C	upstream_gene_variant	MODIFIER	Rv2721c	
+Chromosome	3041871	G	T	missense_variant	MODERATE	Rv2729c	p.Ala202Glu
+Chromosome	3053973	C	T	synonymous_variant	LOW	PE_PGRS47	p.Ser20Ser
+Chromosome	3054081	A	G	synonymous_variant	LOW	PE_PGRS47	p.Gly56Gly
+Chromosome	3054321	A	G	synonymous_variant	LOW	PE_PGRS47	p.Gly136Gly
+Chromosome	3054724	A	G	missense_variant	MODERATE	PE_PGRS47	p.Ser271Gly
+Chromosome	3056658	G	T	missense_variant	MODERATE	Rv2743c	p.Ala192Glu
+Chromosome	3069167	A	G	missense_variant	MODERATE	hsdM	p.Leu306Pro
+Chromosome	3069805	G	C	synonymous_variant	LOW	hsdM	p.Val93Val
+Chromosome	3074830	C	T	synonymous_variant	LOW	Rv2765	p.Tyr65Tyr
+Chromosome	3078178	C	T	missense_variant	MODERATE	PE27	p.Val270Met
+Chromosome	3078826	G	A	missense_variant	MODERATE	PE27	p.Pro54Ser
+Chromosome	3078858	G	A	missense_variant	MODERATE	PE27	p.Ala43Val
+Chromosome	3079877	A	G	missense_variant	MODERATE	PPE44	p.Phe194Ser
+Chromosome	3080282	C	A	missense_variant	MODERATE	PPE44	p.Gly59Val
+Chromosome	3080795	A	G	missense_variant	MODERATE	Rv2771c	p.Leu80Pro
+Chromosome	3085119	GCC	GCCC	frameshift_variant	HIGH	Rv2777c	p.Ala146fs
+Chromosome	3086261	T	C	missense_variant	MODERATE	Rv2779c	p.Gln165Arg
+Chromosome	3086788	T	C	upstream_gene_variant	MODIFIER	dapB	
+Chromosome	3088625	A	G	synonymous_variant	LOW	Rv2781c	p.Val120Val
+Chromosome	3094526	C	T	synonymous_variant	LOW	ribF	p.Val125Val
+Chromosome	3095130	G	A	missense_variant	MODERATE	Rv2787	p.Cys7Tyr
+Chromosome	3097131	A	G	missense_variant	MODERATE	sirR	p.Gln58Arg
+Chromosome	3097349	C	T	stop_gained	HIGH	sirR	p.Gln131*
+Chromosome	3103682	T	C	missense_variant	MODERATE	pptT	p.Met87Val
+Chromosome	3104189	A	G	synonymous_variant	LOW	Rv2795c	p.Cys241Cys
+Chromosome	3105144	C	A	missense_variant	MODERATE	lppV	p.Cys159Phe
+Chromosome	3112877	G	A	missense_variant	MODERATE	Rv2804c	p.Ala73Val
+Chromosome	3113872	A	T	missense_variant	MODERATE	Rv2807	p.Glu72Val
+Chromosome	3114814	G	A	upstream_gene_variant	MODIFIER	mazF9	
+Chromosome	3118000	A	G	missense_variant	MODERATE	Rv2812	p.Arg395Gly
+Chromosome	3118449	A	G	missense_variant	MODERATE	Rv2813	p.Ile76Val
+Chromosome	3119513	C	T	upstream_gene_variant	MODIFIER	Rv2810c	
+Chromosome	3119945	G	A	upstream_gene_variant	MODIFIER	Rv2810c	
+Chromosome	3129675	C	T	missense_variant	MODERATE	Rv2823c	p.Arg700His
+Chromosome	3131469	TTGT	TTGTCGGCGATGT	conservative_inframe_insertion	MODERATE	Rv2823c	p.Tyr101_Asn102insIleAlaAsp
+Chromosome	3132956	G	T	missense_variant	MODERATE	Rv2825c	p.Ala195Glu
+Chromosome	3132963	A	G	synonymous_variant	LOW	Rv2825c	p.Leu193Leu
+Chromosome	3132965	G	T	missense_variant	MODERATE	Rv2825c	p.Thr192Lys
+Chromosome	3132966	T	G	missense_variant	MODERATE	Rv2825c	p.Thr192Pro
+Chromosome	3132975	C	G	missense_variant	MODERATE	Rv2825c	p.Val189Leu
+Chromosome	3133054	C	G	synonymous_variant	LOW	Rv2825c	p.Ser162Ser
+Chromosome	3133055	G	C	missense_variant	MODERATE	Rv2825c	p.Ser162Trp
+Chromosome	3133536	T	C	missense_variant	MODERATE	Rv2825c	p.Lys2Glu
+Chromosome	3135852	G	T	missense_variant	MODERATE	Rv2828c	p.Ala161Glu
+Chromosome	3135859	A	G	synonymous_variant	LOW	Rv2828c	p.Leu159Leu
+Chromosome	3135861	G	T	missense_variant	MODERATE	Rv2828c	p.Thr158Lys
+Chromosome	3135862	T	G	missense_variant	MODERATE	Rv2828c	p.Thr158Pro
+Chromosome	3135871	C	G	missense_variant	MODERATE	Rv2828c	p.Val155Leu
+Chromosome	3135950	C	G	synonymous_variant	LOW	Rv2828c	p.Ser128Ser
+Chromosome	3135951	G	C	missense_variant	MODERATE	Rv2828c	p.Ser128Trp
+Chromosome	3137058	G	A	missense_variant	MODERATE	vapB22	p.Ala56Val
+Chromosome	3137237	T	C	upstream_gene_variant	MODIFIER	Rv2824c	
+Chromosome	3137343	C	A	missense_variant	MODERATE	echA16	p.Arg25Ser
+Chromosome	3137681	G	A	synonymous_variant	LOW	echA16	p.Val137Val
+Chromosome	3138129	G	C	missense_variant	MODERATE	ugpC	p.Phe351Leu
+Chromosome	3141349	A	G	missense_variant	MODERATE	ugpA	p.Tyr292His
+Chromosome	3144835	G	A	synonymous_variant	LOW	rbfA	p.Leu113Leu
+Chromosome	3148984	C	T	missense_variant	MODERATE	nusA	p.Ala149Thr
+Chromosome	3154414	A	G	missense_variant	MODERATE	efpA	p.Ile73Thr
+Chromosome	3162804	A	C	missense_variant	MODERATE	PE_PGRS48	p.Lys179Asn
+Chromosome	3162805	C	G	missense_variant	MODERATE	PE_PGRS48	p.Arg180Gly
+Chromosome	3164031	G	T	synonymous_variant	LOW	PE_PGRS48	p.Ala588Ala
+Chromosome	3169993	A	G	missense_variant	MODERATE	aldC	p.Leu244Pro
+Chromosome	3170496	A	T	missense_variant	MODERATE	aldC	p.His76Gln
+Chromosome	3173446	G	C	missense_variant	MODERATE	mapB	p.Ala191Gly
+Chromosome	3174496	A	G	missense_variant	MODERATE	Rv2862c	p.Cys50Arg
+Chromosome	3177884	C	A	synonymous_variant	LOW	relG	p.Arg21Arg
+Chromosome	3180988	C	A	missense_variant	MODERATE	rip	p.Val259Phe
+Chromosome	3186860	T	G	missense_variant	MODERATE	dipZ	p.Tyr672Asp
+Chromosome	3188428	C	T	synonymous_variant	LOW	Rv2877c	p.Pro148Pro
+Chromosome	3188769	A	G	missense_variant	MODERATE	Rv2877c	p.Tyr35His
+Chromosome	3189242	A	G	synonymous_variant	LOW	mpt53	p.Ala52Ala
+Chromosome	3189580	T	C	upstream_gene_variant	MODIFIER	Rv2877c	
+Chromosome	3190145	TCCCCCC	TCCCCC	frameshift_variant	HIGH	Rv2879c	p.Glu3fs
+Chromosome	3190342	G	A	missense_variant	MODERATE	Rv2880c	p.Pro113Ser
+Chromosome	3190556	G	A	synonymous_variant	LOW	Rv2880c	p.Ala41Ala
+Chromosome	3194241	CG	CGG	frameshift_variant	HIGH	Rv2885c	p.Gly438fs
+Chromosome	3194392	T	A	missense_variant	MODERATE	Rv2885c	p.Lys386Ile
+Chromosome	3194569	G	A	missense_variant	MODERATE	Rv2885c	p.Pro327Leu
+Chromosome	3195731	T	C	synonymous_variant	LOW	Rv2886c	p.Val234Val
+Chromosome	3197917	G	A	synonymous_variant	LOW	amiC	p.Gly123Gly
+Chromosome	3200304	A	G	synonymous_variant	LOW	Rv2891	p.Val13Val
+Chromosome	3202629	C	T	synonymous_variant	LOW	Rv2893	p.His70His
+Chromosome	3214481	G	T	upstream_gene_variant	MODIFIER	fdhF	
+Chromosome	3217883	C	T	missense_variant	MODERATE	Rv2910c	p.Asp130Asn
+Chromosome	3219194	G	A	missense_variant	MODERATE	dacB2	p.Ala286Thr
+Chromosome	3226181	A	C	synonymous_variant	LOW	ffh	p.Arg35Arg
+Chromosome	3228143	G	T	missense_variant	MODERATE	Rv2917	p.Arg594Leu
+Chromosome	3229692	G	A	missense_variant	MODERATE	glnD	p.Ala330Val
+Chromosome	3233605	G	A	synonymous_variant	LOW	ftsY	p.Leu179Leu
+Chromosome	3241244	G	A	missense_variant	MODERATE	Rv2927c	p.Thr239Ile
+Chromosome	3244126	G	A	missense_variant	MODERATE	fadD26	p.Val144Ile
+Chromosome	3244414	A	G	missense_variant	MODERATE	fadD26	p.Met240Val
+Chromosome	3247089	G	A	missense_variant	MODERATE	ppsA	p.Gly549Ser
+Chromosome	3247316	C	G	missense_variant	MODERATE	ppsA	p.Asp624Glu
+Chromosome	3247851	G	A	missense_variant	MODERATE	ppsA	p.Ala803Thr
+Chromosome	3247853	C	T	synonymous_variant	LOW	ppsA	p.Ala803Ala
+Chromosome	3247856	G	C	synonymous_variant	LOW	ppsA	p.Arg804Arg
+Chromosome	3247874	G	A	synonymous_variant	LOW	ppsA	p.Arg810Arg
+Chromosome	3247877	T	C	synonymous_variant	LOW	ppsA	p.Phe811Phe
+Chromosome	3247883	T	C	synonymous_variant	LOW	ppsA	p.Ser813Ser
+Chromosome	3248074	G	A	missense_variant	MODERATE	ppsA	p.Arg877His
+Chromosome	3248075	C	T	synonymous_variant	LOW	ppsA	p.Arg877Arg
+Chromosome	3254758	A	C	synonymous_variant	LOW	ppsB	p.Pro1229Pro
+Chromosome	3254880	G	T	missense_variant	MODERATE	ppsB	p.Arg1270Leu
+Chromosome	3256494	A	G	synonymous_variant	LOW	ppsC	p.Gly270Gly
+Chromosome	3266030	A	G	synonymous_variant	LOW	ppsD	p.Ser1261Ser
+Chromosome	3269581	A	G	synonymous_variant	LOW	ppsE	p.Ala615Ala
+Chromosome	3270784	A	G	synonymous_variant	LOW	ppsE	p.Gln1016Gln
+Chromosome	3271037	A	G	missense_variant	MODERATE	ppsE	p.Asn1101Asp
+Chromosome	3273138	C	G	missense_variant	MODERATE	drrA	p.His309Asp
+Chromosome	3274545	G	A	synonymous_variant	LOW	drrC	p.Leu158Leu
+Chromosome	3276017	C	T	missense_variant	MODERATE	papA5	p.Pro357Ser
+Chromosome	3280132	G	A	missense_variant	MODERATE	mas	p.Arg862Trp
+Chromosome	3285318	C	T	synonymous_variant	LOW	mmpL7	p.Ala83Ala
+Chromosome	3293423	A	G	synonymous_variant	LOW	pks1	p.Asp977Asp
+Chromosome	3293601	T	C	missense_variant	MODERATE	pks1	p.Gln918Arg
+Chromosome	3295124	C	T	synonymous_variant	LOW	pks1	p.Arg410Arg
+Chromosome	3295639	CGGG	CGGGG	frameshift_variant	HIGH	pks1	p.Glu239fs
+Chromosome	3296371	GCCGCGGCCC	GCCGCGGCCCGCGGCCC	frameshift_variant	HIGH	pks15	p.Arg491fs
+Chromosome	3296721	C	G	missense_variant	MODERATE	pks15	p.Gly374Arg
+Chromosome	3296843	A	G	missense_variant	MODERATE	pks15	p.Val333Ala
+Chromosome	3299413	G	A	missense_variant	MODERATE	fadD22	p.Ala181Val
+Chromosome	3302484	A	G	upstream_gene_variant	MODIFIER	pks15	
+Chromosome	3302683	C	T	upstream_gene_variant	MODIFIER	pks15	
+Chromosome	3306163	CGGCACTGTGGCGGGCAC	CGGCAC	disruptive_inframe_deletion	MODERATE	Rv2953	p.Val298_Thr301del
+Chromosome	3306594	T	G	upstream_gene_variant	MODIFIER	fadD29	
+Chromosome	3308446	T	C	missense_variant	MODERATE	Rv2955c	p.Thr34Ala
+Chromosome	3308606	G	A	upstream_gene_variant	MODIFIER	Rv2951c	
+Chromosome	3311119	G	C	synonymous_variant	LOW	Rv2958c	p.Val294Val
+Chromosome	3312942	G	A	upstream_gene_variant	MODIFIER	Rv2955c	
+Chromosome	3314412	A	G	synonymous_variant	LOW	Rv2962c	p.Ala237Ala
+Chromosome	3326150	A	G	missense_variant	MODERATE	Rv2971	p.Asp17Gly
+Chromosome	3326554	A	C	missense_variant	MODERATE	Rv2971	p.Asn152His
+Chromosome	3328495	G	C	synonymous_variant	LOW	recG	p.Arg484Arg
+Chromosome	3331361	ACGCGCGC	ACGCGC	frameshift_variant	HIGH	Rv2975c	p.Arg84fs
+Chromosome	3335708	G	C	missense_variant	MODERATE	Rv2979c	p.Pro14Arg
+Chromosome	3336528	T	A	upstream_gene_variant	MODIFIER	Rv2975c	
+Chromosome	3336561	TAA	TA	upstream_gene_variant	MODIFIER	Rv2975c	
+Chromosome	3336705	A	T	upstream_gene_variant	MODIFIER	ung	
+Chromosome	3336825	T	C	missense_variant	MODERATE	ddlA	p.Thr365Ala
+Chromosome	3338603	G	C	missense_variant	MODERATE	gpdA2	p.Pro133Ala
+Chromosome	3339417	A	G	synonymous_variant	LOW	Rv2983	p.Glu100Glu
+Chromosome	3351012	C	T	upstream_gene_variant	MODIFIER	leuC	
+Chromosome	3351472	G	A	stop_gained	HIGH	Rv2994	p.Trp68*
+Chromosome	3352932	C	A	synonymous_variant	LOW	leuB	p.Thr179Thr
+Chromosome	3352933	G	A	missense_variant	MODERATE	leuB	p.Thr179Met
+Chromosome	3358235	A	T	missense_variant	MODERATE	lppY	p.Met212Leu
+Chromosome	3359584	G	A	upstream_gene_variant	MODIFIER	serA1	
+Chromosome	3363338	A	G	upstream_gene_variant	MODIFIER	ilvC	
+Chromosome	3365841	G	A	missense_variant	MODERATE	Rv3007c	p.Pro204Ser
+Chromosome	3366409	GATCACATCACCATCA	GATCA	frameshift_variant	HIGH	Rv3007c	p.Gly11fs
+Chromosome	3367765	G	A	synonymous_variant	LOW	gatB	p.Gly343Gly
+Chromosome	3369869	G	T	upstream_gene_variant	MODIFIER	Rv3007c	
+Chromosome	3371260	T	C	missense_variant	MODERATE	gatA	p.Ile59Val
+Chromosome	3375719	C	T	upstream_gene_variant	MODIFIER	gatA	
+Chromosome	3377786	A	G	missense_variant	MODERATE	PPE46	p.Val153Ala
+Chromosome	3378828	C	A	missense_variant	MODERATE	esxR	p.Trp58Cys
+Chromosome	3379390	A	C	upstream_gene_variant	MODIFIER	ligA	
+Chromosome	3379708	G	C	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379712	G	C	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379718	T	C	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379751	A	C	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379757	A	C	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379763	G	A	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379784	C	A	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3379788	C	G	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3380226	A	G	upstream_gene_variant	MODIFIER	Rv3015c	
+Chromosome	3380439	GC	GCC	splice_region_variant&non_coding_transcript_exon_variant	LOW	PPE48	
+Chromosome	3385067	G	C	upstream_gene_variant	MODIFIER	PPE47	
+Chromosome	3389054	G	C	upstream_gene_variant	MODIFIER	iscS	
+Chromosome	3393927	A	G	stop_lost&splice_region_variant	HIGH	Rv3033	p.Ter183Trpext*?
+Chromosome	3398940	T	C	missense_variant	MODERATE	Rv3038c	p.Ile157Val
+Chromosome	3400230	C	T	missense_variant	MODERATE	Rv3040c	p.Ala277Thr
+Chromosome	3401850	G	A	synonymous_variant	LOW	Rv3041c	p.Asp23Asp
+Chromosome	3401871	A	G	synonymous_variant	LOW	Rv3041c	p.Ala16Ala
+Chromosome	3402816	C	T	missense_variant	MODERATE	serB2	p.Gly116Glu
+Chromosome	3404376	C	G	synonymous_variant	LOW	ctaD	p.Thr182Thr
+Chromosome	3406798	G	A	missense_variant	MODERATE	adhC	p.Ala172Thr
+Chromosome	3407028	C	T	synonymous_variant	LOW	adhC	p.Asn248Asn
+Chromosome	3407729	G	T	upstream_gene_variant	MODIFIER	serB2	
+Chromosome	3408971	C	T	synonymous_variant	LOW	nrdF2	p.Leu136Leu
+Chromosome	3415180	ACACCTAGGGGGTGGCACCTAGGGGGTGGCAC	ACACCTAGGGGGTGGCAC	upstream_gene_variant	MODIFIER	Rv3049c	
+Chromosome	3415332	A	G	upstream_gene_variant	MODIFIER	Rv3049c	
+Chromosome	3417404	G	T	missense_variant	MODERATE	dinP	p.Gly234Cys
+Chromosome	3420825	A	G	missense_variant	MODERATE	cyp136	p.Asp445Gly
+Chromosome	3424462	C	T	synonymous_variant	LOW	fadE22	p.Leu322Leu
+Chromosome	3425854	C	T	missense_variant	MODERATE	ligB	p.Pro91Ser
+Chromosome	3427632	C	T	synonymous_variant	LOW	cstA	p.Ala130Ala
+Chromosome	3428088	G	A	synonymous_variant	LOW	cstA	p.Ala282Ala
+Chromosome	3428917	C	A	missense_variant	MODERATE	cstA	p.Arg559Ser
+Chromosome	3431407	G	T	upstream_gene_variant	MODIFIER	Rv3064c	
+Chromosome	3440464	T	G	synonymous_variant	LOW	Rv3077	p.Arg308Arg
+Chromosome	3440468	G	C	missense_variant	MODERATE	Rv3077	p.Gly310Arg
+Chromosome	3440542	A	G	synonymous_variant	LOW	Rv3077	p.Gly334Gly
+Chromosome	3442240	C	A	stop_gained	HIGH	Rv3079c	p.Glu120*
+Chromosome	3442704	G	C	missense_variant	MODERATE	pknK	p.Cys1095Trp
+Chromosome	3443994	A	G	synonymous_variant	LOW	pknK	p.Arg665Arg
+Chromosome	3445721	G	C	missense_variant	MODERATE	pknK	p.Gln90Glu
+Chromosome	3447480	A	C	missense_variant	MODERATE	virS	p.Leu316Arg
+Chromosome	3448714	G	C	missense_variant	MODERATE	Rv3083	p.Asp71His
+Chromosome	3450725	T	C	synonymous_variant	LOW	lipR	p.Val243Val
+Chromosome	3453382	C	T	missense_variant	MODERATE	Rv3087	p.Ala153Val
+Chromosome	3453733	C	G	missense_variant	MODERATE	Rv3087	p.Ala270Gly
+Chromosome	3454263	C	G	missense_variant	MODERATE	Rv3087	p.Leu447Val
+Chromosome	3455686	G	C	synonymous_variant	LOW	tgs4	p.Leu449Leu
+Chromosome	3456666	A	G	synonymous_variant	LOW	fadD13	p.Ala302Ala
+Chromosome	3460765	G	C	synonymous_variant	LOW	Rv3091	p.Pro550Pro
+Chromosome	3461239	T	C	missense_variant	MODERATE	Rv3092c	p.Ile166Val
+Chromosome	3462135	G	C	missense_variant	MODERATE	Rv3093c	p.Cys210Trp
+Chromosome	3464629	A	G	missense_variant	MODERATE	Rv3096	p.Glu28Gly
+Chromosome	3465363	G	T	missense_variant	MODERATE	Rv3096	p.Ala273Ser
+Chromosome	3466919	C	G	missense_variant	MODERATE	lipY	p.Gly58Ala
+Chromosome	3467465	C	G	synonymous_variant	LOW	Rv3098c	p.Ala66Ala
+Chromosome	3473996	GA	GAA	upstream_gene_variant	MODIFIER	Rv3099c	
+Chromosome	3474597	C	A	synonymous_variant	LOW	fprA	p.Val197Val
+Chromosome	3475159	A	G	missense_variant	MODERATE	fprA	p.Asn385Asp
+Chromosome	3479545	C	A	synonymous_variant	LOW	moaC1	p.Ala125Ala
+Chromosome	3479561	G	A	missense_variant	MODERATE	moaC1	p.Asp131Asn
+Chromosome	3480386	G	A	missense_variant	MODERATE	Rv3113	p.Ala105Thr
+Chromosome	3480474	G	A	missense_variant	MODERATE	Rv3113	p.Gly134Glu
+Chromosome	3480789	T	C	missense_variant	MODERATE	Rv3114	p.Ser11Pro
+Chromosome	3481475	G	A	missense_variant	MODERATE	Rv3115	p.Ala9Thr
+Chromosome	3482450	T	G	missense_variant	MODERATE	Rv3115	p.Trp334Gly
+Chromosome	3483155	A	C	missense_variant	MODERATE	moeB2	p.Glu127Ala
+Chromosome	3483873	C	A	missense_variant	MODERATE	moeB2	p.His366Gln
+Chromosome	3486977	A	G	missense_variant	MODERATE	cyp141	p.Lys157Glu
+Chromosome	3493996	G	A	upstream_gene_variant	MODIFIER	PPE49	
+Chromosome	3494295	GGCGC	GGC	upstream_gene_variant	MODIFIER	PPE49	
+Chromosome	3494820	CGGGGG	CGGGG	frameshift_variant	HIGH	Rv3129	p.Val56fs
+Chromosome	3495987	C	T	missense_variant	MODERATE	tgs1	p.Ser127Asn
+Chromosome	3497586	C	G	synonymous_variant	LOW	devS	p.Ala560Ala
+Chromosome	3498418	A	G	missense_variant	MODERATE	devS	p.Ile283Thr
+Chromosome	3503895	C	T	missense_variant	MODERATE	Rv3137	p.Pro168Leu
+Chromosome	3504418	C	T	missense_variant	MODERATE	pflA	p.Pro75Leu
+Chromosome	3505005	A	C	missense_variant	MODERATE	pflA	p.Thr271Pro
+Chromosome	3509091	G	C	upstream_gene_variant	MODIFIER	Rv3143	
+Chromosome	3510120	T	G	missense_variant	MODERATE	PPE52	p.Lys400Gln
+Chromosome	3518167	A	G	missense_variant	MODERATE	nuoG	p.Ile474Met
+Chromosome	3518555	A	G	missense_variant	MODERATE	nuoG	p.Thr604Ala
+Chromosome	3521044	A	G	missense_variant	MODERATE	nuoI	p.Thr180Ala
+Chromosome	3526986	A	G	synonymous_variant	LOW	nuoN	p.Ala399Ala
+Chromosome	3529067	G	C	missense_variant	MODERATE	PPE53	p.Arg33Gly
+Chromosome	3530023	C	T	missense_variant	MODERATE	Rv3161c	p.Met372Ile
+Chromosome	3530145	C	A	missense_variant	MODERATE	Rv3161c	p.Asp332Tyr
+Chromosome	3530955	C	G	missense_variant	MODERATE	Rv3161c	p.Val62Leu
+Chromosome	3533759	G	A	synonymous_variant	LOW	moxR3	p.Pro49Pro
+Chromosome	3536008	G	T	missense_variant	MODERATE	Rv3167c	p.Pro17Gln
+Chromosome	3539137	GCC	GC	frameshift_variant	HIGH	aofH	p.Pro212fs
+Chromosome	3539140	G	T	synonymous_variant	LOW	aofH	p.Pro212Pro
+Chromosome	3555699	A	G	missense_variant	MODERATE	Rv3190c	p.Val330Ala
+Chromosome	3556275	A	G	missense_variant	MODERATE	Rv3190c	p.Leu138Pro
+Chromosome	3556606	G	A	stop_gained	HIGH	Rv3190c	p.Gln28*
+Chromosome	3557634	G	A	missense_variant	MODERATE	Rv3191c	p.Pro238Ser
+Chromosome	3560645	C	T	missense_variant	MODERATE	Rv3193c	p.Arg843Gln
+Chromosome	3561229	C	A	synonymous_variant	LOW	Rv3193c	p.Val648Val
+Chromosome	3566923	ACGCTTGTCGGCGCTTGTCG	ACGCTTGTCGGCGCTTGTCGGCGCTTGTCG	upstream_gene_variant	MODIFIER	Rv3193c	
+Chromosome	3568488	GCCCC	GCCC	frameshift_variant	HIGH	whiB7	p.Gly64fs
+Chromosome	3571834	T	G	missense_variant	MODERATE	nudC	p.Gln237Pro
+Chromosome	3573636	T	C	missense_variant	MODERATE	Rv3200c	p.Asn12Asp
+Chromosome	3576656	G	A	synonymous_variant	LOW	Rv3201c	p.Gly127Gly
+Chromosome	3577958	A	G	missense_variant	MODERATE	Rv3202c	p.Val748Ala
+Chromosome	3580636	CTTT	CTT	frameshift_variant&start_lost	HIGH	lipV	p.Met1fs
+Chromosome	3581414	A	G	missense_variant	MODERATE	Rv3204	p.Thr34Ala
+Chromosome	3581794	C	A	missense_variant	MODERATE	Rv3205c	p.Ala238Ser
+Chromosome	3590291	T	C	missense_variant	MODERATE	Rv3212	p.Ser300Pro
+Chromosome	3590686	G	GC	upstream_gene_variant	MODIFIER	TB9.4	
+Chromosome	3591063	T	C	missense_variant	MODERATE	Rv3213c	p.Lys144Glu
+Chromosome	3594394	G	C	upstream_gene_variant	MODIFIER	Rv3213c	
+Chromosome	3594395	G	A	upstream_gene_variant	MODIFIER	Rv3213c	
+Chromosome	3594398	T	C	upstream_gene_variant	MODIFIER	Rv3213c	
+Chromosome	3594400	A	G	upstream_gene_variant	MODIFIER	Rv3213c	
+Chromosome	3597682	C	T	missense_variant	MODERATE	TB7.3	p.Val29Ile
+Chromosome	3598321	C	T	synonymous_variant	LOW	rshA	p.Ala12Ala
+Chromosome	3604821	G	C	synonymous_variant	LOW	Rv3228	p.Ala32Ala
+Chromosome	3610391	A	AC	frameshift_variant	HIGH	tgs3	p.Ser267fs
+Chromosome	3610668	GGGGTC	G	frameshift_variant	HIGH	tgs3	p.Asp173fs
+Chromosome	3611192	C	T	upstream_gene_variant	MODIFIER	desA3	
+Chromosome	3614982	T	C	synonymous_variant	LOW	Rv3239c	p.Leu874Leu
+Chromosome	3619854	A	G	synonymous_variant	LOW	secA1	p.Gly226Gly
+Chromosome	3620552	A	AT	upstream_gene_variant	MODIFIER	Rv3239c	
+Chromosome	3621423	A	G	upstream_gene_variant	MODIFIER	Rv3239c	
+Chromosome	3622441	A	C	synonymous_variant	LOW	Rv3243c	p.Val217Val
+Chromosome	3624486	T	C	missense_variant	MODERATE	lpqB	p.Asp142Gly
+Chromosome	3625065	T	G	missense_variant	MODERATE	mtrB	p.Met517Leu
+Chromosome	3628694	G	A	synonymous_variant	LOW	sahH	p.Gly318Gly
+Chromosome	3629612	G	A	synonymous_variant	LOW	sahH	p.Thr12Thr
+Chromosome	3638093	G	A	missense_variant	MODERATE	pmmA	p.Ser206Leu
+Chromosome	3640557	T	C	synonymous_variant	LOW	fbiA	p.Val5Val
+Chromosome	3643582	T	C	missense_variant	MODERATE	Rv3263	p.Trp136Arg
+Chromosome	3647041	A	G	missense_variant	MODERATE	rmlD	p.Ser257Pro
+Chromosome	3647591	A	G	synonymous_variant	LOW	rmlD	p.Asn73Asn
+Chromosome	3658266	C	G	missense_variant	MODERATE	purE	p.Gly125Arg
+Chromosome	3661802	C	T	missense_variant	MODERATE	birA	p.Gly71Ser
+Chromosome	3670040	C	T	synonymous_variant	LOW	Rv3289c	p.Ala124Ala
+Chromosome	3670118	G	T	synonymous_variant	LOW	Rv3289c	p.Gly98Gly
+Chromosome	3671532	G	C	missense_variant	MODERATE	lat	p.Ala88Gly
+Chromosome	3671843	A	C	upstream_gene_variant	MODIFIER	sigF	
+Chromosome	3672105	G	C	missense_variant	MODERATE	lrpA	p.His65Asp
+Chromosome	3675767	C	T	missense_variant	MODERATE	Rv3294c	p.Ala77Thr
+Chromosome	3678091	G	A	synonymous_variant	LOW	lhr	p.Pro439Pro
+Chromosome	3679949	A	G	missense_variant	MODERATE	lhr	p.Lys1059Glu
+Chromosome	3681548	A	C	synonymous_variant	LOW	nei	p.Arg77Arg
+Chromosome	3683237	G	T	synonymous_variant	LOW	atsB	p.Ala909Ala
+Chromosome	3683715	T	G	missense_variant	MODERATE	atsB	p.Gln750Pro
+Chromosome	3687372	A	G	missense_variant	MODERATE	phoY1	p.Leu69Ser
+Chromosome	3689523	G	T	stop_gained	HIGH	lpdA	p.Cys472*
+Chromosome	3690016	A	G	missense_variant	MODERATE	lpdA	p.Leu308Ser
+Chromosome	3690386	G	A	missense_variant	MODERATE	lpdA	p.Leu185Phe
+Chromosome	3693681	A	C	synonymous_variant	LOW	amiB1	p.Ala103Ala
+Chromosome	3696181	A	G	missense_variant	MODERATE	pmmB	p.Ser440Gly
+Chromosome	3697708	A	G	missense_variant	MODERATE	sapM	p.Thr171Ala
+Chromosome	3704261	C	A	missense_variant	MODERATE	sdhC	p.Leu54Ile
+Chromosome	3704596	G	C	missense_variant	MODERATE	sdhD	p.Val54Leu
+Chromosome	3711736	AGA	AGAAGGA	upstream_gene_variant	MODIFIER	vapC44	
+Chromosome	3712372	A	G	synonymous_variant	LOW	Rv3327	p.Leu208Leu
+Chromosome	3714211	G	T	missense_variant	MODERATE	sigJ	p.Pro41Gln
+Chromosome	3714355	C	T	upstream_gene_variant	MODIFIER	moaX	
+Chromosome	3714757	A	C	missense_variant	MODERATE	Rv3329	p.Gln122His
+Chromosome	3717192	C	T	missense_variant	MODERATE	sugI	p.Arg35Cys
+Chromosome	3718357	C	T	missense_variant	MODERATE	sugI	p.Pro423Leu
+Chromosome	3720033	G	A	synonymous_variant	LOW	Rv3333c	p.Gly250Gly
+Chromosome	3720792	T	G	upstream_gene_variant	MODIFIER	Rv3333c	
+Chromosome	3721806	G	C	synonymous_variant	LOW	Rv3335c	p.Gly265Gly
+Chromosome	3723901	GTTTT	GTTTTT	frameshift_variant	HIGH	Rv3337	p.Cys84fs
+Chromosome	3730466	A	G	missense_variant	MODERATE	PPE54	p.Ile2157Thr
+Chromosome	3730582	G	A	synonymous_variant	LOW	PPE54	p.Asn2118Asn
+Chromosome	3730616	G	A	missense_variant	MODERATE	PPE54	p.Ala2107Val
+Chromosome	3730642	G	A	synonymous_variant	LOW	PPE54	p.Asn2098Asn
+Chromosome	3732118	G	C	missense_variant	MODERATE	PPE54	p.Phe1606Leu
+Chromosome	3732122	G	A	missense_variant	MODERATE	PPE54	p.Ala1605Val
+Chromosome	3732310	G	A	synonymous_variant	LOW	PPE54	p.Asn1542Asn
+Chromosome	3732344	G	A	missense_variant	MODERATE	PPE54	p.Ala1531Val
+Chromosome	3733684	A	G	synonymous_variant	LOW	PPE54	p.Pro1084Pro
+Chromosome	3734121	C	T	missense_variant	MODERATE	PPE54	p.Asp939Asn
+Chromosome	3735899	G	A	missense_variant	MODERATE	PPE54	p.Ala346Val
+Chromosome	3735925	G	A	synonymous_variant	LOW	PPE54	p.Asn337Asn
+Chromosome	3735931	G	A	synonymous_variant	LOW	PPE54	p.Ser335Ser
+Chromosome	3735967	G	A	synonymous_variant	LOW	PPE54	p.Ser323Ser
+Chromosome	3736179	G	A	synonymous_variant	LOW	PPE54	p.Leu253Leu
+Chromosome	3736628	T	G	missense_variant	MODERATE	PPE54	p.Glu103Ala
+Chromosome	3741285	CC	CCGGCGCCGCCGTCCCCGGC	conservative_inframe_insertion	MODERATE	PE_PGRS50	p.Lys496_Gly497insAlaGlyAspGlyGlyAla
+Chromosome	3742991	AGGGGGGG	AGGGGGG	upstream_gene_variant	MODIFIER	PE_PGRS49	
+Chromosome	3743549	A	G	upstream_gene_variant	MODIFIER	PE_PGRS50	
+Chromosome	3745358	T	G	synonymous_variant	LOW	PPE55	p.Gly2609Gly
+Chromosome	3745483	C	A	missense_variant	MODERATE	PPE55	p.Val2568Leu
+Chromosome	3745581	C	T	missense_variant	MODERATE	PPE55	p.Gly2535Glu
+Chromosome	3745816	C	T	missense_variant	MODERATE	PPE55	p.Asp2457Asn
+Chromosome	3746409	A	G	missense_variant	MODERATE	PPE55	p.Leu2259Pro
+Chromosome	3746660	A	C	synonymous_variant	LOW	PPE55	p.Gly2175Gly
+Chromosome	3746702	C	G	synonymous_variant	LOW	PPE55	p.Ser2161Ser
+Chromosome	3746703	G	C	missense_variant	MODERATE	PPE55	p.Ser2161Trp
+Chromosome	3746704	A	T	missense_variant	MODERATE	PPE55	p.Ser2161Thr
+Chromosome	3746705	C	G	synonymous_variant	LOW	PPE55	p.Gly2160Gly
+Chromosome	3746845	T	C	missense_variant	MODERATE	PPE55	p.Ile2114Val
+Chromosome	3746854	T	C	missense_variant	MODERATE	PPE55	p.Thr2111Ala
+Chromosome	3746869	G	A	synonymous_variant	LOW	PPE55	p.Leu2106Leu
+Chromosome	3746870	G	C	synonymous_variant	LOW	PPE55	p.Gly2105Gly
+Chromosome	3746873	A	C	missense_variant	MODERATE	PPE55	p.Ile2104Met
+Chromosome	3746875	T	G	missense_variant	MODERATE	PPE55	p.Ile2104Leu
+Chromosome	3750177	A	T	missense_variant	MODERATE	PPE55	p.Phe1003Tyr
+Chromosome	3750178	A	C	missense_variant	MODERATE	PPE55	p.Phe1003Val
+Chromosome	3750185	C	G	synonymous_variant	LOW	PPE55	p.Ser1000Ser
+Chromosome	3750187	A	T	missense_variant	MODERATE	PPE55	p.Ser1000Thr
+Chromosome	3750188	C	G	missense_variant	MODERATE	PPE55	p.Met999Ile
+Chromosome	3750193	G	A	missense_variant	MODERATE	PPE55	p.Leu998Phe
+Chromosome	3750205	C	T	missense_variant	MODERATE	PPE55	p.Asp994Asn
+Chromosome	3750209	A	G	synonymous_variant	LOW	PPE55	p.Asn992Asn
+Chromosome	3750210	T	G	missense_variant	MODERATE	PPE55	p.Asn992Thr
+Chromosome	3750407	G	C	synonymous_variant	LOW	PPE55	p.Gly926Gly
+Chromosome	3750417	A	T	missense_variant	MODERATE	PPE55	p.Phe923Tyr
+Chromosome	3750421	T	C	missense_variant	MODERATE	PPE55	p.Ser922Gly
+Chromosome	3752207	A	G	synonymous_variant	LOW	PPE55	p.Ile326Ile
+Chromosome	3752975	G	C	synonymous_variant	LOW	PPE55	p.Ala70Ala
+Chromosome	3753116	C	T	synonymous_variant	LOW	PPE55	p.Pro23Pro
+Chromosome	3753164	T	G	synonymous_variant	LOW	PPE55	p.Pro7Pro
+Chromosome	3753410	GTTTT	GTTT	upstream_gene_variant	MODIFIER	PPE55	
+Chromosome	3753415	C	G	upstream_gene_variant	MODIFIER	PPE55	
+Chromosome	3753693	A	G	upstream_gene_variant	MODIFIER	PPE55	
+Chromosome	3757026	G	C	synonymous_variant	LOW	PPE56	p.Ala3359Ala
+Chromosome	3757029	C	G	synonymous_variant	LOW	PPE56	p.Val3358Val
+Chromosome	3757031	C	T	missense_variant	MODERATE	PPE56	p.Val3358Met
+Chromosome	3757032	C	G	synonymous_variant	LOW	PPE56	p.Gly3357Gly
+Chromosome	3757047	G	A	synonymous_variant	LOW	PPE56	p.Gly3352Gly
+Chromosome	3757052	C	T	missense_variant	MODERATE	PPE56	p.Ala3351Thr
+Chromosome	3757058	G	A	missense_variant	MODERATE	PPE56	p.Leu3349Phe
+Chromosome	3757151	C	G	missense_variant	MODERATE	PPE56	p.Val3318Leu
+Chromosome	3757230	G	C	synonymous_variant	LOW	PPE56	p.Ser3291Ser
+Chromosome	3757245	G	C	missense_variant	MODERATE	PPE56	p.Phe3286Leu
+Chromosome	3757246	A	C	missense_variant	MODERATE	PPE56	p.Phe3286Cys
+Chromosome	3757251	G	T	synonymous_variant	LOW	PPE56	p.Gly3284Gly
+Chromosome	3757262	T	A	missense_variant	MODERATE	PPE56	p.Thr3281Ser
+Chromosome	3757323	A	G	synonymous_variant	LOW	PPE56	p.Asn3260Asn
+Chromosome	3757326	T	C	synonymous_variant	LOW	PPE56	p.Leu3259Leu
+Chromosome	3757328	G	A	synonymous_variant	LOW	PPE56	p.Leu3259Leu
+Chromosome	3757365	G	A	synonymous_variant	LOW	PPE56	p.Ile3246Ile
+Chromosome	3757371	A	G	synonymous_variant	LOW	PPE56	p.Ile3244Ile
+Chromosome	3757373	T	G	missense_variant	MODERATE	PPE56	p.Ile3244Leu
+Chromosome	3757378	C	T	missense_variant	MODERATE	PPE56	p.Gly3242Asp
+Chromosome	3757379	C	T	missense_variant	MODERATE	PPE56	p.Gly3242Ser
+Chromosome	3757395	C	G	missense_variant	MODERATE	PPE56	p.Leu3236Phe
+Chromosome	3757413	G	A	synonymous_variant	LOW	PPE56	p.Gly3230Gly
+Chromosome	3763539	C	T	synonymous_variant	LOW	PPE56	p.Glu1188Glu
+Chromosome	3765678	C	T	synonymous_variant	LOW	PPE56	p.Pro475Pro
+Chromosome	3766240	C	T	missense_variant	MODERATE	PPE56	p.Gly288Asp
+Chromosome	3770325	C	T	missense_variant	MODERATE	folD	p.Ala109Thr
+Chromosome	3771628	A	C	synonymous_variant	LOW	Rv3359	p.Ile95Ile
+Chromosome	3772616	G	A	upstream_gene_variant	MODIFIER	Rv3351c	
+Chromosome	3774506	G	A	synonymous_variant	LOW	Rv3364c	p.Gly123Gly
+Chromosome	3779899	GGGCAACGGCGGCAACGGCGGCAACGGCGGCA	GGGCAACGGCGGCAACGGCGGCA	disruptive_inframe_deletion	MODERATE	PE_PGRS51	p.Asn452_Gly454del
+Chromosome	3781220	C	T	synonymous_variant	LOW	Rv3369	p.Asn81Asn
+Chromosome	3785946	A	G	missense_variant	MODERATE	Rv3371	p.Arg339Gly
+Chromosome	3786033	A	G	missense_variant	MODERATE	Rv3371	p.Ile368Val
+Chromosome	3788365	T	G	stop_lost&splice_region_variant	HIGH	echA18	p.Ter214Glyext*?
+Chromosome	3791770	G	A	missense_variant	MODERATE	Rv3377c	p.Ser195Leu
+Chromosome	3793634	A	G	missense_variant	MODERATE	dxs2	p.Cys412Arg
+Chromosome	3794867	CC	CCAC	upstream_gene_variant	MODIFIER	Rv3377c	
+Chromosome	3798095	A	C	missense_variant	MODERATE	idsB	p.Val132Gly
+Chromosome	3798678	T	G	upstream_gene_variant	MODIFIER	dxs2	
+Chromosome	3808103	T	C	missense_variant	MODERATE	cmaA1	p.Asn112Ser
+Chromosome	3811629	G	A	missense_variant	MODERATE	Rv3395c	p.Ala3Val
+Chromosome	3815477	G	T	synonymous_variant	LOW	idsA1	p.Ala210Ala
+Chromosome	3816540	A	G	missense_variant	MODERATE	Rv3399	p.Thr138Ala
+Chromosome	3817117	C	A	missense_variant	MODERATE	Rv3399	p.Ala330Glu
+Chromosome	3823159	A	T	synonymous_variant	LOW	Rv3403c	p.Val235Val
+Chromosome	3826684	C	T	missense_variant	MODERATE	vapC47	p.Ser46Leu
+Chromosome	3829770	T	C	synonymous_variant	LOW	guaB3	p.Pro47Pro
+Chromosome	3830566	G	A	synonymous_variant	LOW	guaB2	p.Ser318Ser
+Chromosome	3830695	A	G	synonymous_variant	LOW	guaB2	p.Ala275Ala
+Chromosome	3838871	A	G	synonymous_variant	LOW	rimI	p.Ala64Ala
+Chromosome	3842289	C	T	synonymous_variant	LOW	PPE57	p.Gly17Gly
+Chromosome	3842295	C	T	synonymous_variant	LOW	PPE57	p.Gly19Gly
+Chromosome	3842452	C	A	missense_variant	MODERATE	PPE57	p.Gln72Lys
+Chromosome	3842555	A	C	missense_variant	MODERATE	PPE57	p.Glu106Ala
+Chromosome	3842557	G	A	missense_variant	MODERATE	PPE57	p.Glu107Lys
+Chromosome	3842558	A	C	missense_variant	MODERATE	PPE57	p.Glu107Ala
+Chromosome	3842559	G	T	missense_variant	MODERATE	PPE57	p.Glu107Asp
+Chromosome	3842566	G	A	missense_variant	MODERATE	PPE57	p.Ala110Thr
+Chromosome	3842567	C	A	missense_variant	MODERATE	PPE57	p.Ala110Asp
+Chromosome	3842620	A	G	missense_variant	MODERATE	PPE57	p.Thr128Ala
+Chromosome	3842625	A	G	synonymous_variant	LOW	PPE57	p.Pro129Pro
+Chromosome	3843407	CGGGGG	CGGGG	frameshift_variant	HIGH	PPE58	p.Gly126fs
+Chromosome	3843647	C	T	synonymous_variant	LOW	PPE58	p.Asp204Asp
+Chromosome	3844756	GCCCCC	GCCCC	frameshift_variant	HIGH	Rv3428c	p.Gly405fs
+Chromosome	3844992	T	A	missense_variant	MODERATE	Rv3428c	p.Ser327Cys
+Chromosome	3845328	T	C	missense_variant	MODERATE	Rv3428c	p.Met215Val
+Chromosome	3845695	C	T	synonymous_variant	LOW	Rv3428c	p.Arg92Arg
+Chromosome	3847351	A	T	missense_variant	MODERATE	PPE59	p.Met63Leu
+Chromosome	3847562	G	A	missense_variant	MODERATE	PPE59	p.Gly133Glu
+Chromosome	3847563	A	C	synonymous_variant	LOW	PPE59	p.Gly133Gly
+Chromosome	3847578	T	C	synonymous_variant	LOW	PPE59	p.Tyr138Tyr
+Chromosome	3847579	C	G	missense_variant	MODERATE	PPE59	p.Gln139Glu
+Chromosome	3847581	G	C	missense_variant	MODERATE	PPE59	p.Gln139His
+Chromosome	3851084	A	G	missense_variant	MODERATE	gadB	p.Ile224Thr
+Chromosome	3854899	T	C	upstream_gene_variant	MODIFIER	Rv3431c	
+Chromosome	3858400	G	C	synonymous_variant	LOW	Rv3439c	p.Val421Val
+Chromosome	3859893	C	T	synonymous_variant	LOW	Rv3440c	p.Glu28Glu
+Chromosome	3861914	C	T	missense_variant	MODERATE	rpsI	p.Ala13Thr
+Chromosome	3862181	C	T	synonymous_variant	LOW	rplM	p.Gln70Gln
+Chromosome	3862472	GAA	GA	upstream_gene_variant	MODIFIER	Rv3439c	
+Chromosome	3863530	G	T	synonymous_variant	LOW	Rv3446c	p.Ala334Ala
+Chromosome	3864041	G	A	missense_variant	MODERATE	Rv3446c	p.Ala164Val
+Chromosome	3864995	T	C	missense_variant	MODERATE	eccC4	p.Ser1082Gly
+Chromosome	3868738	C	A	synonymous_variant	LOW	eccD4	p.Ile129Ile
+Chromosome	3871093	G	A	missense_variant	MODERATE	mycP4	p.Gly448Arg
+Chromosome	3871246	T	C	synonymous_variant	LOW	eccB4	p.Gly417Gly
+Chromosome	3871333	G	A	synonymous_variant	LOW	eccB4	p.Tyr388Tyr
+Chromosome	3874722	ATTT	ATT	frameshift_variant	HIGH	Rv3453	p.Tyr108fs
+Chromosome	3876953	G	A	synonymous_variant	LOW	rplQ	p.Val160Val
+Chromosome	3877421	A	G	synonymous_variant	LOW	rplQ	p.Pro4Pro
+Chromosome	3878582	G	A	upstream_gene_variant	MODIFIER	truA	
+Chromosome	3883467	A	G	upstream_gene_variant	MODIFIER	rpoA	
+Chromosome	3883626	A	G	synonymous_variant	LOW	Rv3466	p.Pro34Pro
+Chromosome	3883845	T	C	synonymous_variant	LOW	Rv3466	p.Gly107Gly
+Chromosome	3883915	G	A	missense_variant	MODERATE	Rv3466	p.Val131Ile
+Chromosome	3884787	A	G	missense_variant	MODERATE	Rv3467	p.His275Arg
+Chromosome	3884791	C	A	missense_variant	MODERATE	Rv3467	p.Asn276Lys
+Chromosome	3884906	A	G	missense_variant	MODERATE	Rv3467	p.Lys315Glu
+Chromosome	3885886	T	C	missense_variant	MODERATE	Rv3468c	p.Ile62Val
+Chromosome	3892671	A	G	synonymous_variant	LOW	kgtP	p.Val350Val
+Chromosome	3893480	G	A	missense_variant	MODERATE	kgtP	p.Leu81Phe
+Chromosome	3895244	GGC	GGCCGC	disruptive_inframe_insertion	MODERATE	PPE60	p.Ala274dup
+Chromosome	3895247	T	C	synonymous_variant	LOW	PPE60	p.Ala274Ala
+Chromosome	3895257	G	C	missense_variant	MODERATE	PPE60	p.Glu278Gln
+Chromosome	3895269	G	C	missense_variant	MODERATE	PPE60	p.Glu282Gln
+Chromosome	3895281	T	C	missense_variant	MODERATE	PPE60	p.Trp286Arg
+Chromosome	3895282	G	A	stop_gained	HIGH	PPE60	p.Trp286*
+Chromosome	3895304	CCAGCTGGGTTCG	C	conservative_inframe_deletion	MODERATE	PPE60	p.Gln294_Ser297del
+Chromosome	3895305	C	T	stop_gained	HIGH	PPE60	p.Gln294*
+Chromosome	3895306	A	C	missense_variant	MODERATE	PPE60	p.Gln294Pro
+Chromosome	3895375	C	T	missense_variant	MODERATE	PPE60	p.Ser317Leu
+Chromosome	3895727	C	A	upstream_gene_variant	MODIFIER	bpoA	
+Chromosome	3896340	T	G	missense_variant	MODERATE	Rv3479	p.Leu174Arg
+Chromosome	3898408	A	G	synonymous_variant	LOW	Rv3479	p.Ala863Ala
+Chromosome	3898869	C	A	missense_variant	MODERATE	Rv3479	p.Thr1017Asn
+Chromosome	3899654	C	A	missense_variant	MODERATE	Rv3480c	p.Arg250Leu
+Chromosome	3909235	G	C	missense_variant	MODERATE	otsA	p.Val334Leu
+Chromosome	3913737	G	A	synonymous_variant	LOW	lprN	p.Ala266Ala
+Chromosome	3917852	G	T	missense_variant	MODERATE	mce4B	p.Phe49Leu
+Chromosome	3919764	G	A	missense_variant	MODERATE	yrbE4B	p.Thr100Ile
+Chromosome	3920109	G	T	synonymous_variant	LOW	yrbE4A	p.Ile251Ile
+Chromosome	3921094	C	T	missense_variant	MODERATE	Rv3502c	p.Arg316His
+Chromosome	3922836	T	C	synonymous_variant	LOW	fadE26	p.Asp122Asp
+Chromosome	3929996	G	T	missense_variant	MODERATE	PE_PGRS53	p.Gly1143Val
+Chromosome	3930807	A	T	upstream_gene_variant	MODIFIER	PE_PGRS54	
+Chromosome	3932146	C	T	missense_variant	MODERATE	PE_PGRS54	p.Ala381Val
+Chromosome	3936696	A	G	missense_variant	MODERATE	PE_PGRS54	p.Thr1898Ala
+Chromosome	3942481	C	G	missense_variant	MODERATE	PE_PGRS56	p.Ala253Gly
+Chromosome	3942640	T	C	missense_variant	MODERATE	PE_PGRS56	p.Ile306Thr
+Chromosome	3952800	G	A	missense_variant	MODERATE	echA19	p.Gly86Asp
+Chromosome	3956434	A	G	missense_variant	MODERATE	Rv3520c	p.Ile312Thr
+Chromosome	3958007	C	T	missense_variant	MODERATE	Rv3521	p.His163Tyr
+Chromosome	3958403	A	G	missense_variant	MODERATE	Rv3521	p.Asn295Asp
+Chromosome	3959418	C	T	missense_variant	MODERATE	ltp4	p.Thr324Ile
+Chromosome	3968771	C	A	missense_variant	MODERATE	Rv3531c	p.Gln58His
+Chromosome	3970112	C	T	missense_variant	MODERATE	PPE61	p.Thr257Met
+Chromosome	3970764	C	T	missense_variant	MODERATE	PPE62	p.Gly564Ser
+Chromosome	3974142	G	A	missense_variant	MODERATE	hsaG	p.Pro120Leu
+Chromosome	3974868	G	A	synonymous_variant	LOW	hsaE	p.Thr143Thr
+Chromosome	3978684	C	T	missense_variant	MODERATE	PPE63	p.Pro209Leu
+Chromosome	3979151	T	A	missense_variant	MODERATE	PPE63	p.Tyr365Asn
+Chromosome	3984321	G	A	synonymous_variant	LOW	cyp125	p.His375His
+Chromosome	3984926	G	A	synonymous_variant	LOW	cyp125	p.Leu174Leu
+Chromosome	3989107	C	T	upstream_gene_variant	MODIFIER	fadE28	
+Chromosome	3989914	G	T	missense_variant	MODERATE	Rv3551	p.Ala7Ser
+Chromosome	3994898	A	G	missense_variant	MODERATE	Rv3555c	p.Trp268Arg
+Chromosome	3998895	G	A	missense_variant	MODERATE	PPE64	p.Gly306Ser
+Chromosome	4003645	C	T	missense_variant	MODERATE	fadE31	p.Ala162Val
+Chromosome	4005114	G	C	missense_variant	MODERATE	fadE32	p.Trp275Ser
+Chromosome	4005607	T	C	synonymous_variant	LOW	fadE33	p.Leu121Leu
+Chromosome	4008747	A	G	missense_variant	MODERATE	hsaB	p.Ile179Thr
+Chromosome	4012219	T	C	missense_variant	MODERATE	hsaA	p.Asn18Asp
+Chromosome	4013076	G	A	synonymous_variant	LOW	kshB	p.Gly220Gly
+Chromosome	4013388	G	A	missense_variant	MODERATE	kshB	p.Met324Ile
+Chromosome	4014376	C	A	missense_variant	MODERATE	fadE34	p.Asp613Tyr
+Chromosome	4014431	C	T	synonymous_variant	LOW	fadE34	p.Pro594Pro
+Chromosome	4019103	G	T	upstream_gene_variant	MODIFIER	fadE34	
+Chromosome	4020169	C	A	missense_variant	MODERATE	arsB2	p.Leu10Ile
+Chromosome	4022652	G	A	synonymous_variant	LOW	cysS1	p.Ser384Ser
+Chromosome	4024079	T	C	missense_variant	MODERATE	ispF	p.Gln90Arg
+Chromosome	4024273	T	C	synonymous_variant	LOW	ispF	p.Val25Val
+Chromosome	4024368	C	T	synonymous_variant	LOW	ispD	p.Leu224Leu
+Chromosome	4026800	G	C	synonymous_variant	LOW	radA	p.Ala119Ala
+Chromosome	4026899	G	A	synonymous_variant	LOW	radA	p.Gln152Gln
+Chromosome	4028752	A	G	missense_variant	MODERATE	Rv3586	p.Thr288Ala
+Chromosome	4029413	G	C	missense_variant	MODERATE	Rv3587c	p.Ala117Gly
+Chromosome	4033049	G	A	missense_variant	MODERATE	PE_PGRS58	p.Thr37Met
+Chromosome	4034827	C	T	missense_variant	MODERATE	lpqF	p.Ala159Val
+Chromosome	4036411	G	C	missense_variant	MODERATE	Rv3594	p.Lys185Asn
+Chromosome	4037283	T	G	synonymous_variant	LOW	PE_PGRS59	p.Gly256Gly
+Chromosome	4040517	A	G	missense_variant	MODERATE	clpC1	p.Val63Ala
+Chromosome	4042636	G	A	missense_variant	MODERATE	lysS	p.Ala102Val
+Chromosome	4045670	G	A	missense_variant	MODERATE	Rv3603c	p.Thr150Ile
+Chromosome	4049254	G	A	synonymous_variant	LOW	folP1	p.Leu243Leu
+Chromosome	4054637	A	G	synonymous_variant	LOW	espD	p.Gly20Gly
+Chromosome	4055801	G	A	missense_variant	MODERATE	espA	p.Thr192Ile
+Chromosome	4056416	C	A	upstream_gene_variant	MODIFIER	ftsH	
+Chromosome	4057081	A	G	upstream_gene_variant	MODIFIER	ftsH	
+Chromosome	4058711	T	C	missense_variant	MODERATE	Rv3618	p.Leu5Ser
+Chromosome	4059904	A	G	upstream_gene_variant	MODIFIER	espC	
+Chromosome	4060100	G	A	synonymous_variant	LOW	esxV	p.Leu57Leu
+Chromosome	4060201	G	A	missense_variant	MODERATE	esxV	p.Ser23Leu
+Chromosome	4060210	T	A	missense_variant	MODERATE	esxV	p.Gln20Leu
+Chromosome	4060230	G	A	synonymous_variant	LOW	esxV	p.His13His
+Chromosome	4061113	G	T	synonymous_variant	LOW	PPE65	p.Ala259Ala
+Chromosome	4067152	G	A	missense_variant	MODERATE	Rv3627c	p.Ala45Val
+Chromosome	4069292	G	A	missense_variant	MODERATE	Rv3630	p.Ala40Thr
+Chromosome	4069797	C	T	missense_variant	MODERATE	Rv3630	p.Ser208Leu
+Chromosome	4073186	C	A	synonymous_variant	LOW	galE1	p.Pro142Pro
+Chromosome	4076639	CGGG	CGG	frameshift_variant	HIGH	Rv3637	p.Ser55fs
+Chromosome	4077177	G	A	missense_variant	MODERATE	Rv3638	p.Gly65Asp
+Chromosome	4078863	C	T	missense_variant	MODERATE	Rv3640c	p.Gly296Glu
+Chromosome	4081987	G	C	synonymous_variant	LOW	Rv3644c	p.Ala245Ala
+Chromosome	4081996	G	C	synonymous_variant	LOW	Rv3644c	p.Pro242Pro
+Chromosome	4083360	T	G	missense_variant	MODERATE	Rv3645	p.Ile185Ser
+Chromosome	4085200	G	C	missense_variant	MODERATE	topA	p.Asp686Glu
+Chromosome	4089058	T	C	missense_variant	MODERATE	Rv3649	p.Leu93Pro
+Chromosome	4093719	G	A	missense_variant	MODERATE	PE_PGRS60	p.Ala30Thr
+Chromosome	4095001	CG	C	frameshift_variant	HIGH	Rv3655c	p.Ser100fs
+Chromosome	4095295	T	C	synonymous_variant	LOW	Rv3655c	p.Glu2Glu
+Chromosome	4096190	G	A	synonymous_variant	LOW	Rv3658c	p.Ala250Ala
+Chromosome	4100975	T	C	upstream_gene_variant	MODIFIER	Rv3657c	
+Chromosome	4101018	C	T	upstream_gene_variant	MODIFIER	Rv3657c	
+Chromosome	4105757	C	T	missense_variant	MODERATE	dppA	p.Arg443Gln
+Chromosome	4106154	C	T	missense_variant	MODERATE	dppA	p.Glu311Lys
+Chromosome	4107074	T	C	missense_variant	MODERATE	dppA	p.Gln4Arg
+Chromosome	4107264	C	T	upstream_gene_variant	MODIFIER	dppD	
+Chromosome	4111303	G	C	synonymous_variant	LOW	Rv3669	p.Val159Val
+Chromosome	4112429	T	C	missense_variant	MODERATE	Rv3671c	p.Ile363Val
+Chromosome	4113833	C	T	synonymous_variant	LOW	Rv3672c	p.Pro170Pro
+Chromosome	4115001	G	C	missense_variant	MODERATE	Rv3673c	p.Arg53Gly
+Chromosome	4115029	G	A	synonymous_variant	LOW	Rv3673c	p.Asp43Asp
+Chromosome	4116682	T	C	synonymous_variant	LOW	crp	p.Leu69Leu
+Chromosome	4116758	C	T	missense_variant	MODERATE	crp	p.Thr94Ile
+Chromosome	4117161	C	A	upstream_gene_variant	MODIFIER	Rv3671c	
+Chromosome	4118620	G	T	missense_variant	MODERATE	Rv3678A	p.Asp24Glu
+Chromosome	4119246	T	C	synonymous_variant	LOW	Rv3679	p.Asp157Asp
+Chromosome	4120983	A	G	upstream_gene_variant	MODIFIER	Rv3677c	
+Chromosome	4123325	C	T	synonymous_variant	LOW	ponA2	p.Ala470Ala
+Chromosome	4126087	T	G	missense_variant	MODERATE	Rv3684	p.Ser217Ala
+Chromosome	4126530	G	A	upstream_gene_variant	MODIFIER	whiB4	
+Chromosome	4130711	G	C	missense_variant	MODERATE	Rv3689	p.Val119Leu
+Chromosome	4133907	G	A	missense_variant	MODERATE	moxR2	p.Arg131His
+Chromosome	4137190	T	C	upstream_gene_variant	MODIFIER	Rv3694c	
+Chromosome	4138377	A	G	missense_variant	MODERATE	glpK	p.Val460Ala
+Chromosome	4142689	G	A	missense_variant	MODERATE	Rv3699	p.Glu216Lys
+Chromosome	4145737	A	G	synonymous_variant	LOW	Rv3703c	p.Tyr385Tyr
+Chromosome	4150036	G	T	missense_variant	MODERATE	Rv3707c	p.Asp335Glu
+Chromosome	4151855	A	G	synonymous_variant	LOW	asd	p.Pro121Pro
+Chromosome	4155903	G	T	missense_variant	MODERATE	dnaQ	p.Ala276Glu
+Chromosome	4156099	C	A	missense_variant	MODERATE	dnaQ	p.Val211Leu
+Chromosome	4156239	A	G	missense_variant	MODERATE	dnaQ	p.Val164Ala
+Chromosome	4156503	C	T	missense_variant	MODERATE	dnaQ	p.Gly76Asp
+Chromosome	4158361	A	G	synonymous_variant	LOW	cobQ2	p.Pro45Pro
+Chromosome	4159195	T	C	synonymous_variant	LOW	Rv3714c	p.Pro209Pro
+Chromosome	4160533	TGCGCCCGGCGC	TGC	conservative_inframe_deletion	MODERATE	Rv3716c	p.Ala124_Gly126del
+Chromosome	4160536	G	A	synonymous_variant	LOW	Rv3716c	p.Gly126Gly
+Chromosome	4162339	A	G	missense_variant	MODERATE	Rv3719	p.Thr12Ala
+Chromosome	4163558	G	C	missense_variant	MODERATE	Rv3719	p.Ser418Thr
+Chromosome	4163954	T	C	synonymous_variant	LOW	Rv3720	p.Asp73Asp
+Chromosome	4165391	G	A	synonymous_variant	LOW	dnaZX	p.Thr447Thr
+Chromosome	4168213	C	T	upstream_gene_variant	MODIFIER	dnaZX	
+Chromosome	4169666	GTTT	GTT	frameshift_variant	HIGH	cut5a	p.Phe68fs
+Chromosome	4169719	C	T	synonymous_variant	LOW	cut5b	p.Ala38Ala
+Chromosome	4170964	G	GA	frameshift_variant	HIGH	Rv3725	p.Gly251fs
+Chromosome	4171454	G	A	missense_variant	MODERATE	Rv3726	p.Glu12Lys
+Chromosome	4179089	C	T	missense_variant	MODERATE	Rv3729	p.Pro269Ser
+Chromosome	4182695	G	A	missense_variant	MODERATE	ligC	p.Arg313His
+Chromosome	4187063	G	A	missense_variant	MODERATE	Rv3736	p.Gly144Arg
+Chromosome	4187485	T	C	synonymous_variant	LOW	Rv3736	p.Ala284Ala
+Chromosome	4187523	A	G	missense_variant	MODERATE	Rv3736	p.His297Arg
+Chromosome	4187817	A	G	missense_variant	MODERATE	Rv3737	p.Asp40Gly
+Chromosome	4189721	G	T	missense_variant	MODERATE	PPE66	p.Thr171Asn
+Chromosome	4190285	T	C	stop_lost&splice_region_variant	HIGH	PPE67	p.Ter78Trpext*?
+Chromosome	4190532	A	C	upstream_gene_variant	MODIFIER	tgs2	
+Chromosome	4190596	A	C	upstream_gene_variant	MODIFIER	tgs2	
+Chromosome	4195938	G	A	missense_variant	MODERATE	Rv3745c	p.Ser54Leu
+Chromosome	4197138	CTT	CTTT	upstream_gene_variant	MODIFIER	Rv3740c	
+Chromosome	4197189	A	G	upstream_gene_variant	MODIFIER	Rv3741c	
+Chromosome	4198611	CGGGGG	CGGGG	upstream_gene_variant	MODIFIER	ctpJ	
+Chromosome	4200220	A	G	start_lost	HIGH	Rv3753c	p.Met1?
+Chromosome	4201105	G	A	missense_variant	MODERATE	tyrA	p.Asp229Asn
+Chromosome	4202383	A	C	synonymous_variant	LOW	proZ	p.Val77Val
+Chromosome	4204441	A	G	synonymous_variant	LOW	proX	p.His311His
+Chromosome	4205120	A	G	missense_variant	MODERATE	proX	p.Leu85Pro
+Chromosome	4210274	A	G	missense_variant	MODERATE	tcrY	p.Cys246Arg
+Chromosome	4210876	T	C	missense_variant	MODERATE	tcrY	p.His45Arg
+Chromosome	4215484	G	C	missense_variant	MODERATE	Rv3770c	p.Pro98Ala
+Chromosome	4216255	C	G	synonymous_variant	LOW	Rv3770B	p.Arg5Arg
+Chromosome	4217557	A	G	missense_variant	MODERATE	hisC2	p.Thr142Ala
+Chromosome	4221490	C	G	synonymous_variant	LOW	Rv3776	p.Leu134Leu
+Chromosome	4222073	A	G	missense_variant	MODERATE	Rv3776	p.Met329Val
+Chromosome	4222882	A	G	synonymous_variant	LOW	Rv3777	p.Leu63Leu
+Chromosome	4223172	T	C	missense_variant	MODERATE	Rv3777	p.Val160Ala
+Chromosome	4231150	G	A	missense_variant	MODERATE	Rv3784	p.Gly299Ser
+Chromosome	4231530	C	A	synonymous_variant	LOW	Rv3785	p.Arg71Arg
+Chromosome	4232327	A	G	synonymous_variant	LOW	Rv3785	p.Arg336Arg
+Chromosome	4236844	G	A	missense_variant	MODERATE	dprE1	p.Ala356Thr
+Chromosome	4237383	C	A	synonymous_variant	LOW	dprE2	p.Thr73Thr
+Chromosome	4240671	C	T	missense_variant	MODERATE	embC	p.Thr270Ile
+Chromosome	4241042	A	G	missense_variant	MODERATE	embC	p.Asn394Asp
+Chromosome	4242643	C	T	synonymous_variant	LOW	embC	p.Arg927Arg
+Chromosome	4243580	G	A	synonymous_variant	LOW	embA	p.Val116Val
+Chromosome	4244420	G	C	synonymous_variant	LOW	embA	p.Val396Val
+Chromosome	4245969	C	T	missense_variant	MODERATE	embA	p.Pro913Ser
+Chromosome	4247578	G	A	synonymous_variant	LOW	embB	p.Leu355Leu
+Chromosome	4247646	A	C	missense_variant	MODERATE	embB	p.Glu378Ala
+Chromosome	4250966	G	A	missense_variant	MODERATE	Rv3796	p.Met363Ile
+Chromosome	4251297	G	C	synonymous_variant	LOW	fadE35	p.Gly71Gly
+Chromosome	4253290	C	G	missense_variant	MODERATE	Rv3798	p.Pro100Ala
+Chromosome	4253583	G	A	synonymous_variant	LOW	Rv3798	p.Lys197Lys
+Chromosome	4253838	G	A	synonymous_variant	LOW	Rv3798	p.Lys282Lys
+Chromosome	4254078	C	T	synonymous_variant	LOW	Rv3798	p.Arg362Arg
+Chromosome	4254265	A	G	missense_variant	MODERATE	Rv3798	p.Thr425Ala
+Chromosome	4254330	CCCAATTCGTACC	CCC	downstream_gene_variant	MODIFIER	embB	
+Chromosome	4254347	T	A	downstream_gene_variant	MODIFIER	embB	
+Chromosome	4255922	A	G	synonymous_variant	LOW	accD4	p.His9His
+Chromosome	4257220	A	G	synonymous_variant	LOW	pks13	p.Arg1309Arg
+Chromosome	4261499	G	A	missense_variant	MODERATE	fadD32	p.Ala523Val
+Chromosome	4263279	A	G	upstream_gene_variant	MODIFIER	pks13	
+Chromosome	4264560	G	A	upstream_gene_variant	MODIFIER	pks13	
+Chromosome	4269387	T	G	missense_variant	MODERATE	ubiA	p.Glu149Asp
+Chromosome	4269606	A	G	synonymous_variant	LOW	ubiA	p.Arg76Arg
+Chromosome	4269864	GCCCCC	GCCCC	frameshift_variant	HIGH	Rv3807c	p.Gly158fs
+Chromosome	4272715	G	A	missense_variant	MODERATE	glf	p.Ala254Val
+Chromosome	4275935	A	G	missense_variant	MODERATE	Rv3811	p.Met380Val
+Chromosome	4276306	C	T	synonymous_variant	LOW	Rv3811	p.Gly503Gly
+Chromosome	4277032	G	C	missense_variant	MODERATE	PE_PGRS62	p.Gln154His
+Chromosome	4280441	C	A	synonymous_variant	LOW	Rv3815c	p.Pro116Pro
+Chromosome	4281143	C	G	synonymous_variant	LOW	Rv3816c	p.Val143Val
+Chromosome	4281272	G	A	synonymous_variant	LOW	Rv3816c	p.Tyr100Tyr
+Chromosome	4287164	A	G	synonymous_variant	LOW	Rv3822	p.Gly148Gly
+Chromosome	4287361	C	T	missense_variant	MODERATE	Rv3822	p.Ala214Val
+Chromosome	4289953	A	G	missense_variant	MODERATE	mmpL8	p.Val526Ala
+Chromosome	4290564	G	T	synonymous_variant	LOW	mmpL8	p.Ala322Ala
+Chromosome	4290827	C	G	missense_variant	MODERATE	mmpL8	p.Gly235Arg
+Chromosome	4293107	G	A	missense_variant	MODERATE	papA1	p.Ser23Leu
+Chromosome	4296015	G	A	synonymous_variant	LOW	pks2	p.Asp1197Asp
+Chromosome	4296381	G	T	synonymous_variant	LOW	pks2	p.Thr1075Thr
+Chromosome	4299222	G	A	synonymous_variant	LOW	pks2	p.Ala128Ala
+Chromosome	4301972	C	T	missense_variant	MODERATE	Rv3827c	p.Arg273His
+Chromosome	4302036	T	C	missense_variant	MODERATE	Rv3827c	p.Thr252Ala
+Chromosome	4303407	A	C	missense_variant	MODERATE	Rv3829c	p.Ser534Arg
+Chromosome	4306155	C	T	synonymous_variant	LOW	Rv3831	p.Ser133Ser
+Chromosome	4306339	G	T	missense_variant	MODERATE	Rv3832c	p.Ala158Glu
+Chromosome	4307021	C	T	missense_variant	MODERATE	Rv3833	p.Pro52Leu
+Chromosome	4307179	G	A	missense_variant	MODERATE	Rv3833	p.Val105Ile
+Chromosome	4307344	C	G	missense_variant	MODERATE	Rv3833	p.Leu160Val
+Chromosome	4310743	TGG	TGGG	frameshift_variant	HIGH	Rv3836	p.Arg116fs
+Chromosome	4313128	C	T	missense_variant	MODERATE	Rv3839	p.Pro122Ser
+Chromosome	4314645	A	G	synonymous_variant	LOW	bfrB	p.Leu156Leu
+Chromosome	4314843	G	A	synonymous_variant	LOW	glpQ1	p.Asp240Asp
+Chromosome	4316566	C	G	missense_variant	MODERATE	Rv3843c	p.Gly11Arg
+Chromosome	4318420	GTTTT	GTTT	upstream_gene_variant	MODIFIER	glpQ1	
+Chromosome	4318425	C	G	upstream_gene_variant	MODIFIER	glpQ1	
+Chromosome	4318703	A	G	upstream_gene_variant	MODIFIER	glpQ1	
+Chromosome	4323006	G	A	synonymous_variant	LOW	Rv3848	p.Ala227Ala
+Chromosome	4323354	CGGGGGGG	CGGGGGG	upstream_gene_variant	MODIFIER	espR	
+Chromosome	4323437	C	T	upstream_gene_variant	MODIFIER	espR	
+Chromosome	4329782	G	A	upstream_gene_variant	MODIFIER	ethA	
+Chromosome	4334425	G	C	missense_variant	MODERATE	gltB	p.Gln553Glu
+Chromosome	4336597	C	A	upstream_gene_variant	MODIFIER	gltB	
+Chromosome	4336774	C	T	upstream_gene_variant	MODIFIER	gltB	
+Chromosome	4337574	A	G	synonymous_variant	LOW	Rv3860	p.Glu266Glu
+Chromosome	4338361	C	T	missense_variant	MODERATE	whiB6	p.Arg54Gln
+Chromosome	4338595	GC	G	upstream_gene_variant	MODIFIER	gltB	
+Chromosome	4338603	G	A	upstream_gene_variant	MODIFIER	gltB	
+Chromosome	4338732	G	A	upstream_gene_variant	MODIFIER	gltB	
+Chromosome	4339684	C	G	missense_variant	MODERATE	Rv3863	p.Pro279Arg
+Chromosome	4341396	AAGGCG	AAGGCGCGGCCGCAGGCG	disruptive_inframe_insertion	MODERATE	espE	p.Gly377_Val378insAlaAlaAlaGly
+Chromosome	4342326	G	T	synonymous_variant	LOW	espG1	p.Leu149Leu
+Chromosome	4344058	T	C	missense_variant	MODERATE	eccA1	p.Ser249Pro
+Chromosome	4345682	C	T	missense_variant	MODERATE	eccB1	p.Ser215Leu
+Chromosome	4348418	G	A	synonymous_variant	LOW	eccCa1	p.Leu646Leu
+Chromosome	4351039	G	T	stop_gained	HIGH	PE35	p.Glu99*
+Chromosome	4351759	G	C	missense_variant	MODERATE	PPE68	p.Val229Leu
+Chromosome	4354013	G	A	missense_variant	MODERATE	espI	p.Arg335His
+Chromosome	4354404	AGGG	AGG	frameshift_variant	HIGH	espI	p.Arg467fs
+Chromosome	4354462	TA	TAA	frameshift_variant&stop_gained	HIGH	espI	p.Tyr485fs
+Chromosome	4356110	G	C	synonymous_variant	LOW	eccD1	p.Leu368Leu
+Chromosome	4357597	C	G	missense_variant	MODERATE	espK	p.Cys729Ser
+Chromosome	4357773	G	A	synonymous_variant	LOW	espK	p.Thr670Thr
+Chromosome	4357946	C	T	missense_variant	MODERATE	espK	p.Gly613Ser
+Chromosome	4359165	G	C	synonymous_variant	LOW	espK	p.Thr206Thr
+Chromosome	4359177	TCCCGGTGTGCCCGGTGTGCCCGG	TCCCGGTGTGCCCGGTGTGCCCGGTGTGCCCGG	conservative_inframe_insertion	MODERATE	espK	p.Ser194_Pro195insProGlyThr
+Chromosome	4361141	G	A	missense_variant	MODERATE	espB	p.Thr262Ile
+Chromosome	4363171	C	T	missense_variant	MODERATE	eccE1	p.Gly84Arg
+Chromosome	4363243	A	C	missense_variant	MODERATE	eccE1	p.Trp60Gly
+Chromosome	4363484	ACCAACGCCA	ACCA	conservative_inframe_deletion	MODERATE	mycP1	p.Ala423_Leu424del
+Chromosome	4366195	T	C	missense_variant	MODERATE	eccA2	p.Glu215Gly
+Chromosome	4366272	G	C	synonymous_variant	LOW	eccA2	p.Ala189Ala
+Chromosome	4367090	G	A	stop_gained	HIGH	eccE2	p.Arg478*
+Chromosome	4367649	A	G	synonymous_variant	LOW	eccE2	p.Tyr291Tyr
+Chromosome	4369499	G	A	synonymous_variant	LOW	mycP2	p.Pro224Pro
+Chromosome	4372353	G	C	synonymous_variant	LOW	Rv3888c	p.Arg118Arg
+Chromosome	4374228	T	C	missense_variant	MODERATE	esxD	p.Thr49Ala
+Chromosome	4375318	G	A	synonymous_variant	LOW	PPE69	p.Asp122Asp
+Chromosome	4375628	G	T	missense_variant	MODERATE	PPE69	p.Thr19Lys
+Chromosome	4377033	G	C	synonymous_variant	LOW	eccC2	p.Ser1140Ser
+Chromosome	4379680	C	G	missense_variant	MODERATE	eccC2	p.Arg258Pro
+Chromosome	4382054	T	C	synonymous_variant	LOW	Rv3896c	p.Ala266Ala
+Chromosome	4382275	G	T	missense_variant	MODERATE	Rv3896c	p.Gln193Lys
+Chromosome	4383144	CC	CCGGGGC	frameshift_variant	HIGH	Rv3897c	p.Gly166fs
+Chromosome	4383442	T	C	missense_variant	MODERATE	Rv3897c	p.Ile67Val
+Chromosome	4383655	A	G	stop_lost&splice_region_variant	HIGH	Rv3898c	p.Ter111Glnext*?
+Chromosome	4384007	C	G	upstream_gene_variant	MODIFIER	eccC2	
+Chromosome	4385031	CGGGGGG	CGGGGG	frameshift_variant	HIGH	Rv3899c	p.Val117fs
+Chromosome	4385187	A	G	missense_variant	MODERATE	Rv3899c	p.Ser65Pro
+Chromosome	4386228	T	C	synonymous_variant	LOW	Rv3900c	p.Leu27Leu
+Chromosome	4390380	A	G	missense_variant	MODERATE	Rv3903c	p.Val18Ala
+Chromosome	4393178	A	G	upstream_gene_variant	MODIFIER	Rv3903c	
+Chromosome	4394210	G	C	missense_variant	MODERATE	Rv3909	p.Gly7Arg
+Chromosome	4395387	A	G	missense_variant	MODERATE	Rv3909	p.Asn399Ser
+Chromosome	4398732	G	A	synonymous_variant	LOW	Rv3910	p.Leu712Leu
+Chromosome	4399137	G	A	synonymous_variant	LOW	Rv3910	p.Leu847Leu
+Chromosome	4400660	ACCC	ACC	frameshift_variant	HIGH	sigM	p.Arg160fs
+Chromosome	4401400	A	G	synonymous_variant	LOW	Rv3912	p.Pro177Pro
+Chromosome	4407588	T	C	synonymous_variant	LOW	gid	p.Ala205Ala
+Chromosome	4407873	C	A	synonymous_variant	LOW	gid	p.Val110Val
+Chromosome	4408154	CAA	CA	frameshift_variant	HIGH	gid	p.Gly17fs
+Chromosome	4408920	A	G	upstream_gene_variant	MODIFIER	Rv3916c	
+Chromosome	4408923	C	T	upstream_gene_variant	MODIFIER	Rv3916c	
+Chromosome	4410386	G	T	synonymous_variant	LOW	Rv3922c	p.Arg10Arg
+Chromosome	4411016	G	A	upstream_gene_variant	MODIFIER	parB	
